@@ -1,0 +1,1786 @@
+Log file created at: 2025/03/06 10:20:38
+Running on machine: fury-desktop
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0306 10:20:38.446688 265228 misc.cc:223] Do INS mechanization with a long time 1.01059 s
+E0306 10:20:40.014297 265177 ic_gvins.cc:172] Lost IMU data with at 536532.697 dt 0.008
+E0306 10:20:40.014731 265177 ic_gvins.cc:182] Append extra IMU data at 536532.694433
+E0306 10:20:40.430445 265177 ic_gvins.cc:172] Lost IMU data with at 536533.113 dt 0.009
+E0306 10:20:40.430573 265177 ic_gvins.cc:182] Append extra IMU data at 536533.109360
+E0306 10:20:40.495117 265177 ic_gvins.cc:172] Lost IMU data with at 536533.177 dt 0.008
+E0306 10:20:40.495241 265177 ic_gvins.cc:182] Append extra IMU data at 536533.174364
+E0306 10:20:40.544306 265177 ic_gvins.cc:172] Lost IMU data with at 536533.227 dt 0.008
+E0306 10:20:40.544473 265177 ic_gvins.cc:182] Append extra IMU data at 536533.224364
+E0306 10:20:40.602314 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  1.84033  16.6099 -2.61401, R: 90.1726 -5.3023 90.2938
+E0306 10:20:40.715092 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  11.3042   16.726 0.465925, R:  87.4853 -16.4398  93.6999
+E0306 10:20:40.847929 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: 11.3027 11.8728  2.4008, R:  88.1255 -14.7832  93.4319
+E0306 10:20:40.936978 265177 ic_gvins.cc:172] Lost IMU data with at 536533.620 dt 0.010
+E0306 10:20:40.937093 265177 ic_gvins.cc:182] Append extra IMU data at 536533.614366
+E0306 10:20:40.949059 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: 8.03589 7.28429 2.96244, R:  89.3343 -15.8755  92.4961
+E0306 10:20:41.057462 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -1.10293 -2.82428 -6.62684, R:  90.7223 -1.49867  88.4707
+E0306 10:20:41.157528 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: 0.0893726  -20.9947  -2.33022, R: 91.4991 31.0363 89.6517
+E0306 10:20:41.233996 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -2.46588  -13.928 -3.51615, R: 91.3059 24.8379 88.8399
+E0306 10:20:41.348865 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  -1.55376  -4.47737 -0.728865, R: 91.2647 20.8239 88.7253
+E0306 10:20:41.447113 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -0.789873  -2.56508  -1.80665, R: 91.3092 24.1334 88.9484
+E0306 10:20:41.557075 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -3.82334 -1.83022   -1.026, R: 89.6184 26.3115 87.3508
+E0306 10:20:41.656265 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: 1.11298 -22.788 7.54945, R: 89.6229 4.34171 89.3596
+E0306 10:20:41.746488 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  1.95371 -17.2249 -3.20804, R: 89.3063 6.27205  89.762
+E0306 10:20:41.860668 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  3.76721 -18.9837 -5.21643, R: 88.7346 8.79669 90.2996
+E0306 10:20:41.972357 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -1.93197 -2.87585 -1.06155, R: 88.9034 20.9176 87.8038
+E0306 10:20:42.075992 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: 0.278843 -5.41733 -1.33372, R: 89.5601 13.8342 88.7774
+E0306 10:20:42.174840 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  2.31004 -5.90472 0.419153, R: 89.7122 8.83161 89.6442
+E0306 10:20:42.270133 265177 ic_gvins.cc:172] Lost IMU data with at 536534.953 dt 0.009
+E0306 10:20:42.270248 265177 ic_gvins.cc:182] Append extra IMU data at 536534.949365
+E0306 10:20:42.279502 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:   5.2974 -14.1878   6.3733, R: 89.6796 2.39124 90.9039
+E0306 10:20:42.351662 265177 ic_gvins.cc:172] Lost IMU data with at 536535.035 dt 0.010
+E0306 10:20:42.351783 265177 ic_gvins.cc:182] Append extra IMU data at 536535.029381
+E0306 10:20:42.392578 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  3.03368 -8.77409  6.09835, R: 90.0299 1.36757 90.6063
+E0306 10:20:42.488503 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -1.19893   3.0499 0.316531, R:  90.145 9.47608 88.8476
+E0306 10:20:42.586813 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  4.57401 -6.24143 0.412733, R: 89.8203 8.95329 90.9563
+E0306 10:20:42.696754 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  5.20625 -5.88261 -4.62058, R: 89.7724 10.7636 90.8518
+E0306 10:20:42.799057 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  7.20557 -9.29784 -3.09962, R:  89.694 10.5127 91.4859
+E0306 10:20:42.913592 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  6.06734 -14.2762  1.55874, R:  89.054 10.9112 91.0002
+E0306 10:20:43.000398 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -0.0647726   -6.80423   -0.17069, R: 89.0997 13.4172 88.8883
+E0306 10:20:43.078922 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: 0.0203839  -7.08607  -2.82377, R: 89.2817 6.22385 89.0446
+E0306 10:20:43.154044 265177 ic_gvins.cc:172] Lost IMU data with at 536535.837 dt 0.008
+E0306 10:20:43.154186 265177 ic_gvins.cc:182] Append extra IMU data at 536535.834367
+E0306 10:20:43.191426 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -1.22503 -9.06818 -5.40662, R:  89.7131 0.239361  88.5358
+E0306 10:20:43.298022 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  0.27597 -10.3411 -5.16427, R:  89.7777 -1.64797    88.95
+E0306 10:20:43.315603 265177 ic_gvins.cc:172] Lost IMU data with at 536535.999 dt 0.009
+E0306 10:20:43.315744 265177 ic_gvins.cc:182] Append extra IMU data at 536535.994379
+E0306 10:20:43.405176 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  2.98835 -13.4173 -3.72507, R:  89.645 3.57265 89.4128
+E0306 10:20:43.487169 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  5.03689 -13.0229  -4.5781, R: 89.8244  3.4669 90.8772
+E0306 10:20:43.590034 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  4.08102 -9.33861 -2.96332, R: 89.6634 6.34788  90.197
+E0306 10:20:43.694702 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  4.42529 -10.4653 -3.39124, R: 89.6912  6.1509  90.398
+E0306 10:20:43.811661 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: 4.30423 -10.496 -2.4732, R: 89.7228 5.96153 90.4582
+E0306 10:20:43.900578 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  4.20629 -10.6003 -1.68799, R: 89.6813 11.5055 90.8354
+E0306 10:20:43.901304 265177 ic_gvins.cc:172] Lost IMU data with at 536536.584 dt 0.014
+E0306 10:20:43.901383 265177 ic_gvins.cc:182] Append extra IMU data at 536536.574365
+E0306 10:20:43.901407 265177 ic_gvins.cc:182] Append extra IMU data at 536536.579365
+E0306 10:20:44.004763 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  4.61619 -13.1645 -3.85538, R: 89.8716 7.58494  91.181
+E0306 10:20:44.101048 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:   5.4126 -14.2716 -2.03519, R: 89.9499 8.38708 91.4711
+E0306 10:20:44.197192 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  5.79713 -13.1691 -3.02086, R: 89.9416  5.1607 91.3266
+E0306 10:20:44.303804 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  4.63984 -11.9335 -3.96538, R: 90.0366 7.65679 91.2326
+E0306 10:20:44.401574 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  5.12117 -11.7193 -2.08562, R: 89.9978  5.6526 91.3287
+E0306 10:20:44.519555 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  3.65624 -11.3705 -2.04622, R: 90.3855 7.28163 91.4037
+E0306 10:20:44.591251 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  3.79983 -11.0258 -3.09506, R: 90.4014 7.24808 91.4695
+E0306 10:20:44.690542 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  3.50014 -12.0543 -3.39082, R: 90.3266 7.14959 91.3375
+E0306 10:20:44.795727 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  3.25182 -8.92859 -1.63258, R: 90.3468 6.95912 91.3566
+E0306 10:20:44.891111 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  2.39037 -5.49962 0.388355, R: 90.3896 7.20806 91.1447
+E0306 10:20:44.999174 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  1.49087 -4.57615 0.189949, R: 90.4152 7.31124 90.9141
+E0306 10:20:45.089927 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: 0.047441 -3.62808  -1.1567, R: 90.4258 7.08302 90.5881
+E0306 10:20:45.206246 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -0.0426434   -2.82035  -0.923984, R: 90.4345 8.03989 90.5945
+E0306 10:20:45.289390 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:   1.06749  -2.78305 -0.355738, R: 90.4469 8.44736 90.9158
+E0306 10:20:45.404028 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:  0.554266  -3.01885 -0.261811, R: 90.4459 7.07057 90.8673
+E0306 10:20:45.494894 265177 ic_gvins.cc:172] Lost IMU data with at 536538.178 dt 0.008
+E0306 10:20:45.495025 265177 ic_gvins.cc:182] Append extra IMU data at 536538.174373
+E0306 10:20:45.495393 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -0.281575  -1.50244  0.871761, R: 89.9796 4.48661 91.1032
+E0306 10:20:45.608392 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -0.49237 -1.05452 0.677827, R: 89.9942 6.03722 90.8378
+E0306 10:20:45.692772 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -0.819261 -0.972138   1.22102, R: 89.9051 7.45195  90.615
+E0306 10:20:45.788542 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -0.401467 -0.860476   1.00748, R: 89.9895 6.86286 90.7727
+E0306 10:20:45.890987 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t: -0.269284 -0.833643  0.501388, R: 89.9989  6.6151 90.7824
+E0306 10:20:45.995877 265230 ic_gvins.cc:1324] Estimated extrinsic is too large, t:   -0.4837 -0.931035  0.238185, R:  89.983 6.58525 90.6798
+E0306 10:20:46.143203 265177 ic_gvins.cc:172] Lost IMU data with at 536538.825 dt 0.010
+E0306 10:20:46.143339 265177 ic_gvins.cc:182] Append extra IMU data at 536538.819405
+E0306 10:20:46.350353 265177 ic_gvins.cc:172] Lost IMU data with at 536539.029 dt 0.010
+E0306 10:20:46.350484 265177 ic_gvins.cc:182] Append extra IMU data at 536539.024361
+E0306 10:20:46.411387 265177 ic_gvins.cc:172] Lost IMU data with at 536539.094 dt 0.010
+E0306 10:20:46.411486 265177 ic_gvins.cc:182] Append extra IMU data at 536539.089387
+E0306 10:20:46.444463 265177 ic_gvins.cc:172] Lost IMU data with at 536539.128 dt 0.008
+E0306 10:20:46.444591 265177 ic_gvins.cc:182] Append extra IMU data at 536539.124365
+E0306 10:20:46.718897 265177 ic_gvins.cc:172] Lost IMU data with at 536539.402 dt 0.008
+E0306 10:20:46.719003 265177 ic_gvins.cc:182] Append extra IMU data at 536539.399379
+E0306 10:20:47.337220 265177 ic_gvins.cc:172] Lost IMU data with at 536540.020 dt 0.011
+E0306 10:20:47.337319 265177 ic_gvins.cc:182] Append extra IMU data at 536540.014379
+E0306 10:20:47.486367 265177 ic_gvins.cc:172] Lost IMU data with at 536540.169 dt 0.010
+E0306 10:20:47.486495 265177 ic_gvins.cc:182] Append extra IMU data at 536540.164724
+E0306 10:20:47.888751 265177 ic_gvins.cc:172] Lost IMU data with at 536540.572 dt 0.012
+E0306 10:20:47.888901 265177 ic_gvins.cc:182] Append extra IMU data at 536540.564372
+E0306 10:20:48.110321 265177 ic_gvins.cc:172] Lost IMU data with at 536540.793 dt 0.009
+E0306 10:20:48.110446 265177 ic_gvins.cc:182] Append extra IMU data at 536540.789380
+E0306 10:20:48.352223 265177 ic_gvins.cc:172] Lost IMU data with at 536541.033 dt 0.009
+E0306 10:20:48.352352 265177 ic_gvins.cc:182] Append extra IMU data at 536541.029391
+E0306 10:20:48.512524 265177 ic_gvins.cc:172] Lost IMU data with at 536541.194 dt 0.010
+E0306 10:20:48.512656 265177 ic_gvins.cc:182] Append extra IMU data at 536541.189385
+E0306 10:20:49.584422 265177 ic_gvins.cc:172] Lost IMU data with at 536542.268 dt 0.013
+E0306 10:20:49.584585 265177 ic_gvins.cc:182] Append extra IMU data at 536542.259370
+E0306 10:20:49.584637 265177 ic_gvins.cc:182] Append extra IMU data at 536542.264370
+E0306 10:20:49.741665 265177 ic_gvins.cc:172] Lost IMU data with at 536542.425 dt 0.010
+E0306 10:20:49.741788 265177 ic_gvins.cc:182] Append extra IMU data at 536542.419372
+E0306 10:20:49.890156 265177 ic_gvins.cc:172] Lost IMU data with at 536542.573 dt 0.009
+E0306 10:20:49.890295 265177 ic_gvins.cc:182] Append extra IMU data at 536542.569381
+E0306 10:20:49.995009 265177 ic_gvins.cc:172] Lost IMU data with at 536542.677 dt 0.008
+E0306 10:20:49.995172 265177 ic_gvins.cc:182] Append extra IMU data at 536542.674775
+E0306 10:20:50.093331 265177 ic_gvins.cc:172] Lost IMU data with at 536542.776 dt 0.012
+E0306 10:20:50.093452 265177 ic_gvins.cc:182] Append extra IMU data at 536542.769374
+E0306 10:20:50.586222 265177 ic_gvins.cc:172] Lost IMU data with at 536543.269 dt 0.010
+E0306 10:20:50.586340 265177 ic_gvins.cc:182] Append extra IMU data at 536543.264374
+E0306 10:20:50.621052 265177 ic_gvins.cc:172] Lost IMU data with at 536543.298 dt 0.009
+E0306 10:20:50.621199 265177 ic_gvins.cc:182] Append extra IMU data at 536543.294385
+E0306 10:20:52.022418 265177 ic_gvins.cc:172] Lost IMU data with at 536544.705 dt 0.016
+E0306 10:20:52.022553 265177 ic_gvins.cc:182] Append extra IMU data at 536544.694372
+E0306 10:20:52.022572 265177 ic_gvins.cc:182] Append extra IMU data at 536544.699372
+E0306 10:20:53.590296 265177 ic_gvins.cc:172] Lost IMU data with at 536546.273 dt 0.008
+E0306 10:20:53.590430 265177 ic_gvins.cc:182] Append extra IMU data at 536546.270205
+E0306 10:20:53.693051 265177 ic_gvins.cc:172] Lost IMU data with at 536546.373 dt 0.008
+E0306 10:20:53.693178 265177 ic_gvins.cc:182] Append extra IMU data at 536546.370357
+E0306 10:20:54.395488 265177 ic_gvins.cc:172] Lost IMU data with at 536547.078 dt 0.008
+E0306 10:20:54.395680 265177 ic_gvins.cc:182] Append extra IMU data at 536547.075189
+E0306 10:20:55.196012 265177 ic_gvins.cc:172] Lost IMU data with at 536547.877 dt 0.012
+E0306 10:20:55.196141 265177 ic_gvins.cc:182] Append extra IMU data at 536547.870191
+E0306 10:20:55.202298 265177 ic_gvins.cc:172] Lost IMU data with at 536547.885 dt 0.008
+E0306 10:20:55.202418 265177 ic_gvins.cc:182] Append extra IMU data at 536547.882415
+E0306 10:20:55.402704 265177 ic_gvins.cc:172] Lost IMU data with at 536548.085 dt 0.015
+E0306 10:20:55.402875 265177 ic_gvins.cc:182] Append extra IMU data at 536548.075214
+E0306 10:20:55.402899 265177 ic_gvins.cc:182] Append extra IMU data at 536548.080214
+E0306 10:20:56.685787 265177 ic_gvins.cc:172] Lost IMU data with at 536549.369 dt 0.008
+E0306 10:20:56.685923 265177 ic_gvins.cc:182] Append extra IMU data at 536549.365533
+E0306 10:20:56.801862 265177 ic_gvins.cc:172] Lost IMU data with at 536549.485 dt 0.009
+E0306 10:20:56.801964 265177 ic_gvins.cc:182] Append extra IMU data at 536549.480550
+E0306 10:20:57.194134 265177 ic_gvins.cc:172] Lost IMU data with at 536549.864 dt 0.008
+E0306 10:20:57.194250 265177 ic_gvins.cc:182] Append extra IMU data at 536549.860539
+E0306 10:20:57.385412 265177 ic_gvins.cc:172] Lost IMU data with at 536550.068 dt 0.008
+E0306 10:20:57.385517 265177 ic_gvins.cc:182] Append extra IMU data at 536550.065547
+E0306 10:20:57.484989 265177 ic_gvins.cc:172] Lost IMU data with at 536550.168 dt 0.008
+E0306 10:20:57.485101 265177 ic_gvins.cc:182] Append extra IMU data at 536550.165556
+E0306 10:20:57.994329 265177 ic_gvins.cc:172] Lost IMU data with at 536550.677 dt 0.012
+E0306 10:20:57.994442 265177 ic_gvins.cc:182] Append extra IMU data at 536550.670534
+E0306 10:20:58.702281 265177 ic_gvins.cc:172] Lost IMU data with at 536551.385 dt 0.010
+E0306 10:20:58.702407 265177 ic_gvins.cc:182] Append extra IMU data at 536551.380551
+E0306 10:20:59.756616 265177 ic_gvins.cc:172] Lost IMU data with at 536552.437 dt 0.012
+E0306 10:20:59.756747 265177 ic_gvins.cc:182] Append extra IMU data at 536552.430525
+E0306 10:21:00.065762 265177 ic_gvins.cc:172] Lost IMU data with at 536552.749 dt 0.008
+E0306 10:21:00.065894 265177 ic_gvins.cc:182] Append extra IMU data at 536552.745551
+E0306 10:21:02.031605 265177 ic_gvins.cc:172] Lost IMU data with at 536554.715 dt 0.009
+E0306 10:21:02.031728 265177 ic_gvins.cc:182] Append extra IMU data at 536554.710530
+E0306 10:21:02.300957 265177 ic_gvins.cc:172] Lost IMU data with at 536554.984 dt 0.008
+E0306 10:21:02.301087 265177 ic_gvins.cc:182] Append extra IMU data at 536554.980539
+E0306 10:21:02.422544 265177 ic_gvins.cc:172] Lost IMU data with at 536555.105 dt 0.009
+E0306 10:21:02.422703 265177 ic_gvins.cc:182] Append extra IMU data at 536555.100546
+E0306 10:21:02.486487 265177 ic_gvins.cc:172] Lost IMU data with at 536555.169 dt 0.009
+E0306 10:21:02.486660 265177 ic_gvins.cc:182] Append extra IMU data at 536555.165530
+E0306 10:21:02.952692 265177 ic_gvins.cc:172] Lost IMU data with at 536555.636 dt 0.010
+E0306 10:21:02.952817 265177 ic_gvins.cc:182] Append extra IMU data at 536555.630518
+E0306 10:21:03.062525 265177 ic_gvins.cc:172] Lost IMU data with at 536555.745 dt 0.010
+E0306 10:21:03.062657 265177 ic_gvins.cc:182] Append extra IMU data at 536555.740710
+E0306 10:21:03.198524 265177 ic_gvins.cc:172] Lost IMU data with at 536555.881 dt 0.011
+E0306 10:21:03.198665 265177 ic_gvins.cc:182] Append extra IMU data at 536555.875548
+E0306 10:21:03.555647 265177 ic_gvins.cc:172] Lost IMU data with at 536556.239 dt 0.008
+E0306 10:21:03.555765 265177 ic_gvins.cc:182] Append extra IMU data at 536556.235532
+E0306 10:21:04.070186 265177 ic_gvins.cc:172] Lost IMU data with at 536556.753 dt 0.008
+E0306 10:21:04.070374 265177 ic_gvins.cc:182] Append extra IMU data at 536556.750544
+E0306 10:21:04.092702 265177 ic_gvins.cc:172] Lost IMU data with at 536556.776 dt 0.010
+E0306 10:21:04.092823 265177 ic_gvins.cc:182] Append extra IMU data at 536556.770530
+E0306 10:21:04.112332 265177 ic_gvins.cc:172] Lost IMU data with at 536556.796 dt 0.010
+E0306 10:21:04.112449 265177 ic_gvins.cc:182] Append extra IMU data at 536556.790534
+E0306 10:21:06.105464 265177 ic_gvins.cc:172] Lost IMU data with at 536558.788 dt 0.008
+E0306 10:21:06.105684 265177 ic_gvins.cc:182] Append extra IMU data at 536558.785544
+E0306 10:21:06.291558 265177 ic_gvins.cc:172] Lost IMU data with at 536558.973 dt 0.008
+E0306 10:21:06.291683 265177 ic_gvins.cc:182] Append extra IMU data at 536558.970518
+E0306 10:21:06.372650 265177 ic_gvins.cc:172] Lost IMU data with at 536559.053 dt 0.008
+E0306 10:21:06.372745 265177 ic_gvins.cc:182] Append extra IMU data at 536559.050537
+E0306 10:21:09.423686 265177 ic_gvins.cc:172] Lost IMU data with at 536562.105 dt 0.010
+E0306 10:21:09.423817 265177 ic_gvins.cc:182] Append extra IMU data at 536562.100543
+E0306 10:21:09.598870 265177 ic_gvins.cc:172] Lost IMU data with at 536562.282 dt 0.016
+E0306 10:21:09.599167 265177 ic_gvins.cc:182] Append extra IMU data at 536562.270531
+E0306 10:21:09.599203 265177 ic_gvins.cc:182] Append extra IMU data at 536562.275531
+E0306 10:21:09.671205 265177 ic_gvins.cc:172] Lost IMU data with at 536562.353 dt 0.016
+E0306 10:21:09.671360 265177 ic_gvins.cc:182] Append extra IMU data at 536562.341963
+E0306 10:21:09.671392 265177 ic_gvins.cc:182] Append extra IMU data at 536562.346963
+E0306 10:21:09.866039 265177 ic_gvins.cc:172] Lost IMU data with at 536562.549 dt 0.010
+E0306 10:21:09.866180 265177 ic_gvins.cc:182] Append extra IMU data at 536562.543497
+E0306 10:21:10.370281 265177 ic_gvins.cc:172] Lost IMU data with at 536563.052 dt 0.014
+E0306 10:21:10.370436 265177 ic_gvins.cc:182] Append extra IMU data at 536563.043493
+E0306 10:21:10.370457 265177 ic_gvins.cc:182] Append extra IMU data at 536563.048493
+E0306 10:21:10.568326 265177 ic_gvins.cc:172] Lost IMU data with at 536563.249 dt 0.016
+E0306 10:21:10.568446 265177 ic_gvins.cc:182] Append extra IMU data at 536563.238488
+E0306 10:21:10.568466 265177 ic_gvins.cc:182] Append extra IMU data at 536563.243488
+E0306 10:21:11.330688 265177 ic_gvins.cc:172] Lost IMU data with at 536564.013 dt 0.009
+E0306 10:21:11.330796 265177 ic_gvins.cc:182] Append extra IMU data at 536564.009510
+E0306 10:21:11.346486 265177 ic_gvins.cc:172] Lost IMU data with at 536564.025 dt 0.008
+E0306 10:21:11.346607 265177 ic_gvins.cc:182] Append extra IMU data at 536564.022377
+E0306 10:21:11.435276 265177 ic_gvins.cc:172] Lost IMU data with at 536564.117 dt 0.008
+E0306 10:21:11.435410 265177 ic_gvins.cc:182] Append extra IMU data at 536564.114507
+E0306 10:21:12.095108 265177 ic_gvins.cc:172] Lost IMU data with at 536564.777 dt 0.008
+E0306 10:21:12.095296 265177 ic_gvins.cc:182] Append extra IMU data at 536564.774630
+E0306 10:21:12.422319 265177 ic_gvins.cc:172] Lost IMU data with at 536565.105 dt 0.011
+E0306 10:21:12.422559 265177 ic_gvins.cc:182] Append extra IMU data at 536565.099496
+E0306 10:21:12.469543 265177 ic_gvins.cc:172] Lost IMU data with at 536565.153 dt 0.008
+E0306 10:21:12.469673 265177 ic_gvins.cc:182] Append extra IMU data at 536565.149499
+E0306 10:21:13.362290 265177 ic_gvins.cc:172] Lost IMU data with at 536566.045 dt 0.016
+E0306 10:21:13.362414 265177 ic_gvins.cc:182] Append extra IMU data at 536566.034494
+E0306 10:21:13.362433 265177 ic_gvins.cc:182] Append extra IMU data at 536566.039494
+E0306 10:21:13.375195 265177 ic_gvins.cc:172] Lost IMU data with at 536566.057 dt 0.012
+E0306 10:21:13.375314 265177 ic_gvins.cc:182] Append extra IMU data at 536566.050406
+E0306 10:21:13.672741 265177 ic_gvins.cc:172] Lost IMU data with at 536566.353 dt 0.018
+E0306 10:21:13.672889 265177 ic_gvins.cc:182] Append extra IMU data at 536566.340489
+E0306 10:21:13.672920 265177 ic_gvins.cc:182] Append extra IMU data at 536566.345489
+E0306 10:21:13.672945 265177 ic_gvins.cc:182] Append extra IMU data at 536566.350489
+E0306 10:21:13.706708 265177 ic_gvins.cc:172] Lost IMU data with at 536566.389 dt 0.011
+E0306 10:21:13.706866 265177 ic_gvins.cc:182] Append extra IMU data at 536566.383500
+E0306 10:21:14.097100 265177 ic_gvins.cc:172] Lost IMU data with at 536566.780 dt 0.012
+E0306 10:21:14.097232 265177 ic_gvins.cc:182] Append extra IMU data at 536566.773495
+E0306 10:21:14.534420 265177 ic_gvins.cc:172] Lost IMU data with at 536567.216 dt 0.008
+E0306 10:21:14.534528 265177 ic_gvins.cc:182] Append extra IMU data at 536567.213501
+E0306 10:21:14.773888 265177 ic_gvins.cc:172] Lost IMU data with at 536567.457 dt 0.008
+E0306 10:21:14.773994 265177 ic_gvins.cc:182] Append extra IMU data at 536567.453500
+E0306 10:21:14.934525 265177 ic_gvins.cc:172] Lost IMU data with at 536567.617 dt 0.014
+E0306 10:21:14.934618 265177 ic_gvins.cc:182] Append extra IMU data at 536567.608791
+E0306 10:21:14.934650 265177 ic_gvins.cc:182] Append extra IMU data at 536567.613791
+E0306 10:21:16.033247 265177 ic_gvins.cc:172] Lost IMU data with at 536568.716 dt 0.008
+E0306 10:21:16.033377 265177 ic_gvins.cc:182] Append extra IMU data at 536568.713497
+E0306 10:21:16.070676 265177 ic_gvins.cc:172] Lost IMU data with at 536568.753 dt 0.025
+E0306 10:21:16.070793 265177 ic_gvins.cc:182] Append extra IMU data at 536568.733493
+E0306 10:21:16.070814 265177 ic_gvins.cc:182] Append extra IMU data at 536568.738493
+E0306 10:21:16.070833 265177 ic_gvins.cc:182] Append extra IMU data at 536568.743493
+E0306 10:21:16.070847 265177 ic_gvins.cc:182] Append extra IMU data at 536568.748493
+E0306 10:21:16.770556 265177 ic_gvins.cc:172] Lost IMU data with at 536569.453 dt 0.020
+E0306 10:21:16.770700 265177 ic_gvins.cc:182] Append extra IMU data at 536569.438522
+E0306 10:21:16.770727 265177 ic_gvins.cc:182] Append extra IMU data at 536569.443522
+E0306 10:21:16.770742 265177 ic_gvins.cc:182] Append extra IMU data at 536569.448522
+E0306 10:21:16.866566 265177 ic_gvins.cc:172] Lost IMU data with at 536569.549 dt 0.016
+E0306 10:21:16.866699 265177 ic_gvins.cc:182] Append extra IMU data at 536569.538503
+E0306 10:21:16.866726 265177 ic_gvins.cc:182] Append extra IMU data at 536569.543503
+E0306 10:21:16.963516 265177 ic_gvins.cc:172] Lost IMU data with at 536569.645 dt 0.011
+E0306 10:21:16.963642 265177 ic_gvins.cc:182] Append extra IMU data at 536569.639513
+E0306 10:21:17.500334 265177 ic_gvins.cc:172] Lost IMU data with at 536570.183 dt 0.008
+E0306 10:21:17.500463 265177 ic_gvins.cc:182] Append extra IMU data at 536570.179490
+E0306 10:21:17.694164 265177 ic_gvins.cc:172] Lost IMU data with at 536570.377 dt 0.008
+E0306 10:21:17.694298 265177 ic_gvins.cc:182] Append extra IMU data at 536570.374502
+E0306 10:21:17.862531 265177 ic_gvins.cc:172] Lost IMU data with at 536570.544 dt 0.009
+E0306 10:21:17.862627 265177 ic_gvins.cc:182] Append extra IMU data at 536570.539508
+E0306 10:21:17.904649 265177 ic_gvins.cc:172] Lost IMU data with at 536570.587 dt 0.008
+E0306 10:21:17.904798 265177 ic_gvins.cc:182] Append extra IMU data at 536570.584504
+E0306 10:21:17.990252 265177 ic_gvins.cc:172] Lost IMU data with at 536570.673 dt 0.014
+E0306 10:21:17.990409 265177 ic_gvins.cc:182] Append extra IMU data at 536570.664502
+E0306 10:21:17.990438 265177 ic_gvins.cc:182] Append extra IMU data at 536570.669502
+E0306 10:21:19.130264 265177 ic_gvins.cc:172] Lost IMU data with at 536571.813 dt 0.009
+E0306 10:21:19.130373 265177 ic_gvins.cc:182] Append extra IMU data at 536571.809500
+E0306 10:21:19.867856 265177 ic_gvins.cc:172] Lost IMU data with at 536572.545 dt 0.015
+E0306 10:21:19.867988 265177 ic_gvins.cc:182] Append extra IMU data at 536572.534500
+E0306 10:21:19.868009 265177 ic_gvins.cc:182] Append extra IMU data at 536572.539500
+E0306 10:21:19.871376 265177 ic_gvins.cc:172] Lost IMU data with at 536572.553 dt 0.008
+E0306 10:21:19.871479 265177 ic_gvins.cc:182] Append extra IMU data at 536572.550024
+E0306 10:21:22.171152 265177 ic_gvins.cc:172] Lost IMU data with at 536574.853 dt 0.013
+E0306 10:21:22.171280 265177 ic_gvins.cc:182] Append extra IMU data at 536574.845094
+E0306 10:21:22.171311 265177 ic_gvins.cc:182] Append extra IMU data at 536574.850094
+E0306 10:21:23.490571 265177 ic_gvins.cc:172] Lost IMU data with at 536576.173 dt 0.008
+E0306 10:21:23.490691 265177 ic_gvins.cc:182] Append extra IMU data at 536576.170107
+E0306 10:21:23.862360 265177 ic_gvins.cc:172] Lost IMU data with at 536576.545 dt 0.010
+E0306 10:21:23.862490 265177 ic_gvins.cc:182] Append extra IMU data at 536576.540114
+E0306 10:21:23.958596 265177 ic_gvins.cc:172] Lost IMU data with at 536576.641 dt 0.011
+E0306 10:21:23.958719 265177 ic_gvins.cc:182] Append extra IMU data at 536576.635099
+E0306 10:21:25.667812 265177 ic_gvins.cc:172] Lost IMU data with at 536578.349 dt 0.009
+E0306 10:21:25.667944 265177 ic_gvins.cc:182] Append extra IMU data at 536578.345209
+E0306 10:21:25.860327 265177 ic_gvins.cc:172] Lost IMU data with at 536578.543 dt 0.008
+E0306 10:21:25.860462 265177 ic_gvins.cc:182] Append extra IMU data at 536578.540102
+E0306 10:21:26.930506 265177 ic_gvins.cc:172] Lost IMU data with at 536579.613 dt 0.008
+E0306 10:21:26.930631 265177 ic_gvins.cc:182] Append extra IMU data at 536579.610107
+E0306 10:21:27.558390 265177 ic_gvins.cc:172] Lost IMU data with at 536580.241 dt 0.011
+E0306 10:21:27.558527 265177 ic_gvins.cc:182] Append extra IMU data at 536580.235108
+E0306 10:21:28.055194 265177 ic_gvins.cc:172] Lost IMU data with at 536580.738 dt 0.008
+E0306 10:21:28.055339 265177 ic_gvins.cc:182] Append extra IMU data at 536580.735092
+E0306 10:21:28.170456 265177 ic_gvins.cc:172] Lost IMU data with at 536580.849 dt 0.019
+E0306 10:21:28.170570 265177 ic_gvins.cc:182] Append extra IMU data at 536580.835081
+E0306 10:21:28.170589 265177 ic_gvins.cc:182] Append extra IMU data at 536580.840081
+E0306 10:21:28.170604 265177 ic_gvins.cc:182] Append extra IMU data at 536580.845081
+E0306 10:21:28.173946 265177 ic_gvins.cc:172] Lost IMU data with at 536580.857 dt 0.008
+E0306 10:21:28.174017 265177 ic_gvins.cc:182] Append extra IMU data at 536580.854390
+E0306 10:21:28.737560 265177 ic_gvins.cc:172] Lost IMU data with at 536581.420 dt 0.011
+E0306 10:21:28.737695 265177 ic_gvins.cc:182] Append extra IMU data at 536581.414472
+E0306 10:21:28.766311 265177 ic_gvins.cc:172] Lost IMU data with at 536581.449 dt 0.008
+E0306 10:21:28.766430 265177 ic_gvins.cc:182] Append extra IMU data at 536581.446522
+E0306 10:21:29.217511 265177 ic_gvins.cc:172] Lost IMU data with at 536581.888 dt 0.008
+E0306 10:21:29.217612 265177 ic_gvins.cc:182] Append extra IMU data at 536581.884467
+E0306 10:21:29.267316 265177 ic_gvins.cc:172] Lost IMU data with at 536581.948 dt 0.014
+E0306 10:21:29.267448 265177 ic_gvins.cc:182] Append extra IMU data at 536581.939473
+E0306 10:21:29.267469 265177 ic_gvins.cc:182] Append extra IMU data at 536581.944473
+E0306 10:21:29.276005 265177 ic_gvins.cc:172] Lost IMU data with at 536581.959 dt 0.011
+E0306 10:21:29.276134 265177 ic_gvins.cc:182] Append extra IMU data at 536581.953286
+E0306 10:21:29.365483 265177 ic_gvins.cc:172] Lost IMU data with at 536582.048 dt 0.014
+E0306 10:21:29.365622 265177 ic_gvins.cc:182] Append extra IMU data at 536582.039480
+E0306 10:21:29.365680 265177 ic_gvins.cc:182] Append extra IMU data at 536582.044480
+E0306 10:21:29.562479 265177 ic_gvins.cc:172] Lost IMU data with at 536582.245 dt 0.011
+E0306 10:21:29.562610 265177 ic_gvins.cc:182] Append extra IMU data at 536582.239489
+E0306 10:21:29.970443 265177 ic_gvins.cc:172] Lost IMU data with at 536582.653 dt 0.014
+E0306 10:21:29.970578 265177 ic_gvins.cc:182] Append extra IMU data at 536582.644474
+E0306 10:21:29.970602 265177 ic_gvins.cc:182] Append extra IMU data at 536582.649474
+E0306 10:21:30.366427 265177 ic_gvins.cc:172] Lost IMU data with at 536583.049 dt 0.010
+E0306 10:21:30.366556 265177 ic_gvins.cc:182] Append extra IMU data at 536583.044474
+E0306 10:21:31.517505 265177 ic_gvins.cc:172] Lost IMU data with at 536584.198 dt 0.009
+E0306 10:21:31.517653 265177 ic_gvins.cc:182] Append extra IMU data at 536584.194473
+E0306 10:21:31.561848 265177 ic_gvins.cc:172] Lost IMU data with at 536584.245 dt 0.010
+E0306 10:21:31.561985 265177 ic_gvins.cc:182] Append extra IMU data at 536584.239485
+E0306 10:21:32.598421 265177 ic_gvins.cc:172] Lost IMU data with at 536585.281 dt 0.012
+E0306 10:21:32.598649 265177 ic_gvins.cc:182] Append extra IMU data at 536585.274471
+E0306 10:21:33.469621 265177 ic_gvins.cc:172] Lost IMU data with at 536586.152 dt 0.008
+E0306 10:21:33.469749 265177 ic_gvins.cc:182] Append extra IMU data at 536586.149469
+E0306 10:21:33.575348 265177 ic_gvins.cc:172] Lost IMU data with at 536586.257 dt 0.008
+E0306 10:21:33.575477 265177 ic_gvins.cc:182] Append extra IMU data at 536586.254465
+E0306 10:21:34.874608 265177 ic_gvins.cc:172] Lost IMU data with at 536587.557 dt 0.010
+E0306 10:21:34.874740 265177 ic_gvins.cc:182] Append extra IMU data at 536587.551920
+E0306 10:21:35.126868 265177 ic_gvins.cc:172] Lost IMU data with at 536587.810 dt 0.011
+E0306 10:21:35.127045 265177 ic_gvins.cc:182] Append extra IMU data at 536587.804466
+E0306 10:21:35.432375 265177 ic_gvins.cc:172] Lost IMU data with at 536588.115 dt 0.011
+E0306 10:21:35.432505 265177 ic_gvins.cc:182] Append extra IMU data at 536588.109483
+E0306 10:21:36.170621 265177 ic_gvins.cc:172] Lost IMU data with at 536588.853 dt 0.009
+E0306 10:21:36.170761 265177 ic_gvins.cc:182] Append extra IMU data at 536588.849477
+E0306 10:21:36.503887 265177 ic_gvins.cc:172] Lost IMU data with at 536589.185 dt 0.011
+E0306 10:21:36.504002 265177 ic_gvins.cc:182] Append extra IMU data at 536589.179474
+E0306 10:21:36.601096 265177 ic_gvins.cc:172] Lost IMU data with at 536589.283 dt 0.009
+E0306 10:21:36.601233 265177 ic_gvins.cc:182] Append extra IMU data at 536589.279490
+E0306 10:21:37.104882 265177 ic_gvins.cc:172] Lost IMU data with at 536589.788 dt 0.008
+E0306 10:21:37.105015 265177 ic_gvins.cc:182] Append extra IMU data at 536589.784473
+E0306 10:21:38.204844 265177 ic_gvins.cc:172] Lost IMU data with at 536590.888 dt 0.008
+E0306 10:21:38.204959 265177 ic_gvins.cc:182] Append extra IMU data at 536590.884475
+E0306 10:21:38.211975 265177 ic_gvins.cc:172] Lost IMU data with at 536590.895 dt 0.008
+E0306 10:21:38.212105 265177 ic_gvins.cc:182] Append extra IMU data at 536590.892546
+E0306 10:21:38.975879 265177 ic_gvins.cc:172] Lost IMU data with at 536591.657 dt 0.008
+E0306 10:21:38.975991 265177 ic_gvins.cc:182] Append extra IMU data at 536591.654486
+E0306 10:21:39.033891 265177 ic_gvins.cc:172] Lost IMU data with at 536591.717 dt 0.012
+E0306 10:21:39.034031 265177 ic_gvins.cc:182] Append extra IMU data at 536591.709474
+E0306 10:21:39.074949 265177 ic_gvins.cc:172] Lost IMU data with at 536591.758 dt 0.013
+E0306 10:21:39.075065 265177 ic_gvins.cc:182] Append extra IMU data at 536591.749474
+E0306 10:21:39.075090 265177 ic_gvins.cc:182] Append extra IMU data at 536591.754474
+E0306 10:21:40.794422 265177 ic_gvins.cc:172] Lost IMU data with at 536593.477 dt 0.008
+E0306 10:21:40.794566 265177 ic_gvins.cc:182] Append extra IMU data at 536593.474492
+E0306 10:21:41.166023 265177 ic_gvins.cc:172] Lost IMU data with at 536593.848 dt 0.009
+E0306 10:21:41.166205 265177 ic_gvins.cc:182] Append extra IMU data at 536593.844463
+E0306 10:21:41.270650 265177 ic_gvins.cc:172] Lost IMU data with at 536593.953 dt 0.014
+E0306 10:21:41.270825 265177 ic_gvins.cc:182] Append extra IMU data at 536593.944474
+E0306 10:21:41.270854 265177 ic_gvins.cc:182] Append extra IMU data at 536593.949474
+E0306 10:21:42.090356 265177 ic_gvins.cc:172] Lost IMU data with at 536594.773 dt 0.008
+E0306 10:21:42.090489 265177 ic_gvins.cc:182] Append extra IMU data at 536594.769472
+E0306 10:21:42.539718 265177 ic_gvins.cc:172] Lost IMU data with at 536595.222 dt 0.008
+E0306 10:21:42.539898 265177 ic_gvins.cc:182] Append extra IMU data at 536595.219470
+E0306 10:21:42.604344 265177 ic_gvins.cc:172] Lost IMU data with at 536595.287 dt 0.008
+E0306 10:21:42.604480 265177 ic_gvins.cc:182] Append extra IMU data at 536595.284466
+E0306 10:21:42.710168 265177 ic_gvins.cc:172] Lost IMU data with at 536595.393 dt 0.009
+E0306 10:21:42.710323 265177 ic_gvins.cc:182] Append extra IMU data at 536595.389478
+E0306 10:21:42.934540 265177 ic_gvins.cc:172] Lost IMU data with at 536595.613 dt 0.009
+E0306 10:21:42.934669 265177 ic_gvins.cc:182] Append extra IMU data at 536595.609469
+E0306 10:21:43.228669 265177 ic_gvins.cc:172] Lost IMU data with at 536595.912 dt 0.012
+E0306 10:21:43.228814 265177 ic_gvins.cc:182] Append extra IMU data at 536595.904453
+E0306 10:21:43.358234 265177 ic_gvins.cc:172] Lost IMU data with at 536596.041 dt 0.012
+E0306 10:21:43.358362 265177 ic_gvins.cc:182] Append extra IMU data at 536596.034464
+E0306 10:21:43.368604 265177 ic_gvins.cc:172] Lost IMU data with at 536596.052 dt 0.010
+E0306 10:21:43.368726 265177 ic_gvins.cc:182] Append extra IMU data at 536596.046414
+E0306 10:21:43.772091 265177 ic_gvins.cc:172] Lost IMU data with at 536596.453 dt 0.009
+E0306 10:21:43.772204 265177 ic_gvins.cc:182] Append extra IMU data at 536596.449491
+E0306 10:21:44.667435 265177 ic_gvins.cc:172] Lost IMU data with at 536597.349 dt 0.010
+E0306 10:21:44.667589 265177 ic_gvins.cc:182] Append extra IMU data at 536597.344480
+E0306 10:21:44.674261 265177 ic_gvins.cc:172] Lost IMU data with at 536597.357 dt 0.008
+E0306 10:21:44.674408 265177 ic_gvins.cc:182] Append extra IMU data at 536597.354406
+E0306 10:21:45.754803 265177 ic_gvins.cc:172] Lost IMU data with at 536598.438 dt 0.008
+E0306 10:21:45.754925 265177 ic_gvins.cc:182] Append extra IMU data at 536598.434458
+E0306 10:21:46.034189 265177 ic_gvins.cc:172] Lost IMU data with at 536598.717 dt 0.013
+E0306 10:21:46.034303 265177 ic_gvins.cc:182] Append extra IMU data at 536598.709471
+E0306 10:21:46.034325 265177 ic_gvins.cc:182] Append extra IMU data at 536598.714471
+E0306 10:21:46.507112 265177 ic_gvins.cc:172] Lost IMU data with at 536599.189 dt 0.015
+E0306 10:21:46.507236 265177 ic_gvins.cc:182] Append extra IMU data at 536599.179426
+E0306 10:21:46.507261 265177 ic_gvins.cc:182] Append extra IMU data at 536599.184426
+E0306 10:21:47.471010 265177 ic_gvins.cc:172] Lost IMU data with at 536600.153 dt 0.009
+E0306 10:21:47.471124 265177 ic_gvins.cc:182] Append extra IMU data at 536600.149484
+E0306 10:21:48.471494 265177 ic_gvins.cc:172] Lost IMU data with at 536601.154 dt 0.010
+E0306 10:21:48.471623 265177 ic_gvins.cc:182] Append extra IMU data at 536601.149492
+E0306 10:21:48.734292 265177 ic_gvins.cc:172] Lost IMU data with at 536601.417 dt 0.008
+E0306 10:21:48.734417 265177 ic_gvins.cc:182] Append extra IMU data at 536601.414487
+E0306 10:21:48.805573 265177 ic_gvins.cc:172] Lost IMU data with at 536601.488 dt 0.008
+E0306 10:21:48.805691 265177 ic_gvins.cc:182] Append extra IMU data at 536601.484469
+E0306 10:21:50.494154 265177 ic_gvins.cc:172] Lost IMU data with at 536603.177 dt 0.008
+E0306 10:21:50.494279 265177 ic_gvins.cc:182] Append extra IMU data at 536603.174480
+E0306 10:21:50.730408 265177 ic_gvins.cc:172] Lost IMU data with at 536603.413 dt 0.009
+E0306 10:21:50.730527 265177 ic_gvins.cc:182] Append extra IMU data at 536603.409490
+E0306 10:21:50.804616 265177 ic_gvins.cc:172] Lost IMU data with at 536603.487 dt 0.008
+E0306 10:21:50.804739 265177 ic_gvins.cc:182] Append extra IMU data at 536603.484481
+E0306 10:21:50.906736 265177 ic_gvins.cc:172] Lost IMU data with at 536603.589 dt 0.015
+E0306 10:21:50.906888 265177 ic_gvins.cc:182] Append extra IMU data at 536603.579473
+E0306 10:21:50.906919 265177 ic_gvins.cc:182] Append extra IMU data at 536603.584473
+E0306 10:21:51.146647 265177 ic_gvins.cc:172] Lost IMU data with at 536603.829 dt 0.025
+E0306 10:21:51.146764 265177 ic_gvins.cc:182] Append extra IMU data at 536603.809546
+E0306 10:21:51.146781 265177 ic_gvins.cc:182] Append extra IMU data at 536603.814546
+E0306 10:21:51.146795 265177 ic_gvins.cc:182] Append extra IMU data at 536603.819546
+E0306 10:21:51.146811 265177 ic_gvins.cc:182] Append extra IMU data at 536603.824546
+E0306 10:21:51.170687 265177 ic_gvins.cc:172] Lost IMU data with at 536603.853 dt 0.009
+E0306 10:21:51.170758 265177 ic_gvins.cc:182] Append extra IMU data at 536603.849479
+E0306 10:21:51.340425 265177 ic_gvins.cc:172] Lost IMU data with at 536604.022 dt 0.008
+E0306 10:21:51.340530 265177 ic_gvins.cc:182] Append extra IMU data at 536604.019477
+E0306 10:21:51.570492 265177 ic_gvins.cc:172] Lost IMU data with at 536604.253 dt 0.009
+E0306 10:21:51.570628 265177 ic_gvins.cc:182] Append extra IMU data at 536604.249492
+E0306 10:21:52.341688 265177 ic_gvins.cc:172] Lost IMU data with at 536605.025 dt 0.010
+E0306 10:21:52.341786 265177 ic_gvins.cc:182] Append extra IMU data at 536605.019472
+E0306 10:21:52.400868 265177 ic_gvins.cc:172] Lost IMU data with at 536605.083 dt 0.009
+E0306 10:21:52.400996 265177 ic_gvins.cc:182] Append extra IMU data at 536605.079483
+E0306 10:21:52.870540 265177 ic_gvins.cc:172] Lost IMU data with at 536605.549 dt 0.015
+E0306 10:21:52.870661 265177 ic_gvins.cc:182] Append extra IMU data at 536605.539462
+E0306 10:21:52.870678 265177 ic_gvins.cc:182] Append extra IMU data at 536605.544462
+E0306 10:21:52.878120 265177 ic_gvins.cc:172] Lost IMU data with at 536605.557 dt 0.008
+E0306 10:21:52.878247 265177 ic_gvins.cc:182] Append extra IMU data at 536605.554407
+E0306 10:21:53.267204 265177 ic_gvins.cc:172] Lost IMU data with at 536605.949 dt 0.010
+E0306 10:21:53.267347 265177 ic_gvins.cc:182] Append extra IMU data at 536605.944480
+E0306 10:21:53.505926 265177 ic_gvins.cc:172] Lost IMU data with at 536606.188 dt 0.008
+E0306 10:21:53.506089 265177 ic_gvins.cc:182] Append extra IMU data at 536606.184474
+E0306 10:21:54.668982 265177 ic_gvins.cc:172] Lost IMU data with at 536607.350 dt 0.011
+E0306 10:21:54.669101 265177 ic_gvins.cc:182] Append extra IMU data at 536607.344489
+E0306 10:21:54.980067 265177 ic_gvins.cc:172] Lost IMU data with at 536607.663 dt 0.009
+E0306 10:21:54.980188 265177 ic_gvins.cc:182] Append extra IMU data at 536607.659470
+E0306 10:21:55.466439 265177 ic_gvins.cc:172] Lost IMU data with at 536608.149 dt 0.010
+E0306 10:21:55.466545 265177 ic_gvins.cc:182] Append extra IMU data at 536608.144504
+E0306 10:21:55.585741 265177 ic_gvins.cc:172] Lost IMU data with at 536608.257 dt 0.008
+E0306 10:21:55.585866 265177 ic_gvins.cc:182] Append extra IMU data at 536608.254482
+E0306 10:21:56.802417 265177 ic_gvins.cc:172] Lost IMU data with at 536609.485 dt 0.011
+E0306 10:21:56.802585 265177 ic_gvins.cc:182] Append extra IMU data at 536609.479476
+E0306 10:21:57.030238 265177 ic_gvins.cc:172] Lost IMU data with at 536609.713 dt 0.014
+E0306 10:21:57.030364 265177 ic_gvins.cc:182] Append extra IMU data at 536609.704491
+E0306 10:21:57.030383 265177 ic_gvins.cc:182] Append extra IMU data at 536609.709491
+E0306 10:21:57.175827 265177 ic_gvins.cc:172] Lost IMU data with at 536609.857 dt 0.008
+E0306 10:21:57.175956 265177 ic_gvins.cc:182] Append extra IMU data at 536609.854494
+E0306 10:21:57.608523 265177 ic_gvins.cc:172] Lost IMU data with at 536610.291 dt 0.012
+E0306 10:21:57.608644 265177 ic_gvins.cc:182] Append extra IMU data at 536610.284486
+E0306 10:21:57.910220 265177 ic_gvins.cc:172] Lost IMU data with at 536610.593 dt 0.009
+E0306 10:21:57.910358 265177 ic_gvins.cc:182] Append extra IMU data at 536610.589523
+E0306 10:21:59.910552 265177 ic_gvins.cc:172] Lost IMU data with at 536612.593 dt 0.014
+E0306 10:21:59.910676 265177 ic_gvins.cc:182] Append extra IMU data at 536612.584489
+E0306 10:21:59.910696 265177 ic_gvins.cc:182] Append extra IMU data at 536612.589489
+E0306 10:21:59.930472 265177 ic_gvins.cc:172] Lost IMU data with at 536612.613 dt 0.009
+E0306 10:21:59.930624 265177 ic_gvins.cc:182] Append extra IMU data at 536612.609484
+E0306 10:22:00.102725 265177 ic_gvins.cc:172] Lost IMU data with at 536612.785 dt 0.011
+E0306 10:22:00.102856 265177 ic_gvins.cc:182] Append extra IMU data at 536612.779497
+E0306 10:22:00.297446 265177 ic_gvins.cc:172] Lost IMU data with at 536612.981 dt 0.011
+E0306 10:22:00.297583 265177 ic_gvins.cc:182] Append extra IMU data at 536612.974540
+E0306 10:22:01.478303 265177 ic_gvins.cc:172] Lost IMU data with at 536614.161 dt 0.011
+E0306 10:22:01.478482 265177 ic_gvins.cc:182] Append extra IMU data at 536614.155804
+E0306 10:22:02.025028 265177 ic_gvins.cc:172] Lost IMU data with at 536614.708 dt 0.009
+E0306 10:22:02.025151 265177 ic_gvins.cc:182] Append extra IMU data at 536614.704497
+E0306 10:22:02.464785 265177 ic_gvins.cc:172] Lost IMU data with at 536615.148 dt 0.008
+E0306 10:22:02.464860 265177 ic_gvins.cc:182] Append extra IMU data at 536615.144485
+E0306 10:22:02.924297 265177 ic_gvins.cc:172] Lost IMU data with at 536615.607 dt 0.008
+E0306 10:22:02.924386 265177 ic_gvins.cc:182] Append extra IMU data at 536615.604526
+E0306 10:22:02.938611 265177 ic_gvins.cc:172] Lost IMU data with at 536615.621 dt 0.014
+E0306 10:22:02.938730 265177 ic_gvins.cc:182] Append extra IMU data at 536615.612244
+E0306 10:22:02.938748 265177 ic_gvins.cc:182] Append extra IMU data at 536615.617244
+E0306 10:22:03.040911 265177 ic_gvins.cc:172] Lost IMU data with at 536615.724 dt 0.017
+E0306 10:22:03.041044 265177 ic_gvins.cc:182] Append extra IMU data at 536615.711496
+E0306 10:22:03.041070 265177 ic_gvins.cc:182] Append extra IMU data at 536615.716496
+E0306 10:22:05.017047 265177 ic_gvins.cc:172] Lost IMU data with at 536617.697 dt 0.008
+E0306 10:22:05.017184 265177 ic_gvins.cc:182] Append extra IMU data at 536617.693724
+E0306 10:22:05.089603 265177 ic_gvins.cc:172] Lost IMU data with at 536617.772 dt 0.009
+E0306 10:22:05.089751 265177 ic_gvins.cc:182] Append extra IMU data at 536617.768711
+E0306 10:22:05.124806 265177 ic_gvins.cc:172] Lost IMU data with at 536617.807 dt 0.009
+E0306 10:22:05.124938 265177 ic_gvins.cc:182] Append extra IMU data at 536617.803710
+E0306 10:22:05.838447 265177 ic_gvins.cc:172] Lost IMU data with at 536618.521 dt 0.008
+E0306 10:22:05.838541 265177 ic_gvins.cc:182] Append extra IMU data at 536618.518713
+E0306 10:22:06.736246 265177 ic_gvins.cc:172] Lost IMU data with at 536619.418 dt 0.009
+E0306 10:22:06.736368 265177 ic_gvins.cc:182] Append extra IMU data at 536619.413725
+E0306 10:22:08.863524 265177 ic_gvins.cc:172] Lost IMU data with at 536621.546 dt 0.013
+E0306 10:22:08.863705 265177 ic_gvins.cc:182] Append extra IMU data at 536621.538700
+E0306 10:22:08.863773 265177 ic_gvins.cc:182] Append extra IMU data at 536621.543700
+E0306 10:22:08.910621 265177 ic_gvins.cc:172] Lost IMU data with at 536621.593 dt 0.010
+E0306 10:22:08.910802 265177 ic_gvins.cc:182] Append extra IMU data at 536621.588709
+E0306 10:22:09.080943 265177 ic_gvins.cc:172] Lost IMU data with at 536621.761 dt 0.012
+E0306 10:22:09.081040 265177 ic_gvins.cc:182] Append extra IMU data at 536621.753716
+E0306 10:22:09.582645 265177 ic_gvins.cc:172] Lost IMU data with at 536622.265 dt 0.017
+E0306 10:22:09.582782 265177 ic_gvins.cc:182] Append extra IMU data at 536622.253708
+E0306 10:22:09.582806 265177 ic_gvins.cc:182] Append extra IMU data at 536622.258708
+E0306 10:22:09.590227 265177 ic_gvins.cc:172] Lost IMU data with at 536622.273 dt 0.008
+E0306 10:22:09.590342 265177 ic_gvins.cc:182] Append extra IMU data at 536622.270392
+E0306 10:22:10.382277 265177 ic_gvins.cc:172] Lost IMU data with at 536623.065 dt 0.010
+E0306 10:22:10.382416 265177 ic_gvins.cc:182] Append extra IMU data at 536623.060475
+E0306 10:22:10.945219 265177 ic_gvins.cc:172] Lost IMU data with at 536623.628 dt 0.008
+E0306 10:22:10.945355 265177 ic_gvins.cc:182] Append extra IMU data at 536623.625472
+E0306 10:22:11.725342 265177 ic_gvins.cc:172] Lost IMU data with at 536624.408 dt 0.008
+E0306 10:22:11.725500 265177 ic_gvins.cc:182] Append extra IMU data at 536624.405451
+E0306 10:22:12.210235 265177 ic_gvins.cc:172] Lost IMU data with at 536624.893 dt 0.008
+E0306 10:22:12.210367 265177 ic_gvins.cc:182] Append extra IMU data at 536624.890529
+E0306 10:22:12.310117 265177 ic_gvins.cc:172] Lost IMU data with at 536624.993 dt 0.008
+E0306 10:22:12.310249 265177 ic_gvins.cc:182] Append extra IMU data at 536624.990470
+E0306 10:22:13.110083 265177 ic_gvins.cc:172] Lost IMU data with at 536625.785 dt 0.010
+E0306 10:22:13.110205 265177 ic_gvins.cc:182] Append extra IMU data at 536625.780476
+E0306 10:22:13.110245 265177 ic_gvins.cc:172] Lost IMU data with at 536625.793 dt 0.008
+E0306 10:22:13.110265 265177 ic_gvins.cc:182] Append extra IMU data at 536625.790397
+E0306 10:22:14.201778 265177 ic_gvins.cc:172] Lost IMU data with at 536626.885 dt 0.014
+E0306 10:22:14.201999 265177 ic_gvins.cc:182] Append extra IMU data at 536626.875486
+E0306 10:22:14.202033 265177 ic_gvins.cc:182] Append extra IMU data at 536626.880486
+E0306 10:22:14.470619 265177 ic_gvins.cc:172] Lost IMU data with at 536627.153 dt 0.013
+E0306 10:22:14.470746 265177 ic_gvins.cc:182] Append extra IMU data at 536627.145480
+E0306 10:22:14.470764 265177 ic_gvins.cc:182] Append extra IMU data at 536627.150480
+E0306 10:22:15.406128 265177 ic_gvins.cc:172] Lost IMU data with at 536628.089 dt 0.008
+E0306 10:22:15.406255 265177 ic_gvins.cc:182] Append extra IMU data at 536628.085488
+E0306 10:22:16.076097 265177 ic_gvins.cc:172] Lost IMU data with at 536628.759 dt 0.018
+E0306 10:22:16.076226 265177 ic_gvins.cc:182] Append extra IMU data at 536628.745473
+E0306 10:22:16.076246 265177 ic_gvins.cc:182] Append extra IMU data at 536628.750473
+E0306 10:22:16.076261 265177 ic_gvins.cc:182] Append extra IMU data at 536628.755473
+E0306 10:22:16.409821 265177 ic_gvins.cc:172] Lost IMU data with at 536629.093 dt 0.009
+E0306 10:22:16.409925 265177 ic_gvins.cc:182] Append extra IMU data at 536629.088873
+E0306 10:22:16.639062 265177 ic_gvins.cc:172] Lost IMU data with at 536629.322 dt 0.013
+E0306 10:22:16.639195 265177 ic_gvins.cc:182] Append extra IMU data at 536629.313869
+E0306 10:22:16.639218 265177 ic_gvins.cc:182] Append extra IMU data at 536629.318869
+E0306 10:22:16.934371 265177 ic_gvins.cc:172] Lost IMU data with at 536629.617 dt 0.009
+E0306 10:22:16.934497 265177 ic_gvins.cc:182] Append extra IMU data at 536629.613852
+E0306 10:22:17.194471 265177 ic_gvins.cc:172] Lost IMU data with at 536629.877 dt 0.009
+E0306 10:22:17.194629 265177 ic_gvins.cc:182] Append extra IMU data at 536629.873836
+E0306 10:22:17.713469 265177 ic_gvins.cc:172] Lost IMU data with at 536630.397 dt 0.008
+E0306 10:22:17.713645 265177 ic_gvins.cc:182] Append extra IMU data at 536630.393854
+E0306 10:22:18.806550 265177 ic_gvins.cc:172] Lost IMU data with at 536631.485 dt 0.012
+E0306 10:22:18.806710 265177 ic_gvins.cc:182] Append extra IMU data at 536631.478815
+E0306 10:22:18.883419 265177 ic_gvins.cc:172] Lost IMU data with at 536631.567 dt 0.008
+E0306 10:22:18.883562 265177 ic_gvins.cc:182] Append extra IMU data at 536631.563977
+E0306 10:22:19.074370 265177 ic_gvins.cc:172] Lost IMU data with at 536631.757 dt 0.008
+E0306 10:22:19.074478 265177 ic_gvins.cc:182] Append extra IMU data at 536631.753844
+E0306 10:22:19.474143 265177 ic_gvins.cc:172] Lost IMU data with at 536632.157 dt 0.008
+E0306 10:22:19.474267 265177 ic_gvins.cc:182] Append extra IMU data at 536632.153968
+E0306 10:22:19.538470 265177 ic_gvins.cc:172] Lost IMU data with at 536632.221 dt 0.008
+E0306 10:22:19.538636 265177 ic_gvins.cc:182] Append extra IMU data at 536632.218847
+E0306 10:22:19.774401 265177 ic_gvins.cc:172] Lost IMU data with at 536632.457 dt 0.008
+E0306 10:22:19.774497 265177 ic_gvins.cc:182] Append extra IMU data at 536632.453854
+E0306 10:22:20.045272 265177 ic_gvins.cc:172] Lost IMU data with at 536632.728 dt 0.009
+E0306 10:22:20.045392 265177 ic_gvins.cc:182] Append extra IMU data at 536632.723882
+E0306 10:22:20.208829 265177 ic_gvins.cc:172] Lost IMU data with at 536632.891 dt 0.013
+E0306 10:22:20.208987 265177 ic_gvins.cc:182] Append extra IMU data at 536632.883866
+E0306 10:22:20.209009 265177 ic_gvins.cc:182] Append extra IMU data at 536632.888866
+E0306 10:22:20.286216 265177 ic_gvins.cc:172] Lost IMU data with at 536632.969 dt 0.010
+E0306 10:22:20.286326 265177 ic_gvins.cc:182] Append extra IMU data at 536632.963846
+E0306 10:22:20.514400 265177 ic_gvins.cc:172] Lost IMU data with at 536633.197 dt 0.008
+E0306 10:22:20.514539 265177 ic_gvins.cc:182] Append extra IMU data at 536633.193867
+E0306 10:22:21.315514 265177 ic_gvins.cc:172] Lost IMU data with at 536633.999 dt 0.010
+E0306 10:22:21.315632 265177 ic_gvins.cc:182] Append extra IMU data at 536633.993878
+E0306 10:22:21.645102 265177 ic_gvins.cc:172] Lost IMU data with at 536634.324 dt 0.010
+E0306 10:22:21.645205 265177 ic_gvins.cc:182] Append extra IMU data at 536634.318853
+E0306 10:22:21.810706 265177 ic_gvins.cc:172] Lost IMU data with at 536634.492 dt 0.008
+E0306 10:22:21.810818 265177 ic_gvins.cc:182] Append extra IMU data at 536634.488862
+E0306 10:22:21.869429 265177 ic_gvins.cc:172] Lost IMU data with at 536634.552 dt 0.008
+E0306 10:22:21.869571 265177 ic_gvins.cc:182] Append extra IMU data at 536634.548842
+E0306 10:22:24.878999 265177 ic_gvins.cc:172] Lost IMU data with at 536637.562 dt 0.008
+E0306 10:22:24.879098 265177 ic_gvins.cc:182] Append extra IMU data at 536637.558881
+E0306 10:22:25.128786 265177 ic_gvins.cc:172] Lost IMU data with at 536637.803 dt 0.009
+E0306 10:22:25.128895 265177 ic_gvins.cc:182] Append extra IMU data at 536637.798851
+E0306 10:22:25.234262 265177 ic_gvins.cc:172] Lost IMU data with at 536637.916 dt 0.012
+E0306 10:22:25.234354 265177 ic_gvins.cc:182] Append extra IMU data at 536637.908858
+E0306 10:22:25.770519 265177 ic_gvins.cc:172] Lost IMU data with at 536638.449 dt 0.015
+E0306 10:22:25.770640 265177 ic_gvins.cc:182] Append extra IMU data at 536638.438838
+E0306 10:22:25.770664 265177 ic_gvins.cc:182] Append extra IMU data at 536638.443838
+E0306 10:22:25.781963 265177 ic_gvins.cc:172] Lost IMU data with at 536638.457 dt 0.008
+E0306 10:22:25.782079 265177 ic_gvins.cc:182] Append extra IMU data at 536638.454402
+E0306 10:22:26.079155 265177 ic_gvins.cc:172] Lost IMU data with at 536638.762 dt 0.008
+E0306 10:22:26.079283 265177 ic_gvins.cc:182] Append extra IMU data at 536638.759482
+E0306 10:22:26.750253 265177 ic_gvins.cc:172] Lost IMU data with at 536639.433 dt 0.009
+E0306 10:22:26.750360 265177 ic_gvins.cc:182] Append extra IMU data at 536639.429485
+E0306 10:22:26.909802 265177 ic_gvins.cc:172] Lost IMU data with at 536639.592 dt 0.008
+E0306 10:22:26.909929 265177 ic_gvins.cc:182] Append extra IMU data at 536639.589484
+E0306 10:22:26.949596 265177 ic_gvins.cc:172] Lost IMU data with at 536639.633 dt 0.008
+E0306 10:22:26.949736 265177 ic_gvins.cc:182] Append extra IMU data at 536639.629496
+E0306 10:22:28.318678 265177 ic_gvins.cc:172] Lost IMU data with at 536641.001 dt 0.012
+E0306 10:22:28.318784 265177 ic_gvins.cc:182] Append extra IMU data at 536640.994486
+E0306 10:22:28.474638 265177 ic_gvins.cc:172] Lost IMU data with at 536641.157 dt 0.013
+E0306 10:22:28.474757 265177 ic_gvins.cc:182] Append extra IMU data at 536641.149484
+E0306 10:22:28.474777 265177 ic_gvins.cc:182] Append extra IMU data at 536641.154484
+E0306 10:22:28.849409 265177 ic_gvins.cc:172] Lost IMU data with at 536641.533 dt 0.008
+E0306 10:22:28.849532 265177 ic_gvins.cc:182] Append extra IMU data at 536641.529499
+E0306 10:22:29.594316 265177 ic_gvins.cc:172] Lost IMU data with at 536642.277 dt 0.008
+E0306 10:22:29.594455 265177 ic_gvins.cc:182] Append extra IMU data at 536642.274475
+E0306 10:22:29.680289 265177 ic_gvins.cc:172] Lost IMU data with at 536642.363 dt 0.008
+E0306 10:22:29.680423 265177 ic_gvins.cc:182] Append extra IMU data at 536642.360258
+E0306 10:22:30.117607 265177 ic_gvins.cc:172] Lost IMU data with at 536642.801 dt 0.011
+E0306 10:22:30.117699 265177 ic_gvins.cc:182] Append extra IMU data at 536642.794491
+E0306 10:22:30.379096 265177 ic_gvins.cc:172] Lost IMU data with at 536643.062 dt 0.008
+E0306 10:22:30.379215 265177 ic_gvins.cc:182] Append extra IMU data at 536643.059483
+E0306 10:22:30.485109 265177 ic_gvins.cc:172] Lost IMU data with at 536643.168 dt 0.009
+E0306 10:22:30.485275 265177 ic_gvins.cc:182] Append extra IMU data at 536643.164478
+E0306 10:22:30.882422 265177 ic_gvins.cc:172] Lost IMU data with at 536643.561 dt 0.012
+E0306 10:22:30.882541 265177 ic_gvins.cc:182] Append extra IMU data at 536643.554475
+E0306 10:22:31.378401 265177 ic_gvins.cc:172] Lost IMU data with at 536644.061 dt 0.027
+E0306 10:22:31.378530 265177 ic_gvins.cc:182] Append extra IMU data at 536644.039468
+E0306 10:22:31.378552 265177 ic_gvins.cc:182] Append extra IMU data at 536644.044468
+E0306 10:22:31.378569 265177 ic_gvins.cc:182] Append extra IMU data at 536644.049468
+E0306 10:22:31.378583 265177 ic_gvins.cc:182] Append extra IMU data at 536644.054468
+E0306 10:22:31.965232 265177 ic_gvins.cc:172] Lost IMU data with at 536644.645 dt 0.009
+E0306 10:22:31.965356 265177 ic_gvins.cc:182] Append extra IMU data at 536644.641468
+E0306 10:22:32.509025 265177 ic_gvins.cc:172] Lost IMU data with at 536645.192 dt 0.010
+E0306 10:22:32.509195 265177 ic_gvins.cc:182] Append extra IMU data at 536645.186455
+E0306 10:22:32.706650 265177 ic_gvins.cc:172] Lost IMU data with at 536645.389 dt 0.008
+E0306 10:22:32.706773 265177 ic_gvins.cc:182] Append extra IMU data at 536645.386448
+E0306 10:22:33.078737 265177 ic_gvins.cc:172] Lost IMU data with at 536645.762 dt 0.015
+E0306 10:22:33.078845 265177 ic_gvins.cc:182] Append extra IMU data at 536645.751462
+E0306 10:22:33.078868 265177 ic_gvins.cc:182] Append extra IMU data at 536645.756462
+E0306 10:22:33.201396 265177 ic_gvins.cc:172] Lost IMU data with at 536645.885 dt 0.008
+E0306 10:22:33.201506 265177 ic_gvins.cc:182] Append extra IMU data at 536645.882046
+E0306 10:22:34.165413 265177 ic_gvins.cc:172] Lost IMU data with at 536646.845 dt 0.008
+E0306 10:22:34.165544 265177 ic_gvins.cc:182] Append extra IMU data at 536646.842037
+E0306 10:22:34.313673 265177 ic_gvins.cc:172] Lost IMU data with at 536646.996 dt 0.009
+E0306 10:22:34.313890 265177 ic_gvins.cc:182] Append extra IMU data at 536646.992050
+E0306 10:22:34.647938 265177 ic_gvins.cc:172] Lost IMU data with at 536647.330 dt 0.008
+E0306 10:22:34.648052 265177 ic_gvins.cc:182] Append extra IMU data at 536647.327055
+E0306 10:22:35.671677 265177 ic_gvins.cc:172] Lost IMU data with at 536648.355 dt 0.008
+E0306 10:22:35.671813 265177 ic_gvins.cc:182] Append extra IMU data at 536648.352047
+E0306 10:22:35.734891 265177 ic_gvins.cc:172] Lost IMU data with at 536648.418 dt 0.011
+E0306 10:22:35.735015 265177 ic_gvins.cc:182] Append extra IMU data at 536648.412052
+E0306 10:22:35.862454 265177 ic_gvins.cc:172] Lost IMU data with at 536648.545 dt 0.008
+E0306 10:22:35.862584 265177 ic_gvins.cc:182] Append extra IMU data at 536648.542027
+E0306 10:22:35.875480 265177 ic_gvins.cc:172] Lost IMU data with at 536648.557 dt 0.012
+E0306 10:22:35.875617 265177 ic_gvins.cc:182] Append extra IMU data at 536648.550348
+E0306 10:22:36.343369 265177 ic_gvins.cc:172] Lost IMU data with at 536649.026 dt 0.008
+E0306 10:22:36.343508 265177 ic_gvins.cc:182] Append extra IMU data at 536649.022491
+E0306 10:22:36.938472 265177 ic_gvins.cc:172] Lost IMU data with at 536649.621 dt 0.009
+E0306 10:22:36.938611 265177 ic_gvins.cc:182] Append extra IMU data at 536649.617499
+E0306 10:22:37.042507 265177 ic_gvins.cc:172] Lost IMU data with at 536649.725 dt 0.013
+E0306 10:22:37.042652 265177 ic_gvins.cc:182] Append extra IMU data at 536649.717496
+E0306 10:22:37.042675 265177 ic_gvins.cc:182] Append extra IMU data at 536649.722496
+E0306 10:22:37.094369 265177 ic_gvins.cc:172] Lost IMU data with at 536649.777 dt 0.010
+E0306 10:22:37.094497 265177 ic_gvins.cc:182] Append extra IMU data at 536649.772492
+E0306 10:22:37.104928 265177 ic_gvins.cc:172] Lost IMU data with at 536649.787 dt 0.009
+E0306 10:22:37.105067 265177 ic_gvins.cc:182] Append extra IMU data at 536649.782495
+E0306 10:22:37.242422 265177 ic_gvins.cc:172] Lost IMU data with at 536649.925 dt 0.008
+E0306 10:22:37.242563 265177 ic_gvins.cc:182] Append extra IMU data at 536649.922482
+E0306 10:22:37.362234 265177 ic_gvins.cc:172] Lost IMU data with at 536650.045 dt 0.008
+E0306 10:22:37.362397 265177 ic_gvins.cc:182] Append extra IMU data at 536650.042490
+E0306 10:22:37.906865 265177 ic_gvins.cc:172] Lost IMU data with at 536650.589 dt 0.012
+E0306 10:22:37.906980 265177 ic_gvins.cc:182] Append extra IMU data at 536650.582477
+E0306 10:22:38.314309 265177 ic_gvins.cc:172] Lost IMU data with at 536650.997 dt 0.010
+E0306 10:22:38.314472 265177 ic_gvins.cc:182] Append extra IMU data at 536650.992501
+E0306 10:22:38.382596 265177 ic_gvins.cc:172] Lost IMU data with at 536651.065 dt 0.023
+E0306 10:22:38.382719 265177 ic_gvins.cc:182] Append extra IMU data at 536651.047492
+E0306 10:22:38.382740 265177 ic_gvins.cc:182] Append extra IMU data at 536651.052492
+E0306 10:22:38.382755 265177 ic_gvins.cc:182] Append extra IMU data at 536651.057492
+E0306 10:22:38.382802 265177 ic_gvins.cc:182] Append extra IMU data at 536651.062492
+E0306 10:22:38.474610 265177 ic_gvins.cc:172] Lost IMU data with at 536651.157 dt 0.012
+E0306 10:22:38.474740 265177 ic_gvins.cc:182] Append extra IMU data at 536651.150490
+E0306 10:22:38.711131 265177 ic_gvins.cc:172] Lost IMU data with at 536651.394 dt 0.009
+E0306 10:22:38.711254 265177 ic_gvins.cc:182] Append extra IMU data at 536651.390511
+E0306 10:22:39.034305 265177 ic_gvins.cc:172] Lost IMU data with at 536651.717 dt 0.012
+E0306 10:22:39.034430 265177 ic_gvins.cc:182] Append extra IMU data at 536651.710490
+E0306 10:22:40.335225 265177 ic_gvins.cc:172] Lost IMU data with at 536653.018 dt 0.012
+E0306 10:22:40.335367 265177 ic_gvins.cc:182] Append extra IMU data at 536653.010500
+E0306 10:22:40.442566 265177 ic_gvins.cc:172] Lost IMU data with at 536653.125 dt 0.015
+E0306 10:22:40.442692 265177 ic_gvins.cc:182] Append extra IMU data at 536653.115507
+E0306 10:22:40.442710 265177 ic_gvins.cc:182] Append extra IMU data at 536653.120507
+E0306 10:22:40.450186 265177 ic_gvins.cc:172] Lost IMU data with at 536653.133 dt 0.008
+E0306 10:22:40.450301 265177 ic_gvins.cc:182] Append extra IMU data at 536653.130413
+E0306 10:22:40.485709 265177 ic_gvins.cc:172] Lost IMU data with at 536653.169 dt 0.008
+E0306 10:22:40.485826 265177 ic_gvins.cc:182] Append extra IMU data at 536653.165485
+E0306 10:22:40.532454 265177 ic_gvins.cc:172] Lost IMU data with at 536653.215 dt 0.010
+E0306 10:22:40.532588 265177 ic_gvins.cc:182] Append extra IMU data at 536653.210485
+E0306 10:22:42.047291 265177 ic_gvins.cc:172] Lost IMU data with at 536654.729 dt 0.014
+E0306 10:22:42.047415 265177 ic_gvins.cc:182] Append extra IMU data at 536654.720504
+E0306 10:22:42.047436 265177 ic_gvins.cc:182] Append extra IMU data at 536654.725504
+E0306 10:22:42.054312 265177 ic_gvins.cc:172] Lost IMU data with at 536654.737 dt 0.008
+E0306 10:22:42.054457 265177 ic_gvins.cc:182] Append extra IMU data at 536654.734415
+E0306 10:22:42.099208 265177 ic_gvins.cc:172] Lost IMU data with at 536654.779 dt 0.008
+E0306 10:22:42.099324 265177 ic_gvins.cc:182] Append extra IMU data at 536654.775494
+E0306 10:22:42.254101 265177 ic_gvins.cc:172] Lost IMU data with at 536654.933 dt 0.018
+E0306 10:22:42.254177 265177 ic_gvins.cc:182] Append extra IMU data at 536654.920496
+E0306 10:22:42.254197 265177 ic_gvins.cc:182] Append extra IMU data at 536654.925496
+E0306 10:22:42.254211 265177 ic_gvins.cc:182] Append extra IMU data at 536654.930496
+E0306 10:22:42.501251 265177 ic_gvins.cc:172] Lost IMU data with at 536655.182 dt 0.008
+E0306 10:22:42.501396 265177 ic_gvins.cc:182] Append extra IMU data at 536655.178477
+E0306 10:22:42.543454 265177 ic_gvins.cc:172] Lost IMU data with at 536655.226 dt 0.008
+E0306 10:22:42.543573 265177 ic_gvins.cc:182] Append extra IMU data at 536655.223460
+E0306 10:22:42.681375 265177 ic_gvins.cc:172] Lost IMU data with at 536655.364 dt 0.011
+E0306 10:22:42.681505 265177 ic_gvins.cc:182] Append extra IMU data at 536655.358465
+E0306 10:22:42.734189 265177 ic_gvins.cc:172] Lost IMU data with at 536655.413 dt 0.009
+E0306 10:22:42.734302 265177 ic_gvins.cc:182] Append extra IMU data at 536655.408476
+E0306 10:22:43.283499 265177 ic_gvins.cc:172] Lost IMU data with at 536655.967 dt 0.008
+E0306 10:22:43.283674 265177 ic_gvins.cc:182] Append extra IMU data at 536655.963471
+E0306 10:22:43.443971 265177 ic_gvins.cc:172] Lost IMU data with at 536656.126 dt 0.012
+E0306 10:22:43.444113 265177 ic_gvins.cc:182] Append extra IMU data at 536656.118479
+E0306 10:22:43.574774 265177 ic_gvins.cc:172] Lost IMU data with at 536656.257 dt 0.009
+E0306 10:22:43.574878 265177 ic_gvins.cc:182] Append extra IMU data at 536656.253484
+E0306 10:22:43.677251 265177 ic_gvins.cc:172] Lost IMU data with at 536656.357 dt 0.009
+E0306 10:22:43.677378 265177 ic_gvins.cc:182] Append extra IMU data at 536656.353470
+E0306 10:22:44.088034 265177 ic_gvins.cc:172] Lost IMU data with at 536656.771 dt 0.008
+E0306 10:22:44.088151 265177 ic_gvins.cc:182] Append extra IMU data at 536656.768467
+E0306 10:22:44.397058 265177 ic_gvins.cc:172] Lost IMU data with at 536657.080 dt 0.011
+E0306 10:22:44.397205 265177 ic_gvins.cc:182] Append extra IMU data at 536657.073493
+E0306 10:22:44.417431 265177 ic_gvins.cc:172] Lost IMU data with at 536657.100 dt 0.011
+E0306 10:22:44.417526 265177 ic_gvins.cc:182] Append extra IMU data at 536657.094314
+E0306 10:22:44.438117 265177 ic_gvins.cc:172] Lost IMU data with at 536657.122 dt 0.011
+E0306 10:22:44.438212 265177 ic_gvins.cc:182] Append extra IMU data at 536657.115099
+E0306 10:22:45.602226 265177 ic_gvins.cc:172] Lost IMU data with at 536658.285 dt 0.012
+E0306 10:22:45.602350 265177 ic_gvins.cc:182] Append extra IMU data at 536658.278471
+E0306 10:22:46.293577 265177 ic_gvins.cc:172] Lost IMU data with at 536658.976 dt 0.008
+E0306 10:22:46.293730 265177 ic_gvins.cc:182] Append extra IMU data at 536658.973453
+E0306 10:22:46.877876 265177 ic_gvins.cc:172] Lost IMU data with at 536659.561 dt 0.012
+E0306 10:22:46.877997 265177 ic_gvins.cc:182] Append extra IMU data at 536659.553467
+E0306 10:22:48.001073 265177 ic_gvins.cc:172] Lost IMU data with at 536660.683 dt 0.010
+E0306 10:22:48.001209 265177 ic_gvins.cc:182] Append extra IMU data at 536660.678482
+E0306 10:22:49.413439 265177 ic_gvins.cc:172] Lost IMU data with at 536662.095 dt 0.012
+E0306 10:22:49.413556 265177 ic_gvins.cc:182] Append extra IMU data at 536662.088467
+E0306 10:22:50.394037 265177 ic_gvins.cc:172] Lost IMU data with at 536663.077 dt 0.009
+E0306 10:22:50.394161 265177 ic_gvins.cc:182] Append extra IMU data at 536663.073478
+E0306 10:22:50.613890 265177 ic_gvins.cc:172] Lost IMU data with at 536663.296 dt 0.008
+E0306 10:22:50.614039 265177 ic_gvins.cc:182] Append extra IMU data at 536663.293475
+E0306 10:22:54.253940 265177 ic_gvins.cc:172] Lost IMU data with at 536666.937 dt 0.008
+E0306 10:22:54.254081 265177 ic_gvins.cc:182] Append extra IMU data at 536666.933476
+E0306 10:22:54.453085 265177 ic_gvins.cc:172] Lost IMU data with at 536667.136 dt 0.008
+E0306 10:22:54.453210 265177 ic_gvins.cc:182] Append extra IMU data at 536667.133473
+E0306 10:22:55.134663 265177 ic_gvins.cc:172] Lost IMU data with at 536667.817 dt 0.014
+E0306 10:22:55.134801 265177 ic_gvins.cc:182] Append extra IMU data at 536667.808470
+E0306 10:22:55.134830 265177 ic_gvins.cc:182] Append extra IMU data at 536667.813470
+E0306 10:22:56.388584 265177 ic_gvins.cc:172] Lost IMU data with at 536669.071 dt 0.008
+E0306 10:22:56.388816 265177 ic_gvins.cc:182] Append extra IMU data at 536669.068478
+E0306 10:22:57.319478 265177 ic_gvins.cc:172] Lost IMU data with at 536670.001 dt 0.008
+E0306 10:22:57.319603 265177 ic_gvins.cc:182] Append extra IMU data at 536669.998491
+E0306 10:22:57.686280 265177 ic_gvins.cc:172] Lost IMU data with at 536670.369 dt 0.011
+E0306 10:22:57.686414 265177 ic_gvins.cc:182] Append extra IMU data at 536670.363475
+E0306 10:22:58.034557 265177 ic_gvins.cc:172] Lost IMU data with at 536670.717 dt 0.009
+E0306 10:22:58.034678 265177 ic_gvins.cc:182] Append extra IMU data at 536670.713472
+E0306 10:22:58.366240 265177 ic_gvins.cc:172] Lost IMU data with at 536671.049 dt 0.011
+E0306 10:22:58.366374 265177 ic_gvins.cc:182] Append extra IMU data at 536671.043457
+E0306 10:22:59.978866 265177 ic_gvins.cc:172] Lost IMU data with at 536672.662 dt 0.008
+E0306 10:22:59.979032 265177 ic_gvins.cc:182] Append extra IMU data at 536672.658475
+E0306 10:23:00.243578 265177 ic_gvins.cc:172] Lost IMU data with at 536672.926 dt 0.008
+E0306 10:23:00.243714 265177 ic_gvins.cc:182] Append extra IMU data at 536672.923476
+E0306 10:23:00.646477 265177 ic_gvins.cc:172] Lost IMU data with at 536673.329 dt 0.011
+E0306 10:23:00.646597 265177 ic_gvins.cc:182] Append extra IMU data at 536673.323479
+E0306 10:23:01.037710 265177 ic_gvins.cc:172] Lost IMU data with at 536673.717 dt 0.008
+E0306 10:23:01.037786 265177 ic_gvins.cc:182] Append extra IMU data at 536673.714321
+E0306 10:23:02.146795 265177 ic_gvins.cc:172] Lost IMU data with at 536674.829 dt 0.016
+E0306 10:23:02.146907 265177 ic_gvins.cc:182] Append extra IMU data at 536674.818473
+E0306 10:23:02.146926 265177 ic_gvins.cc:182] Append extra IMU data at 536674.823473
+E0306 10:23:02.649361 265177 ic_gvins.cc:172] Lost IMU data with at 536675.332 dt 0.008
+E0306 10:23:02.649502 265177 ic_gvins.cc:182] Append extra IMU data at 536675.329580
+E0306 10:23:02.718654 265177 ic_gvins.cc:172] Lost IMU data with at 536675.401 dt 0.017
+E0306 10:23:02.718755 265177 ic_gvins.cc:182] Append extra IMU data at 536675.389568
+E0306 10:23:02.718779 265177 ic_gvins.cc:182] Append extra IMU data at 536675.394568
+E0306 10:23:03.178831 265177 ic_gvins.cc:172] Lost IMU data with at 536675.861 dt 0.010
+E0306 10:23:03.178961 265177 ic_gvins.cc:182] Append extra IMU data at 536675.856486
+E0306 10:23:03.571590 265177 ic_gvins.cc:172] Lost IMU data with at 536676.255 dt 0.013
+E0306 10:23:03.571707 265177 ic_gvins.cc:182] Append extra IMU data at 536676.246484
+E0306 10:23:03.571722 265177 ic_gvins.cc:182] Append extra IMU data at 536676.251484
+E0306 10:23:03.862475 265177 ic_gvins.cc:172] Lost IMU data with at 536676.539 dt 0.008
+E0306 10:23:03.862599 265177 ic_gvins.cc:182] Append extra IMU data at 536676.536470
+E0306 10:23:04.957233 265177 ic_gvins.cc:172] Lost IMU data with at 536677.640 dt 0.009
+E0306 10:23:04.957345 265177 ic_gvins.cc:182] Append extra IMU data at 536677.636490
+E0306 10:23:05.047024 265177 ic_gvins.cc:172] Lost IMU data with at 536677.730 dt 0.008
+E0306 10:23:05.047148 265177 ic_gvins.cc:182] Append extra IMU data at 536677.726492
+E0306 10:23:05.243988 265177 ic_gvins.cc:172] Lost IMU data with at 536677.925 dt 0.009
+E0306 10:23:05.244074 265177 ic_gvins.cc:182] Append extra IMU data at 536677.921481
+E0306 10:23:05.407639 265177 ic_gvins.cc:172] Lost IMU data with at 536678.089 dt 0.008
+E0306 10:23:05.407790 265177 ic_gvins.cc:182] Append extra IMU data at 536678.086485
+E0306 10:23:05.752071 265177 ic_gvins.cc:172] Lost IMU data with at 536678.434 dt 0.008
+E0306 10:23:05.752223 265177 ic_gvins.cc:182] Append extra IMU data at 536678.431487
+E0306 10:23:05.958434 265177 ic_gvins.cc:172] Lost IMU data with at 536678.641 dt 0.010
+E0306 10:23:05.958575 265177 ic_gvins.cc:182] Append extra IMU data at 536678.636485
+E0306 10:23:06.554265 265177 ic_gvins.cc:172] Lost IMU data with at 536679.237 dt 0.011
+E0306 10:23:06.554392 265177 ic_gvins.cc:182] Append extra IMU data at 536679.231485
+E0306 10:23:07.212570 265177 ic_gvins.cc:172] Lost IMU data with at 536679.896 dt 0.009
+E0306 10:23:07.212673 265177 ic_gvins.cc:182] Append extra IMU data at 536679.891496
+E0306 10:23:07.483558 265177 ic_gvins.cc:172] Lost IMU data with at 536680.165 dt 0.009
+E0306 10:23:07.483686 265177 ic_gvins.cc:182] Append extra IMU data at 536680.161498
+E0306 10:23:07.640897 265177 ic_gvins.cc:172] Lost IMU data with at 536680.323 dt 0.012
+E0306 10:23:07.641028 265177 ic_gvins.cc:182] Append extra IMU data at 536680.316620
+E0306 10:23:07.817467 265177 ic_gvins.cc:172] Lost IMU data with at 536680.501 dt 0.009
+E0306 10:23:07.817615 265177 ic_gvins.cc:182] Append extra IMU data at 536680.496498
+E0306 10:23:08.242746 265177 ic_gvins.cc:172] Lost IMU data with at 536680.926 dt 0.009
+E0306 10:23:08.242875 265177 ic_gvins.cc:182] Append extra IMU data at 536680.921495
+E0306 10:23:08.386777 265177 ic_gvins.cc:172] Lost IMU data with at 536681.069 dt 0.013
+E0306 10:23:08.386909 265177 ic_gvins.cc:182] Append extra IMU data at 536681.061496
+E0306 10:23:08.386965 265177 ic_gvins.cc:182] Append extra IMU data at 536681.066496
+E0306 10:23:08.581892 265177 ic_gvins.cc:172] Lost IMU data with at 536681.265 dt 0.008
+E0306 10:23:08.581959 265177 ic_gvins.cc:182] Append extra IMU data at 536681.261461
+E0306 10:23:08.845461 265177 ic_gvins.cc:172] Lost IMU data with at 536681.528 dt 0.012
+E0306 10:23:08.845592 265177 ic_gvins.cc:182] Append extra IMU data at 536681.521487
+E0306 10:23:09.742388 265177 ic_gvins.cc:172] Lost IMU data with at 536682.425 dt 0.019
+E0306 10:23:09.742514 265177 ic_gvins.cc:182] Append extra IMU data at 536682.411585
+E0306 10:23:09.742532 265177 ic_gvins.cc:182] Append extra IMU data at 536682.416585
+E0306 10:23:09.742549 265177 ic_gvins.cc:182] Append extra IMU data at 536682.421585
+E0306 10:23:10.077670 265177 ic_gvins.cc:172] Lost IMU data with at 536682.759 dt 0.008
+E0306 10:23:10.077797 265177 ic_gvins.cc:182] Append extra IMU data at 536682.755473
+E0306 10:23:10.480763 265177 ic_gvins.cc:172] Lost IMU data with at 536683.162 dt 0.011
+E0306 10:23:10.480954 265177 ic_gvins.cc:182] Append extra IMU data at 536683.155490
+E0306 10:23:10.538412 265177 ic_gvins.cc:172] Lost IMU data with at 536683.221 dt 0.011
+E0306 10:23:10.538691 265177 ic_gvins.cc:182] Append extra IMU data at 536683.215474
+E0306 10:23:10.883647 265177 ic_gvins.cc:172] Lost IMU data with at 536683.565 dt 0.020
+E0306 10:23:10.883775 265177 ic_gvins.cc:182] Append extra IMU data at 536683.550482
+E0306 10:23:10.883795 265177 ic_gvins.cc:182] Append extra IMU data at 536683.555482
+E0306 10:23:10.883810 265177 ic_gvins.cc:182] Append extra IMU data at 536683.560482
+E0306 10:23:11.521850 265177 ic_gvins.cc:172] Lost IMU data with at 536684.200 dt 0.009
+E0306 10:23:11.522131 265177 ic_gvins.cc:182] Append extra IMU data at 536684.195531
+E0306 10:23:11.526469 265177 ic_gvins.cc:172] Lost IMU data with at 536684.209 dt 0.009
+E0306 10:23:11.526674 265177 ic_gvins.cc:182] Append extra IMU data at 536684.205566
+E0306 10:23:12.010679 265177 ic_gvins.cc:172] Lost IMU data with at 536684.693 dt 0.012
+E0306 10:23:12.010807 265177 ic_gvins.cc:182] Append extra IMU data at 536684.685548
+E0306 10:23:12.074499 265177 ic_gvins.cc:172] Lost IMU data with at 536684.757 dt 0.016
+E0306 10:23:12.074630 265177 ic_gvins.cc:182] Append extra IMU data at 536684.746189
+E0306 10:23:12.074651 265177 ic_gvins.cc:182] Append extra IMU data at 536684.751189
+E0306 10:23:12.083352 265177 ic_gvins.cc:172] Lost IMU data with at 536684.766 dt 0.009
+E0306 10:23:12.083449 265177 ic_gvins.cc:182] Append extra IMU data at 536684.762415
+E0306 10:23:12.354616 265177 ic_gvins.cc:172] Lost IMU data with at 536685.037 dt 0.015
+E0306 10:23:12.354734 265177 ic_gvins.cc:182] Append extra IMU data at 536685.027506
+E0306 10:23:12.354759 265177 ic_gvins.cc:182] Append extra IMU data at 536685.032506
+E0306 10:23:12.413053 265177 ic_gvins.cc:172] Lost IMU data with at 536685.096 dt 0.008
+E0306 10:23:12.413174 265177 ic_gvins.cc:182] Append extra IMU data at 536685.092490
+E0306 10:23:12.510432 265177 ic_gvins.cc:172] Lost IMU data with at 536685.191 dt 0.008
+E0306 10:23:12.510546 265177 ic_gvins.cc:182] Append extra IMU data at 536685.187499
+E0306 10:23:12.808082 265177 ic_gvins.cc:172] Lost IMU data with at 536685.491 dt 0.009
+E0306 10:23:12.808209 265177 ic_gvins.cc:182] Append extra IMU data at 536685.487495
+E0306 10:23:12.919019 265177 ic_gvins.cc:172] Lost IMU data with at 536685.601 dt 0.009
+E0306 10:23:12.919142 265177 ic_gvins.cc:182] Append extra IMU data at 536685.597509
+E0306 10:23:13.084830 265177 ic_gvins.cc:172] Lost IMU data with at 536685.765 dt 0.008
+E0306 10:23:13.084944 265177 ic_gvins.cc:182] Append extra IMU data at 536685.762496
+E0306 10:23:13.452198 265177 ic_gvins.cc:172] Lost IMU data with at 536686.135 dt 0.008
+E0306 10:23:13.452354 265177 ic_gvins.cc:182] Append extra IMU data at 536686.132503
+E0306 10:23:14.119055 265177 ic_gvins.cc:172] Lost IMU data with at 536686.801 dt 0.008
+E0306 10:23:14.119119 265177 ic_gvins.cc:182] Append extra IMU data at 536686.798085
+E0306 10:23:15.345521 265177 ic_gvins.cc:172] Lost IMU data with at 536688.028 dt 0.011
+E0306 10:23:15.345731 265177 ic_gvins.cc:182] Append extra IMU data at 536688.022497
+E0306 10:23:15.553308 265177 ic_gvins.cc:172] Lost IMU data with at 536688.236 dt 0.018
+E0306 10:23:15.553431 265177 ic_gvins.cc:182] Append extra IMU data at 536688.222498
+E0306 10:23:15.553452 265177 ic_gvins.cc:182] Append extra IMU data at 536688.227498
+E0306 10:23:15.553468 265177 ic_gvins.cc:182] Append extra IMU data at 536688.232498
+E0306 10:23:15.948418 265177 ic_gvins.cc:172] Lost IMU data with at 536688.629 dt 0.008
+E0306 10:23:15.948578 265177 ic_gvins.cc:182] Append extra IMU data at 536688.626010
+E0306 10:23:16.217550 265177 ic_gvins.cc:172] Lost IMU data with at 536688.900 dt 0.009
+E0306 10:23:16.217656 265177 ic_gvins.cc:182] Append extra IMU data at 536688.896022
+E0306 10:23:16.254606 265177 ic_gvins.cc:172] Lost IMU data with at 536688.925 dt 0.009
+E0306 10:23:16.254724 265177 ic_gvins.cc:182] Append extra IMU data at 536688.921013
+E0306 10:23:16.254760 265177 ic_gvins.cc:172] Lost IMU data with at 536688.933 dt 0.008
+E0306 10:23:16.254778 265177 ic_gvins.cc:182] Append extra IMU data at 536688.930344
+E0306 10:23:16.320348 265177 ic_gvins.cc:172] Lost IMU data with at 536689.004 dt 0.008
+E0306 10:23:16.320467 265177 ic_gvins.cc:182] Append extra IMU data at 536689.001012
+E0306 10:23:16.413077 265177 ic_gvins.cc:172] Lost IMU data with at 536689.096 dt 0.010
+E0306 10:23:16.413203 265177 ic_gvins.cc:182] Append extra IMU data at 536689.091015
+E0306 10:23:16.442425 265177 ic_gvins.cc:172] Lost IMU data with at 536689.125 dt 0.009
+E0306 10:23:16.442559 265177 ic_gvins.cc:182] Append extra IMU data at 536689.121008
+E0306 10:23:18.250717 265177 ic_gvins.cc:172] Lost IMU data with at 536690.921 dt 0.010
+E0306 10:23:18.250840 265177 ic_gvins.cc:182] Append extra IMU data at 536690.916009
+E0306 10:23:18.582813 265177 ic_gvins.cc:172] Lost IMU data with at 536691.265 dt 0.014
+E0306 10:23:18.582963 265177 ic_gvins.cc:182] Append extra IMU data at 536691.256009
+E0306 10:23:18.582988 265177 ic_gvins.cc:182] Append extra IMU data at 536691.261009
+E0306 10:23:18.616405 265177 ic_gvins.cc:172] Lost IMU data with at 536691.299 dt 0.008
+E0306 10:23:18.616541 265177 ic_gvins.cc:182] Append extra IMU data at 536691.296021
+E0306 10:23:20.542114 265177 ic_gvins.cc:172] Lost IMU data with at 536693.225 dt 0.009
+E0306 10:23:20.542176 265177 ic_gvins.cc:182] Append extra IMU data at 536693.221020
+E0306 10:23:20.942780 265177 ic_gvins.cc:172] Lost IMU data with at 536693.626 dt 0.015
+E0306 10:23:20.942875 265177 ic_gvins.cc:182] Append extra IMU data at 536693.616008
+E0306 10:23:20.942893 265177 ic_gvins.cc:182] Append extra IMU data at 536693.621008
+E0306 10:23:21.083812 265177 ic_gvins.cc:172] Lost IMU data with at 536693.765 dt 0.009
+E0306 10:23:21.083937 265177 ic_gvins.cc:182] Append extra IMU data at 536693.761023
+E0306 10:23:22.755229 265177 ic_gvins.cc:172] Lost IMU data with at 536695.437 dt 0.016
+E0306 10:23:22.755350 265177 ic_gvins.cc:182] Append extra IMU data at 536695.426008
+E0306 10:23:22.755370 265177 ic_gvins.cc:182] Append extra IMU data at 536695.431008
+E0306 10:23:23.137894 265177 ic_gvins.cc:172] Lost IMU data with at 536695.821 dt 0.008
+E0306 10:23:23.138026 265177 ic_gvins.cc:182] Append extra IMU data at 536695.817534
+E0306 10:23:23.146694 265177 ic_gvins.cc:172] Lost IMU data with at 536695.829 dt 0.008
+E0306 10:23:23.146835 265177 ic_gvins.cc:182] Append extra IMU data at 536695.825882
+E0306 10:23:23.155589 265177 ic_gvins.cc:172] Lost IMU data with at 536695.837 dt 0.008
+E0306 10:23:23.155682 265177 ic_gvins.cc:182] Append extra IMU data at 536695.834451
+E0306 10:23:23.194766 265177 ic_gvins.cc:172] Lost IMU data with at 536695.878 dt 0.015
+E0306 10:23:23.194888 265177 ic_gvins.cc:182] Append extra IMU data at 536695.867541
+E0306 10:23:23.194967 265177 ic_gvins.cc:182] Append extra IMU data at 536695.872541
+E0306 10:23:23.355305 265177 ic_gvins.cc:172] Lost IMU data with at 536696.037 dt 0.019
+E0306 10:23:23.355468 265177 ic_gvins.cc:182] Append extra IMU data at 536696.023045
+E0306 10:23:23.355496 265177 ic_gvins.cc:182] Append extra IMU data at 536696.028045
+E0306 10:23:23.355525 265177 ic_gvins.cc:182] Append extra IMU data at 536696.033045
+E0306 10:23:23.658264 265177 ic_gvins.cc:172] Lost IMU data with at 536696.341 dt 0.009
+E0306 10:23:23.658396 265177 ic_gvins.cc:182] Append extra IMU data at 536696.337485
+E0306 10:23:24.192410 265177 ic_gvins.cc:172] Lost IMU data with at 536696.875 dt 0.008
+E0306 10:23:24.192535 265177 ic_gvins.cc:182] Append extra IMU data at 536696.872427
+E0306 10:23:24.684114 265177 ic_gvins.cc:172] Lost IMU data with at 536697.361 dt 0.009
+E0306 10:23:24.684244 265177 ic_gvins.cc:182] Append extra IMU data at 536697.357485
+E0306 10:23:25.459595 265177 ic_gvins.cc:172] Lost IMU data with at 536698.140 dt 0.012
+E0306 10:23:25.459733 265177 ic_gvins.cc:182] Append extra IMU data at 536698.132483
+E0306 10:23:25.466359 265177 ic_gvins.cc:172] Lost IMU data with at 536698.149 dt 0.009
+E0306 10:23:25.466496 265177 ic_gvins.cc:182] Append extra IMU data at 536698.144834
+E0306 10:23:25.703897 265177 ic_gvins.cc:172] Lost IMU data with at 536698.387 dt 0.010
+E0306 10:23:25.704036 265177 ic_gvins.cc:182] Append extra IMU data at 536698.382456
+E0306 10:23:25.853233 265177 ic_gvins.cc:172] Lost IMU data with at 536698.535 dt 0.008
+E0306 10:23:25.853371 265177 ic_gvins.cc:182] Append extra IMU data at 536698.532462
+E0306 10:23:26.039541 265177 ic_gvins.cc:172] Lost IMU data with at 536698.721 dt 0.009
+E0306 10:23:26.039698 265177 ic_gvins.cc:182] Append extra IMU data at 536698.717476
+E0306 10:23:26.642824 265177 ic_gvins.cc:172] Lost IMU data with at 536699.325 dt 0.008
+E0306 10:23:26.642982 265177 ic_gvins.cc:182] Append extra IMU data at 536699.322475
+E0306 10:23:27.786654 265177 ic_gvins.cc:172] Lost IMU data with at 536700.469 dt 0.017
+E0306 10:23:27.786792 265177 ic_gvins.cc:182] Append extra IMU data at 536700.457473
+E0306 10:23:27.786813 265177 ic_gvins.cc:182] Append extra IMU data at 536700.462473
+E0306 10:23:27.959043 265177 ic_gvins.cc:172] Lost IMU data with at 536700.642 dt 0.013
+E0306 10:23:27.959178 265177 ic_gvins.cc:182] Append extra IMU data at 536700.634487
+E0306 10:23:27.959198 265177 ic_gvins.cc:182] Append extra IMU data at 536700.639487
+E0306 10:23:28.059415 265177 ic_gvins.cc:172] Lost IMU data with at 536700.737 dt 0.008
+E0306 10:23:28.059548 265177 ic_gvins.cc:182] Append extra IMU data at 536700.734486
+E0306 10:23:28.245849 265177 ic_gvins.cc:172] Lost IMU data with at 536700.929 dt 0.009
+E0306 10:23:28.246013 265177 ic_gvins.cc:182] Append extra IMU data at 536700.924500
+E0306 10:23:28.620115 265177 ic_gvins.cc:172] Lost IMU data with at 536701.302 dt 0.008
+E0306 10:23:28.620272 265177 ic_gvins.cc:182] Append extra IMU data at 536701.299489
+E0306 10:23:28.639045 265177 ic_gvins.cc:172] Lost IMU data with at 536701.322 dt 0.008
+E0306 10:23:28.639164 265177 ic_gvins.cc:182] Append extra IMU data at 536701.319477
+E0306 10:23:28.688565 265177 ic_gvins.cc:172] Lost IMU data with at 536701.372 dt 0.012
+E0306 10:23:28.688685 265177 ic_gvins.cc:182] Append extra IMU data at 536701.364486
+E0306 10:23:29.050701 265177 ic_gvins.cc:172] Lost IMU data with at 536701.733 dt 0.014
+E0306 10:23:29.050823 265177 ic_gvins.cc:182] Append extra IMU data at 536701.724478
+E0306 10:23:29.050848 265177 ic_gvins.cc:182] Append extra IMU data at 536701.729478
+E0306 10:23:29.750735 265177 ic_gvins.cc:172] Lost IMU data with at 536702.433 dt 0.009
+E0306 10:23:29.750859 265177 ic_gvins.cc:182] Append extra IMU data at 536702.429498
+E0306 10:23:29.758239 265177 ic_gvins.cc:172] Lost IMU data with at 536702.441 dt 0.008
+E0306 10:23:29.758358 265177 ic_gvins.cc:182] Append extra IMU data at 536702.438344
+E0306 10:23:29.770960 265177 ic_gvins.cc:172] Lost IMU data with at 536702.449 dt 0.008
+E0306 10:23:29.771147 265177 ic_gvins.cc:182] Append extra IMU data at 536702.446411
+E0306 10:23:30.218662 265177 ic_gvins.cc:172] Lost IMU data with at 536702.897 dt 0.008
+E0306 10:23:30.218855 265177 ic_gvins.cc:182] Append extra IMU data at 536702.894484
+E0306 10:23:30.638700 265177 ic_gvins.cc:172] Lost IMU data with at 536703.321 dt 0.011
+E0306 10:23:30.638875 265177 ic_gvins.cc:182] Append extra IMU data at 536703.314499
+E0306 10:23:30.715700 265177 ic_gvins.cc:172] Lost IMU data with at 536703.399 dt 0.009
+E0306 10:23:30.715817 265177 ic_gvins.cc:182] Append extra IMU data at 536703.394484
+E0306 10:23:30.745079 265177 ic_gvins.cc:172] Lost IMU data with at 536703.428 dt 0.008
+E0306 10:23:30.745214 265177 ic_gvins.cc:182] Append extra IMU data at 536703.424498
+E0306 10:23:31.017166 265177 ic_gvins.cc:172] Lost IMU data with at 536703.700 dt 0.010
+E0306 10:23:31.017285 265177 ic_gvins.cc:182] Append extra IMU data at 536703.694475
+E0306 10:23:31.214609 265177 ic_gvins.cc:172] Lost IMU data with at 536703.897 dt 0.008
+E0306 10:23:31.214721 265177 ic_gvins.cc:182] Append extra IMU data at 536703.894483
+E0306 10:23:31.556722 265177 ic_gvins.cc:172] Lost IMU data with at 536704.239 dt 0.015
+E0306 10:23:31.556852 265177 ic_gvins.cc:182] Append extra IMU data at 536704.229487
+E0306 10:23:31.556874 265177 ic_gvins.cc:182] Append extra IMU data at 536704.234487
+E0306 10:23:32.839629 265177 ic_gvins.cc:172] Lost IMU data with at 536705.521 dt 0.012
+E0306 10:23:32.839769 265177 ic_gvins.cc:182] Append extra IMU data at 536705.514488
+E0306 10:23:33.111837 265177 ic_gvins.cc:172] Lost IMU data with at 536705.795 dt 0.010
+E0306 10:23:33.111951 265177 ic_gvins.cc:182] Append extra IMU data at 536705.789487
+E0306 10:23:33.245069 265177 ic_gvins.cc:172] Lost IMU data with at 536705.928 dt 0.013
+E0306 10:23:33.245206 265177 ic_gvins.cc:182] Append extra IMU data at 536705.919500
+E0306 10:23:33.245226 265177 ic_gvins.cc:182] Append extra IMU data at 536705.924500
+E0306 10:23:33.437973 265177 ic_gvins.cc:172] Lost IMU data with at 536706.121 dt 0.011
+E0306 10:23:33.438107 265177 ic_gvins.cc:182] Append extra IMU data at 536706.114501
+E0306 10:23:33.446748 265177 ic_gvins.cc:172] Lost IMU data with at 536706.129 dt 0.009
+E0306 10:23:33.446892 265177 ic_gvins.cc:182] Append extra IMU data at 536706.125616
+E0306 10:23:33.610574 265177 ic_gvins.cc:172] Lost IMU data with at 536706.293 dt 0.014
+E0306 10:23:33.610682 265177 ic_gvins.cc:182] Append extra IMU data at 536706.284495
+E0306 10:23:33.610698 265177 ic_gvins.cc:182] Append extra IMU data at 536706.289495
+E0306 10:23:34.518708 265177 ic_gvins.cc:172] Lost IMU data with at 536707.201 dt 0.017
+E0306 10:23:34.518827 265177 ic_gvins.cc:182] Append extra IMU data at 536707.189498
+E0306 10:23:34.518956 265177 ic_gvins.cc:182] Append extra IMU data at 536707.194498
+E0306 10:23:34.526186 265177 ic_gvins.cc:172] Lost IMU data with at 536707.209 dt 0.008
+E0306 10:23:34.526312 265177 ic_gvins.cc:182] Append extra IMU data at 536707.206442
+E0306 10:23:35.604110 265177 ic_gvins.cc:172] Lost IMU data with at 536708.287 dt 0.011
+E0306 10:23:35.604353 265177 ic_gvins.cc:182] Append extra IMU data at 536708.281505
+E0306 10:23:35.802325 265177 ic_gvins.cc:172] Lost IMU data with at 536708.485 dt 0.009
+E0306 10:23:35.802459 265177 ic_gvins.cc:182] Append extra IMU data at 536708.481536
+E0306 10:23:35.882485 265177 ic_gvins.cc:172] Lost IMU data with at 536708.565 dt 0.009
+E0306 10:23:35.882612 265177 ic_gvins.cc:182] Append extra IMU data at 536708.561538
+E0306 10:23:36.183496 265177 ic_gvins.cc:172] Lost IMU data with at 536708.865 dt 0.009
+E0306 10:23:36.183637 265177 ic_gvins.cc:182] Append extra IMU data at 536708.861525
+E0306 10:23:36.521682 265177 ic_gvins.cc:172] Lost IMU data with at 536709.201 dt 0.015
+E0306 10:23:36.521767 265177 ic_gvins.cc:182] Append extra IMU data at 536709.191511
+E0306 10:23:36.521785 265177 ic_gvins.cc:182] Append extra IMU data at 536709.196511
+E0306 10:23:36.886891 265177 ic_gvins.cc:172] Lost IMU data with at 536709.569 dt 0.008
+E0306 10:23:36.886994 265177 ic_gvins.cc:182] Append extra IMU data at 536709.566585
+E0306 10:23:37.481475 265177 ic_gvins.cc:172] Lost IMU data with at 536710.164 dt 0.008
+E0306 10:23:37.481602 265177 ic_gvins.cc:182] Append extra IMU data at 536710.161526
+E0306 10:23:37.506273 265177 ic_gvins.cc:172] Lost IMU data with at 536710.189 dt 0.008
+E0306 10:23:37.506429 265177 ic_gvins.cc:182] Append extra IMU data at 536710.186559
+E0306 10:23:37.656391 265177 ic_gvins.cc:172] Lost IMU data with at 536710.340 dt 0.008
+E0306 10:23:37.656515 265177 ic_gvins.cc:182] Append extra IMU data at 536710.336525
+E0306 10:23:38.546412 265177 ic_gvins.cc:172] Lost IMU data with at 536711.229 dt 0.008
+E0306 10:23:38.546548 265177 ic_gvins.cc:182] Append extra IMU data at 536711.226529
+E0306 10:23:38.655568 265177 ic_gvins.cc:172] Lost IMU data with at 536711.334 dt 0.012
+E0306 10:23:38.655699 265177 ic_gvins.cc:182] Append extra IMU data at 536711.326532
+E0306 10:23:38.658111 265177 ic_gvins.cc:172] Lost IMU data with at 536711.341 dt 0.008
+E0306 10:23:38.658200 265177 ic_gvins.cc:182] Append extra IMU data at 536711.338682
+E0306 10:23:38.761997 265177 ic_gvins.cc:172] Lost IMU data with at 536711.445 dt 0.009
+E0306 10:23:38.762260 265177 ic_gvins.cc:182] Append extra IMU data at 536711.441539
+E0306 10:23:38.817767 265177 ic_gvins.cc:172] Lost IMU data with at 536711.500 dt 0.008
+E0306 10:23:38.817898 265177 ic_gvins.cc:182] Append extra IMU data at 536711.496524
+E0306 10:23:39.174418 265177 ic_gvins.cc:172] Lost IMU data with at 536711.857 dt 0.011
+E0306 10:23:39.174543 265177 ic_gvins.cc:182] Append extra IMU data at 536711.851521
+E0306 10:23:39.287906 265177 ic_gvins.cc:172] Lost IMU data with at 536711.971 dt 0.010
+E0306 10:23:39.288025 265177 ic_gvins.cc:182] Append extra IMU data at 536711.966524
+E0306 10:23:39.717028 265177 ic_gvins.cc:172] Lost IMU data with at 536712.400 dt 0.018
+E0306 10:23:39.717149 265177 ic_gvins.cc:182] Append extra IMU data at 536712.386528
+E0306 10:23:39.717168 265177 ic_gvins.cc:182] Append extra IMU data at 536712.391528
+E0306 10:23:39.717181 265177 ic_gvins.cc:182] Append extra IMU data at 536712.396528
+E0306 10:23:40.976879 265177 ic_gvins.cc:172] Lost IMU data with at 536713.660 dt 0.010
+E0306 10:23:40.977046 265177 ic_gvins.cc:182] Append extra IMU data at 536713.655047
+E0306 10:23:41.086814 265177 ic_gvins.cc:172] Lost IMU data with at 536713.769 dt 0.014
+E0306 10:23:41.086930 265177 ic_gvins.cc:182] Append extra IMU data at 536713.760044
+E0306 10:23:41.086951 265177 ic_gvins.cc:182] Append extra IMU data at 536713.765044
+E0306 10:23:41.120342 265177 ic_gvins.cc:172] Lost IMU data with at 536713.803 dt 0.018
+E0306 10:23:41.120460 265177 ic_gvins.cc:182] Append extra IMU data at 536713.790053
+E0306 10:23:41.120491 265177 ic_gvins.cc:182] Append extra IMU data at 536713.795053
+E0306 10:23:41.120515 265177 ic_gvins.cc:182] Append extra IMU data at 536713.800053
+E0306 10:23:41.225745 265177 ic_gvins.cc:172] Lost IMU data with at 536713.901 dt 0.013
+E0306 10:23:41.225811 265177 ic_gvins.cc:182] Append extra IMU data at 536713.893165
+E0306 10:23:41.225831 265177 ic_gvins.cc:182] Append extra IMU data at 536713.898165
+E0306 10:23:41.263798 265177 ic_gvins.cc:172] Lost IMU data with at 536713.941 dt 0.008
+E0306 10:23:41.263931 265177 ic_gvins.cc:182] Append extra IMU data at 536713.938141
+E0306 10:23:41.383939 265177 ic_gvins.cc:172] Lost IMU data with at 536714.066 dt 0.008
+E0306 10:23:41.384092 265177 ic_gvins.cc:182] Append extra IMU data at 536714.063159
+E0306 10:23:41.541391 265177 ic_gvins.cc:172] Lost IMU data with at 536714.224 dt 0.011
+E0306 10:23:41.541512 265177 ic_gvins.cc:182] Append extra IMU data at 536714.218153
+E0306 10:23:41.650604 265177 ic_gvins.cc:172] Lost IMU data with at 536714.333 dt 0.010
+E0306 10:23:41.650738 265177 ic_gvins.cc:182] Append extra IMU data at 536714.328178
+E0306 10:23:41.714567 265177 ic_gvins.cc:172] Lost IMU data with at 536714.397 dt 0.019
+E0306 10:23:41.714694 265177 ic_gvins.cc:182] Append extra IMU data at 536714.383220
+E0306 10:23:41.714720 265177 ic_gvins.cc:182] Append extra IMU data at 536714.388220
+E0306 10:23:41.714741 265177 ic_gvins.cc:182] Append extra IMU data at 536714.393220
+E0306 10:23:41.982542 265177 ic_gvins.cc:172] Lost IMU data with at 536714.665 dt 0.008
+E0306 10:23:41.982686 265177 ic_gvins.cc:182] Append extra IMU data at 536714.662482
+E0306 10:23:42.242287 265177 ic_gvins.cc:172] Lost IMU data with at 536714.925 dt 0.008
+E0306 10:23:42.242456 265177 ic_gvins.cc:182] Append extra IMU data at 536714.922479
+E0306 10:23:42.356630 265177 ic_gvins.cc:172] Lost IMU data with at 536715.037 dt 0.010
+E0306 10:23:42.356765 265177 ic_gvins.cc:182] Append extra IMU data at 536715.032504
+E0306 10:23:42.468209 265177 ic_gvins.cc:172] Lost IMU data with at 536715.151 dt 0.017
+E0306 10:23:42.468364 265177 ic_gvins.cc:182] Append extra IMU data at 536715.138504
+E0306 10:23:42.468449 265177 ic_gvins.cc:182] Append extra IMU data at 536715.143504
+E0306 10:23:42.624264 265177 ic_gvins.cc:172] Lost IMU data with at 536715.307 dt 0.011
+E0306 10:23:42.624382 265177 ic_gvins.cc:182] Append extra IMU data at 536715.300954
+E0306 10:23:44.421065 265177 ic_gvins.cc:172] Lost IMU data with at 536717.104 dt 0.008
+E0306 10:23:44.421152 265177 ic_gvins.cc:182] Append extra IMU data at 536717.100969
+E0306 10:23:44.961325 265177 ic_gvins.cc:172] Lost IMU data with at 536717.644 dt 0.013
+E0306 10:23:44.961443 265177 ic_gvins.cc:182] Append extra IMU data at 536717.635968
+E0306 10:23:44.961467 265177 ic_gvins.cc:182] Append extra IMU data at 536717.640968
+E0306 10:23:45.386687 265177 ic_gvins.cc:172] Lost IMU data with at 536718.069 dt 0.008
+E0306 10:23:45.386809 265177 ic_gvins.cc:182] Append extra IMU data at 536718.065975
+E0306 10:23:45.420959 265177 ic_gvins.cc:172] Lost IMU data with at 536718.104 dt 0.008
+E0306 10:23:45.421043 265177 ic_gvins.cc:182] Append extra IMU data at 536718.100973
+E0306 10:23:45.520468 265177 ic_gvins.cc:172] Lost IMU data with at 536718.203 dt 0.012
+E0306 10:23:45.520581 265177 ic_gvins.cc:182] Append extra IMU data at 536718.195967
+E0306 10:23:45.907618 265177 ic_gvins.cc:172] Lost IMU data with at 536718.589 dt 0.008
+E0306 10:23:45.907776 265177 ic_gvins.cc:182] Append extra IMU data at 536718.585976
+E0306 10:23:45.923254 265177 ic_gvins.cc:172] Lost IMU data with at 536718.606 dt 0.010
+E0306 10:23:45.923346 265177 ic_gvins.cc:182] Append extra IMU data at 536718.601007
+E0306 10:23:46.092482 265177 ic_gvins.cc:172] Lost IMU data with at 536718.774 dt 0.008
+E0306 10:23:46.092593 265177 ic_gvins.cc:182] Append extra IMU data at 536718.770970
+E0306 10:23:48.248198 265177 ic_gvins.cc:172] Lost IMU data with at 536720.929 dt 0.008
+E0306 10:23:48.248350 265177 ic_gvins.cc:182] Append extra IMU data at 536720.925969
+E0306 10:23:48.790465 265177 ic_gvins.cc:172] Lost IMU data with at 536721.474 dt 0.008
+E0306 10:23:48.790598 265177 ic_gvins.cc:182] Append extra IMU data at 536721.471000
+E0306 10:23:49.120313 265177 ic_gvins.cc:172] Lost IMU data with at 536721.804 dt 0.008
+E0306 10:23:49.120421 265177 ic_gvins.cc:182] Append extra IMU data at 536721.800976
+E0306 10:23:50.238245 265177 ic_gvins.cc:172] Lost IMU data with at 536722.921 dt 0.010
+E0306 10:23:50.238308 265177 ic_gvins.cc:182] Append extra IMU data at 536722.915965
+E0306 10:23:50.250597 265177 ic_gvins.cc:172] Lost IMU data with at 536722.933 dt 0.012
+E0306 10:23:50.250727 265177 ic_gvins.cc:182] Append extra IMU data at 536722.926388
+E0306 10:23:50.886833 265177 ic_gvins.cc:172] Lost IMU data with at 536723.570 dt 0.014
+E0306 10:23:50.886956 265177 ic_gvins.cc:182] Append extra IMU data at 536723.560964
+E0306 10:23:50.886978 265177 ic_gvins.cc:182] Append extra IMU data at 536723.565964
+E0306 10:23:51.162595 265177 ic_gvins.cc:172] Lost IMU data with at 536723.834 dt 0.008
+E0306 10:23:51.162703 265177 ic_gvins.cc:182] Append extra IMU data at 536723.831040
+E0306 10:23:51.836445 265177 ic_gvins.cc:172] Lost IMU data with at 536724.520 dt 0.009
+E0306 10:23:51.836544 265177 ic_gvins.cc:182] Append extra IMU data at 536724.515980
+E0306 10:23:52.036175 265177 ic_gvins.cc:172] Lost IMU data with at 536724.719 dt 0.008
+E0306 10:23:52.036290 265177 ic_gvins.cc:182] Append extra IMU data at 536724.715961
+E0306 10:23:52.138152 265177 ic_gvins.cc:172] Lost IMU data with at 536724.820 dt 0.009
+E0306 10:23:52.138304 265177 ic_gvins.cc:182] Append extra IMU data at 536724.815976
+E0306 10:23:52.587510 265177 ic_gvins.cc:172] Lost IMU data with at 536725.270 dt 0.014
+E0306 10:23:52.587671 265177 ic_gvins.cc:182] Append extra IMU data at 536725.260960
+E0306 10:23:52.587695 265177 ic_gvins.cc:182] Append extra IMU data at 536725.265960
+E0306 10:23:52.726300 265177 ic_gvins.cc:172] Lost IMU data with at 536725.409 dt 0.008
+E0306 10:23:52.726418 265177 ic_gvins.cc:182] Append extra IMU data at 536725.405977
+E0306 10:23:53.080906 265177 ic_gvins.cc:172] Lost IMU data with at 536725.761 dt 0.010
+E0306 10:23:53.081027 265177 ic_gvins.cc:182] Append extra IMU data at 536725.755966
+E0306 10:23:53.091945 265177 ic_gvins.cc:172] Lost IMU data with at 536725.773 dt 0.011
+E0306 10:23:53.092069 265177 ic_gvins.cc:182] Append extra IMU data at 536725.766431
+E0306 10:23:53.686647 265177 ic_gvins.cc:172] Lost IMU data with at 536726.369 dt 0.008
+E0306 10:23:53.686774 265177 ic_gvins.cc:182] Append extra IMU data at 536726.365974
+E0306 10:23:54.486579 265177 ic_gvins.cc:172] Lost IMU data with at 536727.169 dt 0.008
+E0306 10:23:54.486701 265177 ic_gvins.cc:182] Append extra IMU data at 536727.165976
+E0306 10:23:54.558318 265177 ic_gvins.cc:172] Lost IMU data with at 536727.241 dt 0.008
+E0306 10:23:54.558454 265177 ic_gvins.cc:182] Append extra IMU data at 536727.238356
+E0306 10:23:54.689268 265177 ic_gvins.cc:172] Lost IMU data with at 536727.369 dt 0.008
+E0306 10:23:54.689404 265177 ic_gvins.cc:182] Append extra IMU data at 536727.365974
+E0306 10:23:55.443116 265177 ic_gvins.cc:172] Lost IMU data with at 536728.125 dt 0.009
+E0306 10:23:55.443249 265177 ic_gvins.cc:182] Append extra IMU data at 536728.120973
+E0306 10:23:56.316671 265177 ic_gvins.cc:172] Lost IMU data with at 536728.999 dt 0.008
+E0306 10:23:56.316813 265177 ic_gvins.cc:182] Append extra IMU data at 536728.995985
+E0306 10:23:56.483121 265177 ic_gvins.cc:172] Lost IMU data with at 536729.166 dt 0.010
+E0306 10:23:56.483271 265177 ic_gvins.cc:182] Append extra IMU data at 536729.160968
+E0306 10:23:57.086782 265177 ic_gvins.cc:172] Lost IMU data with at 536729.769 dt 0.008
+E0306 10:23:57.086895 265177 ic_gvins.cc:182] Append extra IMU data at 536729.765979
+E0306 10:23:57.325659 265177 ic_gvins.cc:172] Lost IMU data with at 536730.009 dt 0.008
+E0306 10:23:57.325768 265177 ic_gvins.cc:182] Append extra IMU data at 536730.005966
+E0306 10:23:57.455014 265177 ic_gvins.cc:172] Lost IMU data with at 536730.138 dt 0.011
+E0306 10:23:57.455153 265177 ic_gvins.cc:182] Append extra IMU data at 536730.131182
+E0306 10:23:57.720548 265177 ic_gvins.cc:172] Lost IMU data with at 536730.404 dt 0.008
+E0306 10:23:57.720678 265177 ic_gvins.cc:182] Append extra IMU data at 536730.400982
+E0306 10:23:57.953305 265177 ic_gvins.cc:172] Lost IMU data with at 536730.636 dt 0.010
+E0306 10:23:57.953411 265177 ic_gvins.cc:182] Append extra IMU data at 536730.630966
+E0306 10:23:57.966439 265177 ic_gvins.cc:172] Lost IMU data with at 536730.649 dt 0.008
+E0306 10:23:57.966573 265177 ic_gvins.cc:182] Append extra IMU data at 536730.645973
+E0306 10:23:58.006485 265177 ic_gvins.cc:172] Lost IMU data with at 536730.689 dt 0.013
+E0306 10:23:58.006603 265177 ic_gvins.cc:182] Append extra IMU data at 536730.680961
+E0306 10:23:58.006625 265177 ic_gvins.cc:182] Append extra IMU data at 536730.685961
+E0306 10:23:58.766393 265177 ic_gvins.cc:172] Lost IMU data with at 536731.449 dt 0.008
+E0306 10:23:58.766515 265177 ic_gvins.cc:182] Append extra IMU data at 536731.445958
+E0306 10:23:59.215878 265177 ic_gvins.cc:172] Lost IMU data with at 536731.899 dt 0.008
+E0306 10:23:59.215996 265177 ic_gvins.cc:182] Append extra IMU data at 536731.895965
+E0306 10:23:59.382586 265177 ic_gvins.cc:172] Lost IMU data with at 536732.065 dt 0.009
+E0306 10:23:59.382720 265177 ic_gvins.cc:182] Append extra IMU data at 536732.060966
+E0306 10:24:00.296849 265177 ic_gvins.cc:172] Lost IMU data with at 536732.979 dt 0.008
+E0306 10:24:00.296975 265177 ic_gvins.cc:182] Append extra IMU data at 536732.975963
+E0306 10:24:01.514406 265177 ic_gvins.cc:172] Lost IMU data with at 536734.196 dt 0.015
+E0306 10:24:01.514551 265177 ic_gvins.cc:182] Append extra IMU data at 536734.185973
+E0306 10:24:01.514616 265177 ic_gvins.cc:182] Append extra IMU data at 536734.190973
+E0306 10:24:01.794675 265177 ic_gvins.cc:172] Lost IMU data with at 536734.475 dt 0.009
+E0306 10:24:01.794874 265177 ic_gvins.cc:182] Append extra IMU data at 536734.471027
+E0306 10:24:02.422405 265177 ic_gvins.cc:172] Lost IMU data with at 536735.105 dt 0.009
+E0306 10:24:02.422542 265177 ic_gvins.cc:182] Append extra IMU data at 536735.101035
+E0306 10:24:02.761014 265177 ic_gvins.cc:172] Lost IMU data with at 536735.444 dt 0.008
+E0306 10:24:02.761148 265177 ic_gvins.cc:182] Append extra IMU data at 536735.441031
+E0306 10:24:02.805451 265177 ic_gvins.cc:172] Lost IMU data with at 536735.489 dt 0.008
+E0306 10:24:02.805572 265177 ic_gvins.cc:182] Append extra IMU data at 536735.486027
+E0306 10:24:03.754523 265177 ic_gvins.cc:172] Lost IMU data with at 536736.437 dt 0.011
+E0306 10:24:03.754621 265177 ic_gvins.cc:182] Append extra IMU data at 536736.431050
+E0306 10:24:04.723567 265177 ic_gvins.cc:172] Lost IMU data with at 536737.404 dt 0.008
+E0306 10:24:04.723668 265177 ic_gvins.cc:182] Append extra IMU data at 536737.401035
+E0306 10:24:05.589318 265177 ic_gvins.cc:172] Lost IMU data with at 536738.272 dt 0.011
+E0306 10:24:05.589452 265177 ic_gvins.cc:182] Append extra IMU data at 536738.265978
+E0306 10:24:05.946910 265177 ic_gvins.cc:172] Lost IMU data with at 536738.629 dt 0.013
+E0306 10:24:05.947053 265177 ic_gvins.cc:182] Append extra IMU data at 536738.621007
+E0306 10:24:05.947093 265177 ic_gvins.cc:182] Append extra IMU data at 536738.626007
+E0306 10:24:06.516265 265177 ic_gvins.cc:172] Lost IMU data with at 536739.199 dt 0.008
+E0306 10:24:06.516355 265177 ic_gvins.cc:182] Append extra IMU data at 536739.196025
+E0306 10:24:06.661188 265177 ic_gvins.cc:172] Lost IMU data with at 536739.344 dt 0.008
+E0306 10:24:06.661324 265177 ic_gvins.cc:182] Append extra IMU data at 536739.340990
+E0306 10:24:06.726259 265177 ic_gvins.cc:172] Lost IMU data with at 536739.409 dt 0.013
+E0306 10:24:06.726372 265177 ic_gvins.cc:182] Append extra IMU data at 536739.401021
+E0306 10:24:06.726392 265177 ic_gvins.cc:182] Append extra IMU data at 536739.406021
+E0306 10:24:06.922087 265177 ic_gvins.cc:172] Lost IMU data with at 536739.605 dt 0.009
+E0306 10:24:06.922194 265177 ic_gvins.cc:182] Append extra IMU data at 536739.601029
+E0306 10:24:07.558833 265177 ic_gvins.cc:172] Lost IMU data with at 536740.241 dt 0.010
+E0306 10:24:07.558929 265177 ic_gvins.cc:182] Append extra IMU data at 536740.236020
+E0306 10:24:08.077842 265177 ic_gvins.cc:172] Lost IMU data with at 536740.761 dt 0.010
+E0306 10:24:08.077961 265177 ic_gvins.cc:182] Append extra IMU data at 536740.756045
+E0306 10:24:08.346459 265177 ic_gvins.cc:172] Lost IMU data with at 536741.029 dt 0.008
+E0306 10:24:08.346580 265177 ic_gvins.cc:182] Append extra IMU data at 536741.026025
+E0306 10:24:08.809895 265177 ic_gvins.cc:172] Lost IMU data with at 536741.489 dt 0.008
+E0306 10:24:08.810086 265177 ic_gvins.cc:182] Append extra IMU data at 536741.486019
+E0306 10:24:08.822963 265177 ic_gvins.cc:172] Lost IMU data with at 536741.505 dt 0.009
+E0306 10:24:08.823047 265177 ic_gvins.cc:182] Append extra IMU data at 536741.501023
+E0306 10:24:08.907827 265177 ic_gvins.cc:172] Lost IMU data with at 536741.589 dt 0.008
+E0306 10:24:08.907945 265177 ic_gvins.cc:182] Append extra IMU data at 536741.586024
+E0306 10:24:10.146955 265177 ic_gvins.cc:172] Lost IMU data with at 536742.829 dt 0.008
+E0306 10:24:10.147084 265177 ic_gvins.cc:182] Append extra IMU data at 536742.826029
+E0306 10:24:10.522051 265177 ic_gvins.cc:172] Lost IMU data with at 536743.205 dt 0.009
+E0306 10:24:10.522181 265177 ic_gvins.cc:182] Append extra IMU data at 536743.201024
+E0306 10:24:10.618417 265177 ic_gvins.cc:172] Lost IMU data with at 536743.297 dt 0.011
+E0306 10:24:10.618577 265177 ic_gvins.cc:182] Append extra IMU data at 536743.291024
+E0306 10:24:10.822365 265177 ic_gvins.cc:172] Lost IMU data with at 536743.505 dt 0.008
+E0306 10:24:10.822526 265177 ic_gvins.cc:182] Append extra IMU data at 536743.502342
+E0306 10:24:11.124193 265177 ic_gvins.cc:172] Lost IMU data with at 536743.807 dt 0.011
+E0306 10:24:11.124347 265177 ic_gvins.cc:182] Append extra IMU data at 536743.801033
+E0306 10:24:11.220060 265177 ic_gvins.cc:172] Lost IMU data with at 536743.903 dt 0.012
+E0306 10:24:11.220197 265177 ic_gvins.cc:182] Append extra IMU data at 536743.896028
+E0306 10:24:11.512990 265177 ic_gvins.cc:172] Lost IMU data with at 536744.196 dt 0.010
+E0306 10:24:11.513134 265177 ic_gvins.cc:182] Append extra IMU data at 536744.191019
+E0306 10:24:11.623215 265177 ic_gvins.cc:172] Lost IMU data with at 536744.304 dt 0.013
+E0306 10:24:11.623332 265177 ic_gvins.cc:182] Append extra IMU data at 536744.296021
+E0306 10:24:11.623361 265177 ic_gvins.cc:182] Append extra IMU data at 536744.301021
+E0306 10:24:12.658730 265177 ic_gvins.cc:172] Lost IMU data with at 536745.337 dt 0.021
+E0306 10:24:12.658836 265177 ic_gvins.cc:182] Append extra IMU data at 536745.320978
+E0306 10:24:12.658860 265177 ic_gvins.cc:182] Append extra IMU data at 536745.325978
+E0306 10:24:12.658879 265177 ic_gvins.cc:182] Append extra IMU data at 536745.330978
+E0306 10:24:12.694308 265177 ic_gvins.cc:172] Lost IMU data with at 536745.377 dt 0.010
+E0306 10:24:12.694433 265177 ic_gvins.cc:182] Append extra IMU data at 536745.372533
+E0306 10:24:12.858493 265177 ic_gvins.cc:172] Lost IMU data with at 536745.538 dt 0.010
+E0306 10:24:12.858611 265177 ic_gvins.cc:182] Append extra IMU data at 536745.532523
+E0306 10:24:13.142485 265177 ic_gvins.cc:172] Lost IMU data with at 536745.826 dt 0.013
+E0306 10:24:13.142580 265177 ic_gvins.cc:182] Append extra IMU data at 536745.817547
+E0306 10:24:13.142603 265177 ic_gvins.cc:182] Append extra IMU data at 536745.822547
+E0306 10:24:13.238257 265177 ic_gvins.cc:172] Lost IMU data with at 536745.920 dt 0.008
+E0306 10:24:13.238371 265177 ic_gvins.cc:182] Append extra IMU data at 536745.917551
+E0306 10:24:13.355528 265177 ic_gvins.cc:172] Lost IMU data with at 536746.038 dt 0.009
+E0306 10:24:13.355657 265177 ic_gvins.cc:182] Append extra IMU data at 536746.033785
+E0306 10:24:13.490681 265177 ic_gvins.cc:172] Lost IMU data with at 536746.173 dt 0.011
+E0306 10:24:13.490818 265177 ic_gvins.cc:182] Append extra IMU data at 536746.167530
+E0306 10:24:13.729063 265177 ic_gvins.cc:172] Lost IMU data with at 536746.412 dt 0.010
+E0306 10:24:13.729162 265177 ic_gvins.cc:182] Append extra IMU data at 536746.407525
+E0306 10:24:14.039302 265177 ic_gvins.cc:172] Lost IMU data with at 536746.722 dt 0.009
+E0306 10:24:14.039462 265177 ic_gvins.cc:182] Append extra IMU data at 536746.717575
+E0306 10:24:14.645342 265177 ic_gvins.cc:172] Lost IMU data with at 536747.325 dt 0.008
+E0306 10:24:14.645481 265177 ic_gvins.cc:182] Append extra IMU data at 536747.322538
+E0306 10:24:16.347690 265177 ic_gvins.cc:172] Lost IMU data with at 536749.029 dt 0.012
+E0306 10:24:16.347822 265177 ic_gvins.cc:182] Append extra IMU data at 536749.022531
+E0306 10:24:16.863991 265177 ic_gvins.cc:172] Lost IMU data with at 536749.545 dt 0.013
+E0306 10:24:16.864117 265177 ic_gvins.cc:182] Append extra IMU data at 536749.537546
+E0306 10:24:16.864137 265177 ic_gvins.cc:182] Append extra IMU data at 536749.542546
+E0306 10:24:17.362097 265177 ic_gvins.cc:172] Lost IMU data with at 536750.041 dt 0.009
+E0306 10:24:17.362243 265177 ic_gvins.cc:182] Append extra IMU data at 536750.037582
+E0306 10:24:18.704885 265177 ic_gvins.cc:172] Lost IMU data with at 536751.388 dt 0.010
+E0306 10:24:18.705031 265177 ic_gvins.cc:182] Append extra IMU data at 536751.382532
+E0306 10:24:18.719358 265177 ic_gvins.cc:172] Lost IMU data with at 536751.402 dt 0.009
+E0306 10:24:18.719488 265177 ic_gvins.cc:182] Append extra IMU data at 536751.397535
+E0306 10:24:19.386768 265177 ic_gvins.cc:172] Lost IMU data with at 536752.069 dt 0.011
+E0306 10:24:19.386891 265177 ic_gvins.cc:182] Append extra IMU data at 536752.062530
+E0306 10:24:20.162024 265177 ic_gvins.cc:172] Lost IMU data with at 536752.845 dt 0.008
+E0306 10:24:20.162150 265177 ic_gvins.cc:182] Append extra IMU data at 536752.842525
+E0306 10:24:20.589871 265177 ic_gvins.cc:172] Lost IMU data with at 536753.273 dt 0.011
+E0306 10:24:20.590052 265177 ic_gvins.cc:182] Append extra IMU data at 536753.267512
+E0306 10:24:21.078277 265177 ic_gvins.cc:172] Lost IMU data with at 536753.761 dt 0.009
+E0306 10:24:21.078392 265177 ic_gvins.cc:182] Append extra IMU data at 536753.757527
+E0306 10:24:21.383239 265177 ic_gvins.cc:172] Lost IMU data with at 536754.065 dt 0.013
+E0306 10:24:21.383383 265177 ic_gvins.cc:182] Append extra IMU data at 536754.057532
+E0306 10:24:21.383406 265177 ic_gvins.cc:182] Append extra IMU data at 536754.062532
+E0306 10:24:22.715142 265177 ic_gvins.cc:172] Lost IMU data with at 536755.398 dt 0.010
+E0306 10:24:22.715278 265177 ic_gvins.cc:182] Append extra IMU data at 536755.392532
+E0306 10:24:23.826540 265177 ic_gvins.cc:172] Lost IMU data with at 536756.509 dt 0.012
+E0306 10:24:23.826635 265177 ic_gvins.cc:182] Append extra IMU data at 536756.502528
+E0306 10:24:24.386758 265177 ic_gvins.cc:172] Lost IMU data with at 536757.069 dt 0.017
+E0306 10:24:24.386888 265177 ic_gvins.cc:182] Append extra IMU data at 536757.057542
+E0306 10:24:24.386906 265177 ic_gvins.cc:182] Append extra IMU data at 536757.062542
+E0306 10:24:24.486616 265177 ic_gvins.cc:172] Lost IMU data with at 536757.169 dt 0.010
+E0306 10:24:24.486742 265177 ic_gvins.cc:182] Append extra IMU data at 536757.164496
+E0306 10:24:24.978713 265177 ic_gvins.cc:172] Lost IMU data with at 536757.661 dt 0.012
+E0306 10:24:24.978849 265177 ic_gvins.cc:182] Append extra IMU data at 536757.654483
+E0306 10:24:25.042174 265177 ic_gvins.cc:172] Lost IMU data with at 536757.725 dt 0.011
+E0306 10:24:25.042306 265177 ic_gvins.cc:182] Append extra IMU data at 536757.719485
+E0306 10:24:25.155845 265177 ic_gvins.cc:172] Lost IMU data with at 536757.839 dt 0.009
+E0306 10:24:25.155973 265177 ic_gvins.cc:182] Append extra IMU data at 536757.834489
+E0306 10:24:25.446327 265177 ic_gvins.cc:172] Lost IMU data with at 536758.129 dt 0.010
+E0306 10:24:25.446420 265177 ic_gvins.cc:182] Append extra IMU data at 536758.124475
+E0306 10:24:25.457043 265177 ic_gvins.cc:172] Lost IMU data with at 536758.137 dt 0.008
+E0306 10:24:25.457154 265177 ic_gvins.cc:182] Append extra IMU data at 536758.134500
+E0306 10:24:25.724349 265177 ic_gvins.cc:172] Lost IMU data with at 536758.407 dt 0.008
+E0306 10:24:25.724450 265177 ic_gvins.cc:182] Append extra IMU data at 536758.404474
+E0306 10:24:26.464759 265177 ic_gvins.cc:172] Lost IMU data with at 536759.148 dt 0.008
+E0306 10:24:26.464841 265177 ic_gvins.cc:182] Append extra IMU data at 536759.144482
+E0306 10:24:27.025988 265177 ic_gvins.cc:172] Lost IMU data with at 536759.709 dt 0.010
+E0306 10:24:27.026125 265177 ic_gvins.cc:182] Append extra IMU data at 536759.704498
+E0306 10:24:27.059357 265177 ic_gvins.cc:172] Lost IMU data with at 536759.742 dt 0.008
+E0306 10:24:27.059487 265177 ic_gvins.cc:182] Append extra IMU data at 536759.739477
+E0306 10:24:28.329039 265177 ic_gvins.cc:172] Lost IMU data with at 536761.012 dt 0.008
+E0306 10:24:28.329171 265177 ic_gvins.cc:182] Append extra IMU data at 536761.009492
+E0306 10:24:28.496023 265177 ic_gvins.cc:172] Lost IMU data with at 536761.179 dt 0.014
+E0306 10:24:28.496136 265177 ic_gvins.cc:182] Append extra IMU data at 536761.170544
+E0306 10:24:28.496156 265177 ic_gvins.cc:182] Append extra IMU data at 536761.175544
+E0306 10:24:29.128001 265177 ic_gvins.cc:172] Lost IMU data with at 536761.811 dt 0.016
+E0306 10:24:29.128110 265177 ic_gvins.cc:182] Append extra IMU data at 536761.799490
+E0306 10:24:29.128130 265177 ic_gvins.cc:182] Append extra IMU data at 536761.804490
+E0306 10:24:29.162125 265177 ic_gvins.cc:172] Lost IMU data with at 536761.841 dt 0.010
+E0306 10:24:29.162257 265177 ic_gvins.cc:182] Append extra IMU data at 536761.835778
+E0306 10:24:29.492635 265177 ic_gvins.cc:172] Lost IMU data with at 536762.175 dt 0.014
+E0306 10:24:29.492772 265177 ic_gvins.cc:182] Append extra IMU data at 536762.165760
+E0306 10:24:29.492792 265177 ic_gvins.cc:182] Append extra IMU data at 536762.170760
+E0306 10:24:29.562005 265177 ic_gvins.cc:172] Lost IMU data with at 536762.245 dt 0.010
+E0306 10:24:29.562162 265177 ic_gvins.cc:182] Append extra IMU data at 536762.240765
+E0306 10:24:29.587523 265177 ic_gvins.cc:172] Lost IMU data with at 536762.265 dt 0.010
+E0306 10:24:29.587656 265177 ic_gvins.cc:182] Append extra IMU data at 536762.260755
+E0306 10:24:29.654701 265177 ic_gvins.cc:172] Lost IMU data with at 536762.337 dt 0.012
+E0306 10:24:29.654829 265177 ic_gvins.cc:182] Append extra IMU data at 536762.330726
+E0306 10:24:29.662454 265177 ic_gvins.cc:172] Lost IMU data with at 536762.345 dt 0.008
+E0306 10:24:29.662539 265177 ic_gvins.cc:182] Append extra IMU data at 536762.342397
+E0306 10:24:29.692181 265177 ic_gvins.cc:172] Lost IMU data with at 536762.375 dt 0.009
+E0306 10:24:29.692304 265177 ic_gvins.cc:182] Append extra IMU data at 536762.370761
+E0306 10:24:30.127566 265177 ic_gvins.cc:172] Lost IMU data with at 536762.811 dt 0.010
+E0306 10:24:30.127691 265177 ic_gvins.cc:182] Append extra IMU data at 536762.805756
+E0306 10:24:30.448859 265177 ic_gvins.cc:172] Lost IMU data with at 536763.132 dt 0.011
+E0306 10:24:30.448989 265177 ic_gvins.cc:182] Append extra IMU data at 536763.125772
+E0306 10:24:30.598333 265177 ic_gvins.cc:172] Lost IMU data with at 536763.281 dt 0.011
+E0306 10:24:30.598495 265177 ic_gvins.cc:182] Append extra IMU data at 536763.275751
+E0306 10:24:31.212745 265177 ic_gvins.cc:172] Lost IMU data with at 536763.896 dt 0.010
+E0306 10:24:31.212863 265177 ic_gvins.cc:182] Append extra IMU data at 536763.890755
+E0306 10:24:32.615793 265177 ic_gvins.cc:172] Lost IMU data with at 536765.299 dt 0.008
+E0306 10:24:32.615960 265177 ic_gvins.cc:182] Append extra IMU data at 536765.295756
+E0306 10:24:33.466457 265177 ic_gvins.cc:172] Lost IMU data with at 536766.149 dt 0.024
+E0306 10:24:33.466594 265177 ic_gvins.cc:182] Append extra IMU data at 536766.130751
+E0306 10:24:33.466620 265177 ic_gvins.cc:182] Append extra IMU data at 536766.135751
+E0306 10:24:33.466637 265177 ic_gvins.cc:182] Append extra IMU data at 536766.140751
+E0306 10:24:33.466650 265177 ic_gvins.cc:182] Append extra IMU data at 536766.145751
+E0306 10:24:34.178507 265177 ic_gvins.cc:172] Lost IMU data with at 536766.861 dt 0.012
+E0306 10:24:34.178633 265177 ic_gvins.cc:182] Append extra IMU data at 536766.854483
+E0306 10:24:34.494189 265177 ic_gvins.cc:172] Lost IMU data with at 536767.177 dt 0.008
+E0306 10:24:34.494278 265177 ic_gvins.cc:182] Append extra IMU data at 536767.174479
+E0306 10:24:34.657421 265177 ic_gvins.cc:172] Lost IMU data with at 536767.340 dt 0.011
+E0306 10:24:34.657546 265177 ic_gvins.cc:182] Append extra IMU data at 536767.334475
+E0306 10:24:35.490299 265177 ic_gvins.cc:172] Lost IMU data with at 536768.172 dt 0.008
+E0306 10:24:35.490423 265177 ic_gvins.cc:182] Append extra IMU data at 536768.169478
+E0306 10:24:35.530510 265177 ic_gvins.cc:172] Lost IMU data with at 536768.213 dt 0.009
+E0306 10:24:35.530647 265177 ic_gvins.cc:182] Append extra IMU data at 536768.209639
+E0306 10:24:35.579465 265177 ic_gvins.cc:172] Lost IMU data with at 536768.262 dt 0.008
+E0306 10:24:35.579602 265177 ic_gvins.cc:182] Append extra IMU data at 536768.259475
+E0306 10:24:35.687170 265177 ic_gvins.cc:172] Lost IMU data with at 536768.370 dt 0.010
+E0306 10:24:35.687299 265177 ic_gvins.cc:182] Append extra IMU data at 536768.364577
+E0306 10:24:35.746618 265177 ic_gvins.cc:172] Lost IMU data with at 536768.429 dt 0.010
+E0306 10:24:35.746717 265177 ic_gvins.cc:182] Append extra IMU data at 536768.424479
+E0306 10:24:36.350737 265177 ic_gvins.cc:172] Lost IMU data with at 536769.033 dt 0.014
+E0306 10:24:36.350867 265177 ic_gvins.cc:182] Append extra IMU data at 536769.024479
+E0306 10:24:36.350893 265177 ic_gvins.cc:182] Append extra IMU data at 536769.029479
+E0306 10:24:36.395385 265177 ic_gvins.cc:172] Lost IMU data with at 536769.077 dt 0.012
+E0306 10:24:36.395516 265177 ic_gvins.cc:182] Append extra IMU data at 536769.069743
+E0306 10:24:36.493501 265177 ic_gvins.cc:172] Lost IMU data with at 536769.174 dt 0.010
+E0306 10:24:36.493624 265177 ic_gvins.cc:182] Append extra IMU data at 536769.169482
+E0306 10:24:36.689457 265177 ic_gvins.cc:172] Lost IMU data with at 536769.372 dt 0.008
+E0306 10:24:36.689618 265177 ic_gvins.cc:182] Append extra IMU data at 536769.369477
+E0306 10:24:37.027789 265177 ic_gvins.cc:172] Lost IMU data with at 536769.711 dt 0.011
+E0306 10:24:37.027907 265177 ic_gvins.cc:182] Append extra IMU data at 536769.704462
+E0306 10:24:37.329106 265177 ic_gvins.cc:172] Lost IMU data with at 536770.012 dt 0.008
+E0306 10:24:37.329221 265177 ic_gvins.cc:182] Append extra IMU data at 536770.009475
+E0306 10:24:37.395745 265177 ic_gvins.cc:172] Lost IMU data with at 536770.079 dt 0.009
+E0306 10:24:37.395841 265177 ic_gvins.cc:182] Append extra IMU data at 536770.074474
+E0306 10:24:37.529071 265177 ic_gvins.cc:172] Lost IMU data with at 536770.212 dt 0.008
+E0306 10:24:37.529206 265177 ic_gvins.cc:182] Append extra IMU data at 536770.209481
+E0306 10:24:37.788488 265177 ic_gvins.cc:172] Lost IMU data with at 536770.469 dt 0.009
+E0306 10:24:37.788615 265177 ic_gvins.cc:182] Append extra IMU data at 536770.464476
+E0306 10:24:38.746316 265177 ic_gvins.cc:172] Lost IMU data with at 536771.425 dt 0.011
+E0306 10:24:38.746469 265177 ic_gvins.cc:182] Append extra IMU data at 536771.419478
+E0306 10:24:38.850180 265177 ic_gvins.cc:172] Lost IMU data with at 536771.533 dt 0.014
+E0306 10:24:38.850304 265177 ic_gvins.cc:182] Append extra IMU data at 536771.524470
+E0306 10:24:38.850364 265177 ic_gvins.cc:182] Append extra IMU data at 536771.529470
+E0306 10:24:39.422803 265177 ic_gvins.cc:172] Lost IMU data with at 536772.105 dt 0.021
+E0306 10:24:39.422930 265177 ic_gvins.cc:182] Append extra IMU data at 536772.089483
+E0306 10:24:39.422956 265177 ic_gvins.cc:182] Append extra IMU data at 536772.094483
+E0306 10:24:39.422974 265177 ic_gvins.cc:182] Append extra IMU data at 536772.099483
+E0306 10:24:39.605470 265177 ic_gvins.cc:172] Lost IMU data with at 536772.288 dt 0.008
+E0306 10:24:39.605600 265177 ic_gvins.cc:182] Append extra IMU data at 536772.285481
+E0306 10:24:39.661453 265177 ic_gvins.cc:172] Lost IMU data with at 536772.345 dt 0.009
+E0306 10:24:39.661576 265177 ic_gvins.cc:182] Append extra IMU data at 536772.340479
+E0306 10:24:39.961423 265177 ic_gvins.cc:172] Lost IMU data with at 536772.644 dt 0.009
+E0306 10:24:39.961535 265177 ic_gvins.cc:182] Append extra IMU data at 536772.640495
+E0306 10:24:41.155754 265177 ic_gvins.cc:172] Lost IMU data with at 536773.838 dt 0.008
+E0306 10:24:41.155882 265177 ic_gvins.cc:182] Append extra IMU data at 536773.835484
+E0306 10:24:41.612279 265177 ic_gvins.cc:172] Lost IMU data with at 536774.293 dt 0.008
+E0306 10:24:41.612408 265177 ic_gvins.cc:182] Append extra IMU data at 536774.290469
+E0306 10:24:42.714126 265177 ic_gvins.cc:172] Lost IMU data with at 536775.388 dt 0.008
+E0306 10:24:42.714250 265177 ic_gvins.cc:182] Append extra IMU data at 536775.385517
+E0306 10:24:42.818538 265177 ic_gvins.cc:172] Lost IMU data with at 536775.501 dt 0.021
+E0306 10:24:42.818670 265177 ic_gvins.cc:182] Append extra IMU data at 536775.485499
+E0306 10:24:42.818691 265177 ic_gvins.cc:182] Append extra IMU data at 536775.490499
+E0306 10:24:42.818706 265177 ic_gvins.cc:182] Append extra IMU data at 536775.495499
+E0306 10:24:44.081269 265177 ic_gvins.cc:172] Lost IMU data with at 536776.764 dt 0.008
+E0306 10:24:44.081406 265177 ic_gvins.cc:182] Append extra IMU data at 536776.761491
+E0306 10:24:44.518684 265177 ic_gvins.cc:172] Lost IMU data with at 536777.201 dt 0.010
+E0306 10:24:44.518880 265177 ic_gvins.cc:182] Append extra IMU data at 536777.196486
+E0306 10:24:44.550674 265177 ic_gvins.cc:172] Lost IMU data with at 536777.233 dt 0.012
+E0306 10:24:44.550812 265177 ic_gvins.cc:182] Append extra IMU data at 536777.226480
+E0306 10:24:47.457197 265177 ic_gvins.cc:172] Lost IMU data with at 536780.140 dt 0.009
+E0306 10:24:47.457360 265177 ic_gvins.cc:182] Append extra IMU data at 536780.136554
+E0306 10:24:47.950259 265177 ic_gvins.cc:172] Lost IMU data with at 536780.633 dt 0.012
+E0306 10:24:47.950416 265177 ic_gvins.cc:182] Append extra IMU data at 536780.626522
+E0306 10:24:48.823872 265177 ic_gvins.cc:172] Lost IMU data with at 536781.506 dt 0.009
+E0306 10:24:48.824038 265177 ic_gvins.cc:182] Append extra IMU data at 536781.501493
+E0306 10:24:48.980549 265177 ic_gvins.cc:172] Lost IMU data with at 536781.653 dt 0.016
+E0306 10:24:48.980681 265177 ic_gvins.cc:182] Append extra IMU data at 536781.641488
+E0306 10:24:48.980705 265177 ic_gvins.cc:182] Append extra IMU data at 536781.646488
+E0306 10:24:49.258735 265177 ic_gvins.cc:172] Lost IMU data with at 536781.941 dt 0.014
+E0306 10:24:49.258862 265177 ic_gvins.cc:182] Append extra IMU data at 536781.932756
+E0306 10:24:49.258881 265177 ic_gvins.cc:182] Append extra IMU data at 536781.937756
+E0306 10:24:49.270306 265177 ic_gvins.cc:172] Lost IMU data with at 536781.953 dt 0.012
+E0306 10:24:49.270437 265177 ic_gvins.cc:182] Append extra IMU data at 536781.946440
+E0306 10:24:49.363236 265177 ic_gvins.cc:172] Lost IMU data with at 536782.046 dt 0.008
+E0306 10:24:49.363377 265177 ic_gvins.cc:182] Append extra IMU data at 536782.043489
+E0306 10:24:49.502342 265177 ic_gvins.cc:172] Lost IMU data with at 536782.183 dt 0.010
+E0306 10:24:49.502473 265177 ic_gvins.cc:182] Append extra IMU data at 536782.178492
+E0306 10:24:49.813414 265177 ic_gvins.cc:172] Lost IMU data with at 536782.496 dt 0.008
+E0306 10:24:49.813542 265177 ic_gvins.cc:182] Append extra IMU data at 536782.493487
+E0306 10:24:50.159741 265177 ic_gvins.cc:172] Lost IMU data with at 536782.842 dt 0.014
+E0306 10:24:50.159868 265177 ic_gvins.cc:182] Append extra IMU data at 536782.833491
+E0306 10:24:50.159889 265177 ic_gvins.cc:182] Append extra IMU data at 536782.838491
+E0306 10:24:50.294226 265177 ic_gvins.cc:172] Lost IMU data with at 536782.977 dt 0.009
+E0306 10:24:50.294342 265177 ic_gvins.cc:182] Append extra IMU data at 536782.973498
+E0306 10:24:50.593612 265177 ic_gvins.cc:172] Lost IMU data with at 536783.274 dt 0.011
+E0306 10:24:50.593734 265177 ic_gvins.cc:182] Append extra IMU data at 536783.268486
+E0306 10:24:51.689393 265177 ic_gvins.cc:172] Lost IMU data with at 536784.372 dt 0.009
+E0306 10:24:51.689518 265177 ic_gvins.cc:182] Append extra IMU data at 536784.368513
+E0306 10:24:51.703104 265177 ic_gvins.cc:172] Lost IMU data with at 536784.386 dt 0.008
+E0306 10:24:51.703233 265177 ic_gvins.cc:182] Append extra IMU data at 536784.383495
+E0306 10:24:51.846284 265177 ic_gvins.cc:172] Lost IMU data with at 536784.529 dt 0.011
+E0306 10:24:51.846408 265177 ic_gvins.cc:182] Append extra IMU data at 536784.523503
+E0306 10:24:51.855063 265177 ic_gvins.cc:172] Lost IMU data with at 536784.538 dt 0.008
+E0306 10:24:51.855183 265177 ic_gvins.cc:182] Append extra IMU data at 536784.534409
+E0306 10:24:52.299724 265177 ic_gvins.cc:172] Lost IMU data with at 536784.983 dt 0.009
+E0306 10:24:52.299854 265177 ic_gvins.cc:182] Append extra IMU data at 536784.978494
+E0306 10:24:52.850135 265177 ic_gvins.cc:172] Lost IMU data with at 536785.533 dt 0.010
+E0306 10:24:52.850262 265177 ic_gvins.cc:182] Append extra IMU data at 536785.528489
+E0306 10:24:53.458998 265177 ic_gvins.cc:172] Lost IMU data with at 536786.141 dt 0.008
+E0306 10:24:53.459105 265177 ic_gvins.cc:182] Append extra IMU data at 536786.138611
+E0306 10:24:53.558712 265177 ic_gvins.cc:172] Lost IMU data with at 536786.241 dt 0.008
+E0306 10:24:53.558818 265177 ic_gvins.cc:182] Append extra IMU data at 536786.238500
+E0306 10:24:53.930006 265177 ic_gvins.cc:172] Lost IMU data with at 536786.607 dt 0.009
+E0306 10:24:53.930135 265177 ic_gvins.cc:182] Append extra IMU data at 536786.603485
+E0306 10:24:54.098567 265177 ic_gvins.cc:172] Lost IMU data with at 536786.781 dt 0.013
+E0306 10:24:54.098695 265177 ic_gvins.cc:182] Append extra IMU data at 536786.773485
+E0306 10:24:54.098747 265177 ic_gvins.cc:182] Append extra IMU data at 536786.778485
+E0306 10:24:54.296968 265177 ic_gvins.cc:172] Lost IMU data with at 536786.977 dt 0.009
+E0306 10:24:54.297086 265177 ic_gvins.cc:182] Append extra IMU data at 536786.973506
+E0306 10:24:54.596223 265177 ic_gvins.cc:172] Lost IMU data with at 536787.277 dt 0.008
+E0306 10:24:54.596344 265177 ic_gvins.cc:182] Append extra IMU data at 536787.273499
+E0306 10:24:55.378316 265177 ic_gvins.cc:172] Lost IMU data with at 536788.061 dt 0.008
+E0306 10:24:55.378475 265177 ic_gvins.cc:182] Append extra IMU data at 536788.058490
+E0306 10:24:55.398397 265177 ic_gvins.cc:172] Lost IMU data with at 536788.081 dt 0.008
+E0306 10:24:55.398542 265177 ic_gvins.cc:182] Append extra IMU data at 536788.078730
+E0306 10:24:55.950198 265177 ic_gvins.cc:172] Lost IMU data with at 536788.633 dt 0.010
+E0306 10:24:55.950330 265177 ic_gvins.cc:182] Append extra IMU data at 536788.628488
+E0306 10:24:56.558867 265177 ic_gvins.cc:172] Lost IMU data with at 536789.229 dt 0.011
+E0306 10:24:56.558996 265177 ic_gvins.cc:182] Append extra IMU data at 536789.223484
+E0306 10:24:56.793308 265177 ic_gvins.cc:172] Lost IMU data with at 536789.476 dt 0.018
+E0306 10:24:56.793426 265177 ic_gvins.cc:182] Append extra IMU data at 536789.463506
+E0306 10:24:56.793445 265177 ic_gvins.cc:182] Append extra IMU data at 536789.468506
+E0306 10:24:56.793462 265177 ic_gvins.cc:182] Append extra IMU data at 536789.473506
+E0306 10:24:56.860922 265177 ic_gvins.cc:172] Lost IMU data with at 536789.544 dt 0.008
+E0306 10:24:56.861069 265177 ic_gvins.cc:182] Append extra IMU data at 536789.541280
+E0306 10:24:57.098469 265177 ic_gvins.cc:172] Lost IMU data with at 536789.781 dt 0.015
+E0306 10:24:57.098594 265177 ic_gvins.cc:182] Append extra IMU data at 536789.771290
+E0306 10:24:57.098624 265177 ic_gvins.cc:182] Append extra IMU data at 536789.776290
+E0306 10:24:57.366173 265177 ic_gvins.cc:172] Lost IMU data with at 536790.049 dt 0.008
+E0306 10:24:57.366302 265177 ic_gvins.cc:182] Append extra IMU data at 536790.046407
+E0306 10:24:57.661592 265177 ic_gvins.cc:172] Lost IMU data with at 536790.345 dt 0.008
+E0306 10:24:57.661711 265177 ic_gvins.cc:182] Append extra IMU data at 536790.341383
+E0306 10:24:57.758704 265177 ic_gvins.cc:172] Lost IMU data with at 536790.441 dt 0.010
+E0306 10:24:57.758831 265177 ic_gvins.cc:182] Append extra IMU data at 536790.436390
+E0306 10:24:57.903532 265177 ic_gvins.cc:172] Lost IMU data with at 536790.587 dt 0.010
+E0306 10:24:57.903668 265177 ic_gvins.cc:182] Append extra IMU data at 536790.581422
+E0306 10:24:58.500802 265177 ic_gvins.cc:172] Lost IMU data with at 536791.184 dt 0.008
+E0306 10:24:58.500927 265177 ic_gvins.cc:182] Append extra IMU data at 536791.181392
+E0306 10:24:58.625802 265177 ic_gvins.cc:172] Lost IMU data with at 536791.309 dt 0.008
+E0306 10:24:58.625910 265177 ic_gvins.cc:182] Append extra IMU data at 536791.306379
+E0306 10:24:59.126624 265177 ic_gvins.cc:172] Lost IMU data with at 536791.810 dt 0.008
+E0306 10:24:59.126760 265177 ic_gvins.cc:182] Append extra IMU data at 536791.806377
+E0306 10:24:59.490665 265177 ic_gvins.cc:172] Lost IMU data with at 536792.173 dt 0.022
+E0306 10:24:59.490792 265177 ic_gvins.cc:182] Append extra IMU data at 536792.156382
+E0306 10:24:59.490811 265177 ic_gvins.cc:182] Append extra IMU data at 536792.161382
+E0306 10:24:59.490829 265177 ic_gvins.cc:182] Append extra IMU data at 536792.166382
+E0306 10:25:00.746450 265177 ic_gvins.cc:172] Lost IMU data with at 536793.426 dt 0.008
+E0306 10:25:00.746594 265177 ic_gvins.cc:182] Append extra IMU data at 536793.423545
+E0306 10:25:01.157485 265177 ic_gvins.cc:172] Lost IMU data with at 536793.838 dt 0.010
+E0306 10:25:01.157604 265177 ic_gvins.cc:182] Append extra IMU data at 536793.833542
+E0306 10:25:02.194275 265177 ic_gvins.cc:172] Lost IMU data with at 536794.877 dt 0.009
+E0306 10:25:02.194411 265177 ic_gvins.cc:182] Append extra IMU data at 536794.873561
+E0306 10:25:02.809113 265177 ic_gvins.cc:172] Lost IMU data with at 536795.492 dt 0.008
+E0306 10:25:02.809221 265177 ic_gvins.cc:182] Append extra IMU data at 536795.488546
+E0306 10:25:03.161662 265177 ic_gvins.cc:172] Lost IMU data with at 536795.842 dt 0.009
+E0306 10:25:03.161798 265177 ic_gvins.cc:182] Append extra IMU data at 536795.838549
+E0306 10:25:03.488528 265177 ic_gvins.cc:172] Lost IMU data with at 536796.171 dt 0.013
+E0306 10:25:03.488657 265177 ic_gvins.cc:182] Append extra IMU data at 536796.163575
+E0306 10:25:03.488682 265177 ic_gvins.cc:182] Append extra IMU data at 536796.168575
+E0306 10:25:03.882664 265177 ic_gvins.cc:172] Lost IMU data with at 536796.565 dt 0.012
+E0306 10:25:03.882858 265177 ic_gvins.cc:182] Append extra IMU data at 536796.558552
+E0306 10:25:04.097860 265177 ic_gvins.cc:172] Lost IMU data with at 536796.781 dt 0.012
+E0306 10:25:04.097992 265177 ic_gvins.cc:182] Append extra IMU data at 536796.773532
+E0306 10:25:04.261598 265177 ic_gvins.cc:172] Lost IMU data with at 536796.944 dt 0.010
+E0306 10:25:04.261709 265177 ic_gvins.cc:182] Append extra IMU data at 536796.938778
+E0306 10:25:04.454428 265177 ic_gvins.cc:172] Lost IMU data with at 536797.137 dt 0.009
+E0306 10:25:04.454546 265177 ic_gvins.cc:182] Append extra IMU data at 536797.133630
+E0306 10:25:04.560559 265177 ic_gvins.cc:172] Lost IMU data with at 536797.243 dt 0.010
+E0306 10:25:04.560694 265177 ic_gvins.cc:182] Append extra IMU data at 536797.238549
+E0306 10:25:04.598017 265177 ic_gvins.cc:172] Lost IMU data with at 536797.281 dt 0.008
+E0306 10:25:04.598191 265177 ic_gvins.cc:182] Append extra IMU data at 536797.278553
+E0306 10:25:04.782245 265177 ic_gvins.cc:172] Lost IMU data with at 536797.465 dt 0.012
+E0306 10:25:04.782373 265177 ic_gvins.cc:182] Append extra IMU data at 536797.458550
+E0306 10:25:05.650480 265177 ic_gvins.cc:172] Lost IMU data with at 536798.334 dt 0.010
+E0306 10:25:05.650604 265177 ic_gvins.cc:182] Append extra IMU data at 536798.328559
+E0306 10:25:05.658601 265177 ic_gvins.cc:172] Lost IMU data with at 536798.341 dt 0.008
+E0306 10:25:05.658717 265177 ic_gvins.cc:182] Append extra IMU data at 536798.338696
+E0306 10:25:06.026664 265177 ic_gvins.cc:172] Lost IMU data with at 536798.709 dt 0.011
+E0306 10:25:06.026770 265177 ic_gvins.cc:182] Append extra IMU data at 536798.703554
+E0306 10:25:06.058993 265177 ic_gvins.cc:172] Lost IMU data with at 536798.741 dt 0.013
+E0306 10:25:06.059126 265177 ic_gvins.cc:182] Append extra IMU data at 536798.733555
+E0306 10:25:06.059146 265177 ic_gvins.cc:182] Append extra IMU data at 536798.738555
+E0306 10:25:06.209316 265177 ic_gvins.cc:172] Lost IMU data with at 536798.889 dt 0.010
+E0306 10:25:06.209441 265177 ic_gvins.cc:182] Append extra IMU data at 536798.883543
+E0306 10:25:06.402644 265177 ic_gvins.cc:172] Lost IMU data with at 536799.085 dt 0.017
+E0306 10:25:06.402779 265177 ic_gvins.cc:182] Append extra IMU data at 536799.073568
+E0306 10:25:06.402809 265177 ic_gvins.cc:182] Append extra IMU data at 536799.078568
+E0306 10:25:06.547776 265177 ic_gvins.cc:172] Lost IMU data with at 536799.231 dt 0.010
+E0306 10:25:06.547917 265177 ic_gvins.cc:182] Append extra IMU data at 536799.225297
+E0306 10:25:06.598192 265177 ic_gvins.cc:172] Lost IMU data with at 536799.281 dt 0.011
+E0306 10:25:06.598315 265177 ic_gvins.cc:182] Append extra IMU data at 536799.275299
+E0306 10:25:06.698243 265177 ic_gvins.cc:172] Lost IMU data with at 536799.381 dt 0.011
+E0306 10:25:06.698385 265177 ic_gvins.cc:182] Append extra IMU data at 536799.375302
+E0306 10:25:06.752327 265177 ic_gvins.cc:172] Lost IMU data with at 536799.434 dt 0.008
+E0306 10:25:06.752491 265177 ic_gvins.cc:182] Append extra IMU data at 536799.430287
+E0306 10:25:06.925197 265177 ic_gvins.cc:172] Lost IMU data with at 536799.608 dt 0.008
+E0306 10:25:06.925314 265177 ic_gvins.cc:182] Append extra IMU data at 536799.605300
+E0306 10:25:07.683019 265177 ic_gvins.cc:172] Lost IMU data with at 536800.365 dt 0.015
+E0306 10:25:07.683156 265177 ic_gvins.cc:182] Append extra IMU data at 536800.355302
+E0306 10:25:07.683179 265177 ic_gvins.cc:182] Append extra IMU data at 536800.360302
+E0306 10:25:08.402506 265177 ic_gvins.cc:172] Lost IMU data with at 536801.086 dt 0.010
+E0306 10:25:08.402643 265177 ic_gvins.cc:182] Append extra IMU data at 536801.080595
+E0306 10:25:09.255986 265177 ic_gvins.cc:172] Lost IMU data with at 536801.938 dt 0.008
+E0306 10:25:09.256120 265177 ic_gvins.cc:182] Append extra IMU data at 536801.935605
+E0306 10:25:09.590629 265177 ic_gvins.cc:172] Lost IMU data with at 536802.273 dt 0.008
+E0306 10:25:09.590775 265177 ic_gvins.cc:182] Append extra IMU data at 536802.270598
+E0306 10:25:10.058094 265177 ic_gvins.cc:172] Lost IMU data with at 536802.741 dt 0.010
+E0306 10:25:10.058274 265177 ic_gvins.cc:182] Append extra IMU data at 536802.735597
+E0306 10:25:10.065874 265177 ic_gvins.cc:172] Lost IMU data with at 536802.749 dt 0.008
+E0306 10:25:10.066037 265177 ic_gvins.cc:182] Append extra IMU data at 536802.745889
+E0306 10:25:10.331841 265177 ic_gvins.cc:172] Lost IMU data with at 536803.015 dt 0.009
+E0306 10:25:10.331935 265177 ic_gvins.cc:182] Append extra IMU data at 536803.010697
+E0306 10:25:10.491044 265177 ic_gvins.cc:172] Lost IMU data with at 536803.173 dt 0.018
+E0306 10:25:10.491266 265177 ic_gvins.cc:182] Append extra IMU data at 536803.160593
+E0306 10:25:10.491297 265177 ic_gvins.cc:182] Append extra IMU data at 536803.165593
+E0306 10:25:10.491314 265177 ic_gvins.cc:182] Append extra IMU data at 536803.170593
+E0306 10:25:10.686681 265177 ic_gvins.cc:172] Lost IMU data with at 536803.369 dt 0.016
+E0306 10:25:10.686830 265177 ic_gvins.cc:182] Append extra IMU data at 536803.358500
+E0306 10:25:10.686851 265177 ic_gvins.cc:182] Append extra IMU data at 536803.363500
+E0306 10:25:10.694236 265177 ic_gvins.cc:172] Lost IMU data with at 536803.377 dt 0.008
+E0306 10:25:10.694351 265177 ic_gvins.cc:182] Append extra IMU data at 536803.374391
+E0306 10:25:11.090415 265177 ic_gvins.cc:172] Lost IMU data with at 536803.773 dt 0.009
+E0306 10:25:11.090552 265177 ic_gvins.cc:182] Append extra IMU data at 536803.769463
+E0306 10:25:12.134233 265177 ic_gvins.cc:172] Lost IMU data with at 536804.817 dt 0.008
+E0306 10:25:12.134321 265177 ic_gvins.cc:182] Append extra IMU data at 536804.814480
+E0306 10:25:12.364408 265177 ic_gvins.cc:172] Lost IMU data with at 536805.048 dt 0.008
+E0306 10:25:12.364537 265177 ic_gvins.cc:182] Append extra IMU data at 536805.044481
+E0306 10:25:12.634218 265177 ic_gvins.cc:172] Lost IMU data with at 536805.317 dt 0.008
+E0306 10:25:12.634351 265177 ic_gvins.cc:182] Append extra IMU data at 536805.314666
+E0306 10:25:12.850579 265177 ic_gvins.cc:172] Lost IMU data with at 536805.533 dt 0.014
+E0306 10:25:12.850704 265177 ic_gvins.cc:182] Append extra IMU data at 536805.524463
+E0306 10:25:12.850732 265177 ic_gvins.cc:182] Append extra IMU data at 536805.529463
+E0306 10:25:12.994161 265177 ic_gvins.cc:172] Lost IMU data with at 536805.677 dt 0.008
+E0306 10:25:12.994297 265177 ic_gvins.cc:182] Append extra IMU data at 536805.674477
+E0306 10:25:13.614277 265177 ic_gvins.cc:172] Lost IMU data with at 536806.297 dt 0.013
+E0306 10:25:13.614398 265177 ic_gvins.cc:182] Append extra IMU data at 536806.289464
+E0306 10:25:13.614415 265177 ic_gvins.cc:182] Append extra IMU data at 536806.294464
+E0306 10:25:13.930101 265177 ic_gvins.cc:172] Lost IMU data with at 536806.613 dt 0.009
+E0306 10:25:13.930225 265177 ic_gvins.cc:182] Append extra IMU data at 536806.609475
+E0306 10:25:14.566140 265177 ic_gvins.cc:172] Lost IMU data with at 536807.249 dt 0.009
+E0306 10:25:14.566275 265177 ic_gvins.cc:182] Append extra IMU data at 536807.244487
+E0306 10:25:15.999518 265177 ic_gvins.cc:172] Lost IMU data with at 536808.681 dt 0.012
+E0306 10:25:15.999650 265177 ic_gvins.cc:182] Append extra IMU data at 536808.674470
+E0306 10:25:16.258692 265177 ic_gvins.cc:172] Lost IMU data with at 536808.941 dt 0.017
+E0306 10:25:16.258822 265177 ic_gvins.cc:182] Append extra IMU data at 536808.929471
+E0306 10:25:16.258841 265177 ic_gvins.cc:182] Append extra IMU data at 536808.934471
+E0306 10:25:16.291976 265177 ic_gvins.cc:172] Lost IMU data with at 536808.975 dt 0.008
+E0306 10:25:16.292119 265177 ic_gvins.cc:182] Append extra IMU data at 536808.971522
+E0306 10:25:17.323897 265177 ic_gvins.cc:172] Lost IMU data with at 536810.005 dt 0.009
+E0306 10:25:17.324023 265177 ic_gvins.cc:182] Append extra IMU data at 536810.001512
+E0306 10:25:17.425604 265177 ic_gvins.cc:172] Lost IMU data with at 536810.108 dt 0.011
+E0306 10:25:17.425725 265177 ic_gvins.cc:182] Append extra IMU data at 536810.101515
+E0306 10:25:18.312973 265177 ic_gvins.cc:172] Lost IMU data with at 536810.996 dt 0.010
+E0306 10:25:18.313139 265177 ic_gvins.cc:182] Append extra IMU data at 536810.991506
+E0306 10:25:18.461575 265177 ic_gvins.cc:172] Lost IMU data with at 536811.145 dt 0.008
+E0306 10:25:18.461737 265177 ic_gvins.cc:182] Append extra IMU data at 536811.141506
+E0306 10:25:18.534556 265177 ic_gvins.cc:172] Lost IMU data with at 536811.217 dt 0.021
+E0306 10:25:18.534650 265177 ic_gvins.cc:182] Append extra IMU data at 536811.201515
+E0306 10:25:18.534670 265177 ic_gvins.cc:182] Append extra IMU data at 536811.206515
+E0306 10:25:18.534684 265177 ic_gvins.cc:182] Append extra IMU data at 536811.211515
+E0306 10:25:18.563324 265177 ic_gvins.cc:172] Lost IMU data with at 536811.245 dt 0.008
+E0306 10:25:18.563457 265177 ic_gvins.cc:182] Append extra IMU data at 536811.242449
+E0306 10:25:18.630587 265177 ic_gvins.cc:172] Lost IMU data with at 536811.313 dt 0.021
+E0306 10:25:18.630702 265177 ic_gvins.cc:182] Append extra IMU data at 536811.297452
+E0306 10:25:18.630723 265177 ic_gvins.cc:182] Append extra IMU data at 536811.302452
+E0306 10:25:18.630741 265177 ic_gvins.cc:182] Append extra IMU data at 536811.307452
+E0306 10:25:18.655325 265177 ic_gvins.cc:172] Lost IMU data with at 536811.337 dt 0.009
+E0306 10:25:18.655447 265177 ic_gvins.cc:182] Append extra IMU data at 536811.333476
+E0306 10:25:18.756295 265177 ic_gvins.cc:172] Lost IMU data with at 536811.439 dt 0.011
+E0306 10:25:18.756392 265177 ic_gvins.cc:182] Append extra IMU data at 536811.433479
+E0306 10:25:18.902666 265177 ic_gvins.cc:172] Lost IMU data with at 536811.585 dt 0.017
+E0306 10:25:18.902791 265177 ic_gvins.cc:182] Append extra IMU data at 536811.573485
+E0306 10:25:18.902812 265177 ic_gvins.cc:182] Append extra IMU data at 536811.578485
+E0306 10:25:19.058619 265177 ic_gvins.cc:172] Lost IMU data with at 536811.741 dt 0.011
+E0306 10:25:19.058723 265177 ic_gvins.cc:182] Append extra IMU data at 536811.735462
+E0306 10:25:19.495620 265177 ic_gvins.cc:172] Lost IMU data with at 536812.178 dt 0.008
+E0306 10:25:19.495751 265177 ic_gvins.cc:182] Append extra IMU data at 536812.175463
+E0306 10:25:19.647210 265177 ic_gvins.cc:172] Lost IMU data with at 536812.329 dt 0.009
+E0306 10:25:19.647337 265177 ic_gvins.cc:182] Append extra IMU data at 536812.325456
+E0306 10:25:19.863833 265177 ic_gvins.cc:172] Lost IMU data with at 536812.547 dt 0.011
+E0306 10:25:19.863956 265177 ic_gvins.cc:182] Append extra IMU data at 536812.540509
+E0306 10:25:20.854450 265177 ic_gvins.cc:172] Lost IMU data with at 536813.534 dt 0.008
+E0306 10:25:20.854579 265177 ic_gvins.cc:182] Append extra IMU data at 536813.530462
+E0306 10:25:20.926472 265177 ic_gvins.cc:172] Lost IMU data with at 536813.609 dt 0.009
+E0306 10:25:20.926573 265177 ic_gvins.cc:182] Append extra IMU data at 536813.605456
+E0306 10:25:21.226931 265177 ic_gvins.cc:172] Lost IMU data with at 536813.909 dt 0.009
+E0306 10:25:21.227057 265177 ic_gvins.cc:182] Append extra IMU data at 536813.905486
+E0306 10:25:21.322260 265177 ic_gvins.cc:172] Lost IMU data with at 536814.005 dt 0.010
+E0306 10:25:21.322381 265177 ic_gvins.cc:182] Append extra IMU data at 536814.000459
+E0306 10:25:21.490515 265177 ic_gvins.cc:172] Lost IMU data with at 536814.173 dt 0.008
+E0306 10:25:21.490645 265177 ic_gvins.cc:182] Append extra IMU data at 536814.170457
+E0306 10:25:21.556660 265177 ic_gvins.cc:172] Lost IMU data with at 536814.238 dt 0.008
+E0306 10:25:21.556785 265177 ic_gvins.cc:182] Append extra IMU data at 536814.235481
+E0306 10:25:22.101253 265177 ic_gvins.cc:172] Lost IMU data with at 536814.784 dt 0.009
+E0306 10:25:22.101399 265177 ic_gvins.cc:182] Append extra IMU data at 536814.780466
+E0306 10:25:22.733970 265177 ic_gvins.cc:172] Lost IMU data with at 536815.416 dt 0.016
+E0306 10:25:22.734117 265177 ic_gvins.cc:182] Append extra IMU data at 536815.405470
+E0306 10:25:22.734138 265177 ic_gvins.cc:182] Append extra IMU data at 536815.410470
+E0306 10:25:23.392046 265177 ic_gvins.cc:172] Lost IMU data with at 536816.074 dt 0.013
+E0306 10:25:23.392206 265177 ic_gvins.cc:182] Append extra IMU data at 536816.066548
+E0306 10:25:23.392228 265177 ic_gvins.cc:182] Append extra IMU data at 536816.071548
+E0306 10:25:23.548543 265177 ic_gvins.cc:172] Lost IMU data with at 536816.232 dt 0.010
+E0306 10:25:23.548691 265177 ic_gvins.cc:182] Append extra IMU data at 536816.226541
+E0306 10:25:24.134712 265177 ic_gvins.cc:172] Lost IMU data with at 536816.817 dt 0.016
+E0306 10:25:24.134820 265177 ic_gvins.cc:182] Append extra IMU data at 536816.806728
+E0306 10:25:24.134893 265177 ic_gvins.cc:182] Append extra IMU data at 536816.811728
+E0306 10:25:24.162107 265177 ic_gvins.cc:172] Lost IMU data with at 536816.845 dt 0.008
+E0306 10:25:24.162246 265177 ic_gvins.cc:182] Append extra IMU data at 536816.842525
+E0306 10:25:24.180724 265177 ic_gvins.cc:172] Lost IMU data with at 536816.861 dt 0.008
+E0306 10:25:24.180838 265177 ic_gvins.cc:182] Append extra IMU data at 536816.857495
+E0306 10:25:24.814020 265177 ic_gvins.cc:172] Lost IMU data with at 536817.497 dt 0.009
+E0306 10:25:24.814157 265177 ic_gvins.cc:182] Append extra IMU data at 536817.492529
+E0306 10:25:25.030910 265177 ic_gvins.cc:172] Lost IMU data with at 536817.714 dt 0.021
+E0306 10:25:25.031028 265177 ic_gvins.cc:182] Append extra IMU data at 536817.697586
+E0306 10:25:25.031052 265177 ic_gvins.cc:182] Append extra IMU data at 536817.702586
+E0306 10:25:25.031071 265177 ic_gvins.cc:182] Append extra IMU data at 536817.707586
+E0306 10:25:25.040632 265177 ic_gvins.cc:172] Lost IMU data with at 536817.724 dt 0.010
+E0306 10:25:25.040742 265177 ic_gvins.cc:182] Append extra IMU data at 536817.718659
+E0306 10:25:25.069497 265177 ic_gvins.cc:172] Lost IMU data with at 536817.753 dt 0.009
+E0306 10:25:25.069644 265177 ic_gvins.cc:182] Append extra IMU data at 536817.748780
+E0306 10:25:25.266484 265177 ic_gvins.cc:172] Lost IMU data with at 536817.945 dt 0.017
+E0306 10:25:25.266613 265177 ic_gvins.cc:182] Append extra IMU data at 536817.933742
+E0306 10:25:25.266642 265177 ic_gvins.cc:182] Append extra IMU data at 536817.938742
+E0306 10:25:26.050029 265177 ic_gvins.cc:172] Lost IMU data with at 536818.733 dt 0.008
+E0306 10:25:26.050164 265177 ic_gvins.cc:182] Append extra IMU data at 536818.730487
+E0306 10:25:26.266676 265177 ic_gvins.cc:172] Lost IMU data with at 536818.945 dt 0.010
+E0306 10:25:26.266800 265177 ic_gvins.cc:182] Append extra IMU data at 536818.940498
+E0306 10:25:26.458853 265177 ic_gvins.cc:172] Lost IMU data with at 536819.141 dt 0.011
+E0306 10:25:26.459017 265177 ic_gvins.cc:182] Append extra IMU data at 536819.135496
+E0306 10:25:26.626644 265177 ic_gvins.cc:172] Lost IMU data with at 536819.309 dt 0.009
+E0306 10:25:26.626762 265177 ic_gvins.cc:182] Append extra IMU data at 536819.305485
+E0306 10:25:26.730261 265177 ic_gvins.cc:172] Lost IMU data with at 536819.413 dt 0.008
+E0306 10:25:26.730413 265177 ic_gvins.cc:182] Append extra IMU data at 536819.410552
+E0306 10:25:26.761036 265177 ic_gvins.cc:172] Lost IMU data with at 536819.444 dt 0.008
+E0306 10:25:26.761169 265177 ic_gvins.cc:182] Append extra IMU data at 536819.441258
+E0306 10:25:26.790704 265177 ic_gvins.cc:172] Lost IMU data with at 536819.473 dt 0.008
+E0306 10:25:26.790838 265177 ic_gvins.cc:182] Append extra IMU data at 536819.470490
+E0306 10:25:27.730341 265177 ic_gvins.cc:172] Lost IMU data with at 536820.413 dt 0.008
+E0306 10:25:27.730475 265177 ic_gvins.cc:182] Append extra IMU data at 536820.410493
+E0306 10:25:28.125401 265177 ic_gvins.cc:172] Lost IMU data with at 536820.808 dt 0.008
+E0306 10:25:28.125530 265177 ic_gvins.cc:182] Append extra IMU data at 536820.805496
+E0306 10:25:28.150548 265177 ic_gvins.cc:172] Lost IMU data with at 536820.834 dt 0.013
+E0306 10:25:28.150673 265177 ic_gvins.cc:182] Append extra IMU data at 536820.825493
+E0306 10:25:28.150703 265177 ic_gvins.cc:182] Append extra IMU data at 536820.830493
+E0306 10:25:28.934072 265177 ic_gvins.cc:172] Lost IMU data with at 536821.613 dt 0.013
+E0306 10:25:28.934170 265177 ic_gvins.cc:182] Append extra IMU data at 536821.605486
+E0306 10:25:28.934191 265177 ic_gvins.cc:182] Append extra IMU data at 536821.610486
+E0306 10:25:29.861446 265177 ic_gvins.cc:172] Lost IMU data with at 536822.544 dt 0.008
+E0306 10:25:29.861603 265177 ic_gvins.cc:182] Append extra IMU data at 536822.540477
+E0306 10:25:29.985860 265177 ic_gvins.cc:172] Lost IMU data with at 536822.668 dt 0.012
+E0306 10:25:29.986027 265177 ic_gvins.cc:182] Append extra IMU data at 536822.660494
+E0306 10:25:30.382368 265177 ic_gvins.cc:172] Lost IMU data with at 536823.065 dt 0.010
+E0306 10:25:30.382478 265177 ic_gvins.cc:182] Append extra IMU data at 536823.060493
+E0306 10:25:30.392072 265177 ic_gvins.cc:172] Lost IMU data with at 536823.073 dt 0.008
+E0306 10:25:30.392194 265177 ic_gvins.cc:182] Append extra IMU data at 536823.070412
+E0306 10:25:30.565923 265177 ic_gvins.cc:172] Lost IMU data with at 536823.249 dt 0.009
+E0306 10:25:30.566030 265177 ic_gvins.cc:182] Append extra IMU data at 536823.245492
+E0306 10:25:32.362354 265177 ic_gvins.cc:172] Lost IMU data with at 536825.041 dt 0.011
+E0306 10:25:32.362474 265177 ic_gvins.cc:182] Append extra IMU data at 536825.035484
+E0306 10:25:32.423453 265177 ic_gvins.cc:172] Lost IMU data with at 536825.106 dt 0.010
+E0306 10:25:32.423593 265177 ic_gvins.cc:182] Append extra IMU data at 536825.100508
+E0306 10:25:32.918239 265177 ic_gvins.cc:172] Lost IMU data with at 536825.601 dt 0.016
+E0306 10:25:32.918365 265177 ic_gvins.cc:182] Append extra IMU data at 536825.590509
+E0306 10:25:32.918386 265177 ic_gvins.cc:182] Append extra IMU data at 536825.595509
+E0306 10:25:34.282697 265177 ic_gvins.cc:172] Lost IMU data with at 536826.966 dt 0.009
+E0306 10:25:34.282819 265177 ic_gvins.cc:182] Append extra IMU data at 536826.961518
+E0306 10:25:34.584820 265177 ic_gvins.cc:172] Lost IMU data with at 536827.268 dt 0.011
+E0306 10:25:34.584937 265177 ic_gvins.cc:182] Append extra IMU data at 536827.261527
+E0306 10:25:34.794697 265177 ic_gvins.cc:172] Lost IMU data with at 536827.477 dt 0.011
+E0306 10:25:34.794836 265177 ic_gvins.cc:182] Append extra IMU data at 536827.471510
+E0306 10:25:34.802345 265177 ic_gvins.cc:172] Lost IMU data with at 536827.485 dt 0.008
+E0306 10:25:34.802464 265177 ic_gvins.cc:182] Append extra IMU data at 536827.482415
+E0306 10:25:35.260035 265177 ic_gvins.cc:172] Lost IMU data with at 536827.942 dt 0.011
+E0306 10:25:35.260205 265177 ic_gvins.cc:182] Append extra IMU data at 536827.936500
+E0306 10:25:35.592175 265177 ic_gvins.cc:172] Lost IMU data with at 536828.273 dt 0.017
+E0306 10:25:35.592303 265177 ic_gvins.cc:182] Append extra IMU data at 536828.261501
+E0306 10:25:35.592326 265177 ic_gvins.cc:182] Append extra IMU data at 536828.266501
+E0306 10:25:35.599390 265177 ic_gvins.cc:172] Lost IMU data with at 536828.281 dt 0.008
+E0306 10:25:35.599521 265177 ic_gvins.cc:182] Append extra IMU data at 536828.278470
+E0306 10:25:35.878374 265177 ic_gvins.cc:172] Lost IMU data with at 536828.561 dt 0.008
+E0306 10:25:35.878468 265177 ic_gvins.cc:182] Append extra IMU data at 536828.558541
+E0306 10:25:35.896009 265177 ic_gvins.cc:172] Lost IMU data with at 536828.579 dt 0.010
+E0306 10:25:35.896150 265177 ic_gvins.cc:182] Append extra IMU data at 536828.573544
+E0306 10:25:35.962875 265177 ic_gvins.cc:172] Lost IMU data with at 536828.645 dt 0.012
+E0306 10:25:35.963042 265177 ic_gvins.cc:182] Append extra IMU data at 536828.638545
+E0306 10:25:36.063833 265177 ic_gvins.cc:172] Lost IMU data with at 536828.747 dt 0.008
+E0306 10:25:36.063957 265177 ic_gvins.cc:182] Append extra IMU data at 536828.743541
+E0306 10:25:36.298883 265177 ic_gvins.cc:172] Lost IMU data with at 536828.981 dt 0.008
+E0306 10:25:36.299008 265177 ic_gvins.cc:182] Append extra IMU data at 536828.978549
+E0306 10:26:13.851454 265177 ic_gvins.cc:172] Lost IMU data with at 536831.585 dt 0.012
+E0306 10:26:13.851605 265177 ic_gvins.cc:182] Append extra IMU data at 536831.578563
+E0306 10:26:13.972779 265177 ic_gvins.cc:172] Lost IMU data with at 536831.705 dt 0.012
+E0306 10:26:13.972905 265177 ic_gvins.cc:182] Append extra IMU data at 536831.698556
+E0306 10:26:14.245462 265177 ic_gvins.cc:172] Lost IMU data with at 536831.977 dt 0.009
+E0306 10:26:14.245563 265177 ic_gvins.cc:182] Append extra IMU data at 536831.973564
+E0306 10:26:15.719539 265177 ic_gvins.cc:172] Lost IMU data with at 536833.453 dt 0.015
+E0306 10:26:15.719720 265177 ic_gvins.cc:182] Append extra IMU data at 536833.443559
+E0306 10:26:15.719753 265177 ic_gvins.cc:182] Append extra IMU data at 536833.448559
+E0306 10:26:16.046159 265177 ic_gvins.cc:172] Lost IMU data with at 536833.769 dt 0.016
+E0306 10:26:16.046283 265177 ic_gvins.cc:182] Append extra IMU data at 536833.758554
+E0306 10:26:16.046307 265177 ic_gvins.cc:182] Append extra IMU data at 536833.763554
+E0306 10:26:16.069941 265177 ic_gvins.cc:172] Lost IMU data with at 536833.804 dt 0.009
+E0306 10:26:16.070082 265177 ic_gvins.cc:182] Append extra IMU data at 536833.799501
+E0306 10:26:17.019464 265177 ic_gvins.cc:172] Lost IMU data with at 536834.753 dt 0.009
+E0306 10:26:17.019588 265177 ic_gvins.cc:182] Append extra IMU data at 536834.749506
+E0306 10:26:17.840278 265177 ic_gvins.cc:172] Lost IMU data with at 536835.573 dt 0.014
+E0306 10:26:17.840422 265177 ic_gvins.cc:182] Append extra IMU data at 536835.564510
+E0306 10:26:17.840456 265177 ic_gvins.cc:182] Append extra IMU data at 536835.569510
+E0306 10:26:17.911974 265177 ic_gvins.cc:172] Lost IMU data with at 536835.645 dt 0.011
+E0306 10:26:17.912108 265177 ic_gvins.cc:182] Append extra IMU data at 536835.639488
+E0306 10:26:17.919461 265177 ic_gvins.cc:172] Lost IMU data with at 536835.653 dt 0.008
+E0306 10:26:17.919581 265177 ic_gvins.cc:182] Append extra IMU data at 536835.650401
+E0306 10:26:18.878083 265177 ic_gvins.cc:172] Lost IMU data with at 536836.612 dt 0.008
+E0306 10:26:18.878217 265177 ic_gvins.cc:182] Append extra IMU data at 536836.609507
+E0306 10:26:19.107405 265177 ic_gvins.cc:172] Lost IMU data with at 536836.841 dt 0.016
+E0306 10:26:19.107553 265177 ic_gvins.cc:182] Append extra IMU data at 536836.829503
+E0306 10:26:19.107571 265177 ic_gvins.cc:182] Append extra IMU data at 536836.834503
+E0306 10:26:19.144937 265177 ic_gvins.cc:172] Lost IMU data with at 536836.878 dt 0.012
+E0306 10:26:19.145068 265177 ic_gvins.cc:182] Append extra IMU data at 536836.871088
+E0306 10:26:20.584167 265177 ic_gvins.cc:172] Lost IMU data with at 536838.314 dt 0.008
+E0306 10:26:20.584297 265177 ic_gvins.cc:182] Append extra IMU data at 536838.311113
+E0306 10:26:20.826402 265177 ic_gvins.cc:172] Lost IMU data with at 536838.560 dt 0.009
+E0306 10:26:20.826537 265177 ic_gvins.cc:182] Append extra IMU data at 536838.556101
+E0306 10:26:21.283594 265177 ic_gvins.cc:172] Lost IMU data with at 536839.017 dt 0.016
+E0306 10:26:21.283720 265177 ic_gvins.cc:182] Append extra IMU data at 536839.006107
+E0306 10:26:21.283739 265177 ic_gvins.cc:182] Append extra IMU data at 536839.011107
+E0306 10:26:21.370370 265177 ic_gvins.cc:172] Lost IMU data with at 536839.101 dt 0.014
+E0306 10:26:21.370494 265177 ic_gvins.cc:182] Append extra IMU data at 536839.092172
+E0306 10:26:21.370525 265177 ic_gvins.cc:182] Append extra IMU data at 536839.097172
+E0306 10:26:21.479951 265177 ic_gvins.cc:172] Lost IMU data with at 536839.213 dt 0.016
+E0306 10:26:21.480075 265177 ic_gvins.cc:182] Append extra IMU data at 536839.202164
+E0306 10:26:21.480100 265177 ic_gvins.cc:182] Append extra IMU data at 536839.207164
+E0306 10:26:21.737726 265177 ic_gvins.cc:172] Lost IMU data with at 536839.471 dt 0.008
+E0306 10:26:21.737931 265177 ic_gvins.cc:182] Append extra IMU data at 536839.468512
+E0306 10:26:21.980899 265177 ic_gvins.cc:172] Lost IMU data with at 536839.713 dt 0.020
+E0306 10:26:21.981024 265177 ic_gvins.cc:182] Append extra IMU data at 536839.698530
+E0306 10:26:21.981050 265177 ic_gvins.cc:182] Append extra IMU data at 536839.703530
+E0306 10:26:21.981066 265177 ic_gvins.cc:182] Append extra IMU data at 536839.708530
+E0306 10:26:22.042833 265177 ic_gvins.cc:172] Lost IMU data with at 536839.776 dt 0.008
+E0306 10:26:22.042958 265177 ic_gvins.cc:182] Append extra IMU data at 536839.773499
+E0306 10:26:27.702003 265177 ic_gvins.cc:172] Lost IMU data with at 536839.929 dt 0.010
+E0306 10:26:27.702165 265177 ic_gvins.cc:182] Append extra IMU data at 536839.923507
+E0306 10:26:29.955384 265177 ic_gvins.cc:172] Lost IMU data with at 536842.182 dt 0.008
+E0306 10:26:29.955665 265177 ic_gvins.cc:182] Append extra IMU data at 536842.178492
+E0306 10:26:30.171558 265177 ic_gvins.cc:172] Lost IMU data with at 536842.397 dt 0.009
+E0306 10:26:30.171690 265177 ic_gvins.cc:182] Append extra IMU data at 536842.393507
+E0306 10:26:32.022969 265177 ic_gvins.cc:172] Lost IMU data with at 536844.249 dt 0.010
+E0306 10:26:32.023139 265177 ic_gvins.cc:182] Append extra IMU data at 536844.244311
+E0306 10:26:32.174714 265177 ic_gvins.cc:172] Lost IMU data with at 536844.401 dt 0.008
+E0306 10:26:32.174844 265177 ic_gvins.cc:182] Append extra IMU data at 536844.398508
+E0306 10:26:32.246245 265177 ic_gvins.cc:172] Lost IMU data with at 536844.473 dt 0.009
+E0306 10:26:32.246374 265177 ic_gvins.cc:182] Append extra IMU data at 536844.468486
+E0306 10:26:32.551317 265177 ic_gvins.cc:172] Lost IMU data with at 536844.777 dt 0.009
+E0306 10:26:32.551440 265177 ic_gvins.cc:182] Append extra IMU data at 536844.773481
+E0306 10:26:32.869895 265177 ic_gvins.cc:172] Lost IMU data with at 536845.096 dt 0.008
+E0306 10:26:32.870025 265177 ic_gvins.cc:182] Append extra IMU data at 536845.093503
+E0306 10:26:33.122679 265177 ic_gvins.cc:172] Lost IMU data with at 536845.349 dt 0.010
+E0306 10:26:33.122843 265177 ic_gvins.cc:182] Append extra IMU data at 536845.343885
+E0306 10:26:34.115187 265177 ic_gvins.cc:172] Lost IMU data with at 536846.341 dt 0.013
+E0306 10:26:34.115304 265177 ic_gvins.cc:182] Append extra IMU data at 536846.333494
+E0306 10:26:34.115320 265177 ic_gvins.cc:182] Append extra IMU data at 536846.338494
+E0306 10:26:35.007792 265177 ic_gvins.cc:172] Lost IMU data with at 536847.233 dt 0.010
+E0306 10:26:35.007915 265177 ic_gvins.cc:182] Append extra IMU data at 536847.228483
+E0306 10:26:36.024610 265177 ic_gvins.cc:172] Lost IMU data with at 536848.250 dt 0.012
+E0306 10:26:36.024744 265177 ic_gvins.cc:182] Append extra IMU data at 536848.243501
+E0306 10:26:36.291052 265177 ic_gvins.cc:172] Lost IMU data with at 536848.517 dt 0.014
+E0306 10:26:36.291245 265177 ic_gvins.cc:182] Append extra IMU data at 536848.508554
+E0306 10:26:36.291272 265177 ic_gvins.cc:182] Append extra IMU data at 536848.513554
+E0306 10:26:36.575737 265177 ic_gvins.cc:172] Lost IMU data with at 536848.801 dt 0.013
+E0306 10:26:36.575872 265177 ic_gvins.cc:182] Append extra IMU data at 536848.793486
+E0306 10:26:36.575897 265177 ic_gvins.cc:182] Append extra IMU data at 536848.798486
+E0306 10:26:36.690212 265177 ic_gvins.cc:172] Lost IMU data with at 536848.917 dt 0.008
+E0306 10:26:36.690328 265177 ic_gvins.cc:182] Append extra IMU data at 536848.913500
+E0306 10:26:36.883412 265177 ic_gvins.cc:172] Lost IMU data with at 536849.109 dt 0.016
+E0306 10:26:36.883551 265177 ic_gvins.cc:182] Append extra IMU data at 536849.098502
+E0306 10:26:36.883575 265177 ic_gvins.cc:182] Append extra IMU data at 536849.103502
+E0306 10:26:37.723454 265177 ic_gvins.cc:172] Lost IMU data with at 536849.949 dt 0.010
+E0306 10:26:37.723570 265177 ic_gvins.cc:182] Append extra IMU data at 536849.944521
+E0306 10:26:37.751545 265177 ic_gvins.cc:172] Lost IMU data with at 536849.978 dt 0.013
+E0306 10:26:37.751631 265177 ic_gvins.cc:182] Append extra IMU data at 536849.969514
+E0306 10:26:37.751653 265177 ic_gvins.cc:182] Append extra IMU data at 536849.974514
+E0306 10:26:38.122370 265177 ic_gvins.cc:172] Lost IMU data with at 536850.348 dt 0.009
+E0306 10:26:38.122493 265177 ic_gvins.cc:182] Append extra IMU data at 536850.344540
+E0306 10:26:38.220611 265177 ic_gvins.cc:172] Lost IMU data with at 536850.444 dt 0.009
+E0306 10:26:38.220728 265177 ic_gvins.cc:182] Append extra IMU data at 536850.439520
+E0306 10:26:38.886267 265177 ic_gvins.cc:172] Lost IMU data with at 536851.112 dt 0.008
+E0306 10:26:38.886395 265177 ic_gvins.cc:182] Append extra IMU data at 536851.109515
+E0306 10:26:39.086115 265177 ic_gvins.cc:172] Lost IMU data with at 536851.312 dt 0.008
+E0306 10:26:39.086242 265177 ic_gvins.cc:182] Append extra IMU data at 536851.309519
+E0306 10:26:39.691217 265177 ic_gvins.cc:172] Lost IMU data with at 536851.917 dt 0.008
+E0306 10:26:39.691390 265177 ic_gvins.cc:182] Append extra IMU data at 536851.914517
+E0306 10:26:39.719089 265177 ic_gvins.cc:172] Lost IMU data with at 536851.944 dt 0.010
+E0306 10:26:39.719251 265177 ic_gvins.cc:182] Append extra IMU data at 536851.939519
+E0306 10:26:39.774807 265177 ic_gvins.cc:172] Lost IMU data with at 536852.001 dt 0.012
+E0306 10:26:39.774935 265177 ic_gvins.cc:182] Append extra IMU data at 536851.994518
+E0306 10:26:39.992182 265177 ic_gvins.cc:172] Lost IMU data with at 536852.218 dt 0.014
+E0306 10:26:39.992311 265177 ic_gvins.cc:182] Append extra IMU data at 536852.209516
+E0306 10:26:39.992341 265177 ic_gvins.cc:182] Append extra IMU data at 536852.214516
+E0306 10:26:40.528978 265177 ic_gvins.cc:172] Lost IMU data with at 536852.753 dt 0.009
+E0306 10:26:40.529124 265177 ic_gvins.cc:182] Append extra IMU data at 536852.749524
+E0306 10:26:40.579412 265177 ic_gvins.cc:172] Lost IMU data with at 536852.805 dt 0.011
+E0306 10:26:40.579559 265177 ic_gvins.cc:182] Append extra IMU data at 536852.799525
+E0306 10:26:40.587186 265177 ic_gvins.cc:172] Lost IMU data with at 536852.813 dt 0.008
+E0306 10:26:40.587299 265177 ic_gvins.cc:182] Append extra IMU data at 536852.810430
+E0306 10:26:41.221415 265177 ic_gvins.cc:172] Lost IMU data with at 536853.448 dt 0.008
+E0306 10:26:41.221540 265177 ic_gvins.cc:182] Append extra IMU data at 536853.444505

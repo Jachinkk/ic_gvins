@@ -1,0 +1,32 @@
+outputpath: /home/fury/kk/ic_gvins_ws/K3105C2.0/output
+is_make_outputdir: true
+initlength: 1
+imudatarate: 200
+iswithearth: true
+antlever: [-0.10, -0.10, -0.10]
+imumodel:
+  arw: 38.73
+  vrw: 7.60
+  gbstd: 2.0
+  abstd: 1.5
+  corrtime: 1.0
+isusegnssoutage: false
+gnssoutagetime: 364461.5
+gnssthreshold: 5
+is_use_visualization: true
+track_check_histogram: false
+track_min_parallax: 10
+track_max_interval: 0.5
+track_max_features: 200
+reprojection_error_std: 1.5
+optimize_windows_size: 10
+optimize_num_iterations: 20
+optimize_estimate_extrinsic: true
+optimize_estimate_td: true
+cam0:
+  intrinsic: [661.2452075462028, 660.7423696380637, 643.5002155039268, 359.3765760652068]
+  distortion: [0.0, 0.0, 0.0, 0.0]
+  resolution: [1280, 720]
+  q_b_c: [0.504498, 0.507801, 0.494410, 0.493132]
+  t_b_c: [0.274, -0.095, -0.104]
+  td_b_c: 0.047

@@ -1,0 +1,8 @@
+prefix=/home/fury/kk/gvins/ic_gvins_ws/install
+
+Name: ic_gvins
+Description: Description of ic_gvins
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

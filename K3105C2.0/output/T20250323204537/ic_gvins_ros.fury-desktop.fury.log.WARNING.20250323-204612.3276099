@@ -1,0 +1,572 @@
+Log file created at: 2025/03/23 20:46:12
+Running on machine: fury-desktop
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0323 20:46:12.664247 3276146 misc.cc:223] Do INS mechanization with a long time 1.00963 s
+W0323 20:46:13.948717 3276148 ic_gvins.cc:1698] Reintegration 2 preintegration
+E0323 20:46:15.556524 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -0.451146 -0.546555   1.46505, R: 88.0498   3.104 91.3211
+E0323 20:46:15.663322 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  -10.6078 -0.173307   2.95149, R:  86.428 61.5563 85.8393
+E0323 20:46:15.851812 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  -7.05623   4.38705 -0.413458, R: 90.3266 15.6312 89.8589
+E0323 20:46:16.014178 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  -2.59994 -0.146089  0.173467, R:  90.3014 -24.9684  90.2354
+E0323 20:46:16.164618 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.13774 -2.98334 0.561334, R:  90.4542 -16.2765  90.5695
+E0323 20:46:16.257292 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  2.48411 -1.95978  1.16757, R: 90.3769 2.16239 91.1965
+E0323 20:46:16.332141 3276099 ic_gvins.cc:172] Lost IMU data with at 545803.800 dt 0.008
+E0323 20:46:16.332278 3276099 ic_gvins.cc:182] Append extra IMU data at 545803.797110
+E0323 20:46:16.425700 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  0.634821 -0.951659   1.21587, R: 89.6578   9.657  90.942
+E0323 20:46:16.556942 3276099 ic_gvins.cc:172] Lost IMU data with at 545804.025 dt 0.008
+E0323 20:46:16.557085 3276099 ic_gvins.cc:182] Append extra IMU data at 545804.022100
+E0323 20:46:16.564245 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  2.18475 -1.49343  3.27567, R:  89.315 9.05848 90.2754
+E0323 20:46:16.696854 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   1.4358 -1.56737  4.12263, R: 89.6141 12.8886 91.0258
+E0323 20:46:16.891204 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   5.52348 -0.545027   1.69461, R: 89.7349 -17.144 90.7877
+E0323 20:46:17.020229 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.39335 0.0865372   0.25476, R:  89.5084 -19.8492  91.7715
+E0323 20:46:17.129910 3276099 ic_gvins.cc:172] Lost IMU data with at 545804.597 dt 0.010
+E0323 20:46:17.130046 3276099 ic_gvins.cc:182] Append extra IMU data at 545804.592450
+E0323 20:46:17.139803 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.90347 -0.352359 -0.558945, R:  89.6898 -27.4513  92.3475
+E0323 20:46:17.303550 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.93462 -1.53947 -1.71275, R:  89.4909 -19.0482   92.434
+E0323 20:46:17.415560 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   7.03457 -0.634427  -1.11346, R:  89.2339 -15.8137  92.1683
+E0323 20:46:17.572106 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  5.69422 0.193378  1.35182, R:  88.6795 -3.64893  91.0873
+E0323 20:46:17.692353 3276099 ic_gvins.cc:172] Lost IMU data with at 545805.161 dt 0.009
+E0323 20:46:17.692464 3276099 ic_gvins.cc:182] Append extra IMU data at 545805.157120
+E0323 20:46:17.710345 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  4.61044 0.578911  2.80955, R:  88.5713 -2.82479  90.4523
+E0323 20:46:17.830933 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: 9.09071 1.80691 0.92579, R:  88.2204 -9.96375  90.8078
+E0323 20:46:17.965855 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.5739  0.930965 -0.814518, R:  87.9247 -7.59182  91.3992
+E0323 20:46:18.098838 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.82567 -0.172573  0.444286, R:  87.7028 -20.2853  92.0384
+E0323 20:46:18.229228 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.17756 -0.306901 -0.790092, R:  87.6107 -13.8792  91.9774
+E0323 20:46:18.378471 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.84762 -0.187431  -1.88226, R:  87.5988 -19.4401  92.3522
+E0323 20:46:18.464310 3276099 ic_gvins.cc:172] Lost IMU data with at 545805.932 dt 0.010
+E0323 20:46:18.464483 3276099 ic_gvins.cc:182] Append extra IMU data at 545805.927099
+E0323 20:46:18.511628 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  2.07491 -1.60082 -1.43536, R: 87.6987 -10.619 92.1927
+E0323 20:46:18.634852 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.26093 -1.71503 -2.08552, R:  87.6402 -14.7272  92.6425
+E0323 20:46:18.806176 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: 0.428246 -2.50332 -1.52652, R:  87.7165 -12.1354  91.9935
+E0323 20:46:18.968168 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.06515 -3.27783  -1.3235, R:  87.6839 -18.8936  92.3125
+E0323 20:46:19.115770 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.50532 -2.49795 -1.16726, R:  87.4573 -23.4677  92.7546
+E0323 20:46:19.257967 3276099 ic_gvins.cc:172] Lost IMU data with at 545806.726 dt 0.009
+E0323 20:46:19.258121 3276099 ic_gvins.cc:182] Append extra IMU data at 545806.722095
+E0323 20:46:19.291392 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.47615  -1.14695 -0.579602, R:  87.5915 -10.9816  91.5114
+E0323 20:46:19.449486 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.85874 -1.75384 0.156682, R:  87.5278 -9.19808  91.0018
+E0323 20:46:19.480664 3276099 ic_gvins.cc:172] Lost IMU data with at 545806.949 dt 0.021
+E0323 20:46:19.480815 3276099 ic_gvins.cc:182] Append extra IMU data at 545806.932113
+E0323 20:46:19.480839 3276099 ic_gvins.cc:182] Append extra IMU data at 545806.937113
+E0323 20:46:19.480857 3276099 ic_gvins.cc:182] Append extra IMU data at 545806.942113
+E0323 20:46:19.612200 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  -1.05359 -0.632016   1.88464, R:   86.242 -20.3655  92.4461
+E0323 20:46:19.781499 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    20.142 -0.704594  -2.18066, R: 86.6144 26.7166 86.8446
+E0323 20:46:19.878347 3276099 ic_gvins.cc:172] Lost IMU data with at 545807.346 dt 0.008
+E0323 20:46:19.878484 3276099 ic_gvins.cc:182] Append extra IMU data at 545807.343825
+E0323 20:46:19.950098 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   29.0009 -0.104502  -4.07183, R: 87.8494 6.06242 88.8539
+E0323 20:46:20.117174 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  21.5667 -2.94482 -2.44698, R: 86.4024 8.68779 89.0202
+E0323 20:46:20.263471 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  4.57347 -2.85344    1.058, R: 84.7683 1.11668 90.3506
+E0323 20:46:20.387406 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -8.63885 -5.38561  3.27549, R: 85.4465 9.15027 89.5905
+E0323 20:46:20.534981 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -11.0625 -5.58495  7.35006, R:  85.5264 -27.7401   93.215
+E0323 20:46:20.684409 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -3.72332 -2.88814  2.76733, R: 84.7152 -22.482 92.7833
+E0323 20:46:20.803156 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -2.21912 -2.53638  1.93198, R:  84.5453 -18.1382   92.326
+E0323 20:46:20.974272 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -4.98033  -3.5609  3.12035, R:  84.9621 -8.78758  91.1085
+E0323 20:46:21.135747 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -4.92259 -4.94553  3.35905, R:  85.4019 -5.82733  90.7488
+E0323 20:46:21.304416 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -1.78185 -5.03902  2.03282, R:  85.3407 -6.08677  90.7952
+E0323 20:46:21.479041 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -0.74962 -3.68126  1.70072, R:  85.2808 -15.9889  91.9511
+E0323 20:46:21.647140 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -0.878287  -2.42487   2.80611, R:  85.1788 -18.6112   92.087
+E0323 20:46:21.828397 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.08219 -1.24895   2.4334, R:  84.7347 -26.0302  93.3288
+E0323 20:46:21.936762 3276099 ic_gvins.cc:172] Lost IMU data with at 545809.405 dt 0.011
+E0323 20:46:21.936923 3276099 ic_gvins.cc:182] Append extra IMU data at 545809.398834
+E0323 20:46:22.004882 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  2.44064 -1.85301  1.80668, R:  85.1422 -20.6746  92.5229
+E0323 20:46:22.113651 3276099 ic_gvins.cc:172] Lost IMU data with at 545809.582 dt 0.008
+E0323 20:46:22.113811 3276099 ic_gvins.cc:182] Append extra IMU data at 545809.578818
+E0323 20:46:22.129637 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   1.40732  -1.29675 -0.134573, R:  84.9455 -18.0228  92.5106
+E0323 20:46:22.133664 3276099 ic_gvins.cc:172] Lost IMU data with at 545809.602 dt 0.008
+E0323 20:46:22.133827 3276099 ic_gvins.cc:182] Append extra IMU data at 545809.598801
+E0323 20:46:22.292160 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.14298 -0.281775  0.411213, R:  84.5168 -23.4092  93.2662
+E0323 20:46:22.455857 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.4216 0.132345  1.19493, R:  84.2976 -27.7844  93.8346
+E0323 20:46:22.604447 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.96459 -0.300965  0.844069, R:  84.3472 -28.3762  94.0318
+E0323 20:46:22.752799 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.99405 -3.11698  4.52918, R:  84.6806 -34.5039  94.2719
+E0323 20:46:22.872684 3276099 ic_gvins.cc:172] Lost IMU data with at 545810.341 dt 0.012
+E0323 20:46:22.872828 3276099 ic_gvins.cc:182] Append extra IMU data at 545810.333799
+E0323 20:46:22.880416 3276099 ic_gvins.cc:172] Lost IMU data with at 545810.348 dt 0.008
+E0323 20:46:22.880582 3276099 ic_gvins.cc:182] Append extra IMU data at 545810.345760
+E0323 20:46:22.931315 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: 0.0292438  -2.26745   2.40997, R:  84.6525 -29.5604  94.0944
+E0323 20:46:23.050983 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.13936 -2.26883  1.26731, R:  84.8631 -25.1658  93.5197
+E0323 20:46:23.170415 3276099 ic_gvins.cc:172] Lost IMU data with at 545810.638 dt 0.010
+E0323 20:46:23.170550 3276099 ic_gvins.cc:182] Append extra IMU data at 545810.633803
+E0323 20:46:23.222115 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.45582   -1.16449 -0.0606574, R:  84.6685 -25.8261  93.6511
+E0323 20:46:23.384761 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.86745 -0.804139  0.247841, R:  84.7206 -22.7425  93.0643
+E0323 20:46:23.518730 3276099 ic_gvins.cc:172] Lost IMU data with at 545810.984 dt 0.010
+E0323 20:46:23.518898 3276099 ic_gvins.cc:182] Append extra IMU data at 545810.978814
+E0323 20:46:23.549243 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.62211  -0.54504 -0.225605, R:  84.7829 -19.3779  92.6332
+E0323 20:46:23.678638 3276099 ic_gvins.cc:172] Lost IMU data with at 545811.147 dt 0.008
+E0323 20:46:23.678777 3276099 ic_gvins.cc:182] Append extra IMU data at 545811.143827
+E0323 20:46:23.688923 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  5.95063 -1.25727 -2.61821, R:  84.6877 -20.7894  93.1937
+E0323 20:46:23.865147 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  7.87928 -1.94609 -2.42799, R:   85.009 -19.2799  92.7194
+E0323 20:46:24.027974 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    7.497 -2.03956 -1.52946, R:  85.0603 -19.2085   92.613
+E0323 20:46:24.191380 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  7.36563 -1.87359 0.595568, R:  85.1888 -19.2131  92.3476
+E0323 20:46:24.309607 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  6.21403 -1.73885  1.34479, R:  85.1567 -18.6842  92.2941
+E0323 20:46:24.425185 3276099 ic_gvins.cc:172] Lost IMU data with at 545811.893 dt 0.009
+E0323 20:46:24.425345 3276099 ic_gvins.cc:182] Append extra IMU data at 545811.888836
+E0323 20:46:24.452020 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  5.70793 -1.52342  1.83036, R: 85.0728 -19.251 92.4275
+E0323 20:46:24.586532 3276099 ic_gvins.cc:172] Lost IMU data with at 545812.054 dt 0.011
+E0323 20:46:24.587103 3276099 ic_gvins.cc:182] Append extra IMU data at 545812.048815
+E0323 20:46:24.612591 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.50263 -0.900177   1.08848, R:  85.1118 -14.2336   92.063
+E0323 20:46:24.753701 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  4.70723 -1.84892  1.27374, R:  85.3611 -14.0457  91.8311
+E0323 20:46:24.923166 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.16254 -0.726924   1.13504, R:  85.1892 -11.5085  91.8809
+E0323 20:46:25.087335 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.45122 -1.24808  2.42191, R:  85.2518 -13.0603  91.7502
+E0323 20:46:25.248709 3276099 ic_gvins.cc:172] Lost IMU data with at 545812.717 dt 0.008
+E0323 20:46:25.248847 3276099 ic_gvins.cc:182] Append extra IMU data at 545812.713817
+E0323 20:46:25.256201 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.78717 -0.860085   1.74051, R: 85.0519 -13.966 91.9537
+E0323 20:46:25.377446 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.25032 -0.461857  0.107624, R:  85.0525 -11.1329  91.8439
+E0323 20:46:25.514292 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  4.28059 -1.51271 0.123964, R:  85.1367 -12.0431  91.9435
+E0323 20:46:25.663511 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.81168 -0.723357 -0.721252, R:  85.1452 -10.7132  91.9394
+E0323 20:46:25.786289 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.2674 -0.440058  0.673086, R:  85.3029 -11.9405  92.0043
+E0323 20:46:25.844600 3276099 ic_gvins.cc:172] Lost IMU data with at 545813.313 dt 0.009
+E0323 20:46:25.844740 3276099 ic_gvins.cc:182] Append extra IMU data at 545813.308808
+E0323 20:46:25.923399 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.86279 0.0133904   1.16084, R:   85.256 -13.4785  92.1804
+E0323 20:46:26.091682 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.86809 -0.256462   1.06517, R: 85.2268 -15.231 92.2768
+E0323 20:46:26.252549 3276099 ic_gvins.cc:172] Lost IMU data with at 545813.713 dt 0.009
+E0323 20:46:26.252696 3276099 ic_gvins.cc:182] Append extra IMU data at 545813.708822
+E0323 20:46:26.271355 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.96034 -0.293624  0.861533, R:  85.3184 -14.3957  92.1226
+E0323 20:46:26.380190 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  2.79332 0.927423 0.982548, R:  85.0827 -16.5194  92.6891
+E0323 20:46:26.568996 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.82765  1.50593 0.782421, R:  84.9392 -16.8794  92.8394
+E0323 20:46:26.686901 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.9625 1.54045 1.02924, R:  84.9059 -18.6999  92.9514
+E0323 20:46:26.847870 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  2.66227 0.756271 0.278236, R:  85.2673 -18.7644  93.0249
+E0323 20:46:26.848793 3276099 ic_gvins.cc:172] Lost IMU data with at 545814.317 dt 0.013
+E0323 20:46:26.848899 3276099 ic_gvins.cc:182] Append extra IMU data at 545814.308813
+E0323 20:46:26.848923 3276099 ic_gvins.cc:182] Append extra IMU data at 545814.313813
+E0323 20:46:26.857239 3276099 ic_gvins.cc:172] Lost IMU data with at 545814.325 dt 0.008
+E0323 20:46:26.857380 3276099 ic_gvins.cc:182] Append extra IMU data at 545814.321785
+E0323 20:46:27.020229 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.04211  1.18334 0.318113, R:  85.1787 -19.2514  93.0204
+E0323 20:46:27.235025 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.33688   1.02132 -0.580863, R:  84.9875 -20.5603  93.3826
+E0323 20:46:27.427647 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.87697   0.18635 -0.287663, R:  85.1913 -19.1692  93.0958
+E0323 20:46:27.584467 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.48432   0.099324 -0.0695715, R:  85.2416 -18.6881  93.0098
+E0323 20:46:27.727742 3276099 ic_gvins.cc:172] Lost IMU data with at 545815.193 dt 0.014
+E0323 20:46:27.727864 3276099 ic_gvins.cc:182] Append extra IMU data at 545815.183819
+E0323 20:46:27.727890 3276099 ic_gvins.cc:182] Append extra IMU data at 545815.188819
+E0323 20:46:27.755986 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.26293 0.137151  0.67369, R: 85.5788 -19.224 92.9153
+E0323 20:46:27.931147 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.9439 0.292763 0.879894, R:  85.4882 -20.2298  92.9397
+E0323 20:46:27.932849 3276099 ic_gvins.cc:172] Lost IMU data with at 545815.400 dt 0.011
+E0323 20:46:27.932917 3276099 ic_gvins.cc:182] Append extra IMU data at 545815.393825
+E0323 20:46:28.094429 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    4.52042   0.396781 -0.0810553, R:  85.4663 -18.3125  92.7539
+E0323 20:46:28.257318 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.39241  0.46631 0.364835, R: 85.4228 -16.384 92.5037
+E0323 20:46:28.389055 3276099 ic_gvins.cc:172] Lost IMU data with at 545815.857 dt 0.008
+E0323 20:46:28.389156 3276099 ic_gvins.cc:182] Append extra IMU data at 545815.853808
+E0323 20:46:28.456830 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.47927 -0.037667  0.263468, R:  85.4578 -12.0169  92.3179
+E0323 20:46:28.623220 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.23275 -0.330849  0.192114, R:  85.4187 -11.9452  92.3553
+E0323 20:46:28.803508 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.44474 -0.694383  0.632175, R:  85.7483 -12.5944  92.2715
+E0323 20:46:28.949962 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.43684 -0.640874  0.671814, R:  85.7126 -13.2275  92.3085
+E0323 20:46:29.131724 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.13758 -0.612931  0.854642, R:  85.6147 -16.9292  92.5429
+E0323 20:46:29.289039 3276099 ic_gvins.cc:172] Lost IMU data with at 545816.757 dt 0.013
+E0323 20:46:29.289198 3276099 ic_gvins.cc:182] Append extra IMU data at 545816.748804
+E0323 20:46:29.289225 3276099 ic_gvins.cc:182] Append extra IMU data at 545816.753804
+E0323 20:46:29.295936 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.6476 -0.825495   1.20396, R:  85.5352 -20.6726  92.8384
+E0323 20:46:29.427580 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.39703 -0.911831  0.707214, R: 85.7294 -15.736 92.4222
+E0323 20:46:29.597477 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.99182 -0.846168   0.57209, R:  85.7905 -13.3941   92.091
+E0323 20:46:29.629283 3276099 ic_gvins.cc:172] Lost IMU data with at 545817.096 dt 0.008
+E0323 20:46:29.629439 3276099 ic_gvins.cc:182] Append extra IMU data at 545817.093837
+E0323 20:46:29.761183 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.90478 -0.950712   1.02848, R:  86.0378 -16.8023  92.3062
+E0323 20:46:29.922055 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   5.50281 -0.885409  0.847848, R:    86.04 -17.2072   92.285
+E0323 20:46:30.060667 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   5.57249 -0.841374  0.944059, R: 86.0442  -16.77 92.1613
+E0323 20:46:30.229089 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  5.36333 -1.01945 0.965906, R:  86.0773 -16.4933  92.1863
+E0323 20:46:30.360916 3276099 ic_gvins.cc:172] Lost IMU data with at 545817.829 dt 0.020
+E0323 20:46:30.361078 3276099 ic_gvins.cc:182] Append extra IMU data at 545817.813826
+E0323 20:46:30.361104 3276099 ic_gvins.cc:182] Append extra IMU data at 545817.818826
+E0323 20:46:30.361122 3276099 ic_gvins.cc:182] Append extra IMU data at 545817.823826
+E0323 20:46:30.414371 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  4.92119 -1.08558 0.843528, R:  86.0789 -16.1727  92.3269
+E0323 20:46:30.549774 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  4.90093 -0.74548 0.504195, R:  86.0971 -13.9225  92.1601
+E0323 20:46:30.736670 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.00454    -1.0782 -0.0341636, R:    86.7286 -0.0399687    90.9792
+E0323 20:46:30.909686 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.14018 -0.218406  -1.29432, R: 86.5924 3.09658 91.2532
+E0323 20:46:31.114053 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.34408  0.217639 -0.760847, R:  86.7387 -5.85227  92.0777
+E0323 20:46:31.206844 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   1.89324  0.458431 -0.446371, R:  86.0157 -5.58137    92.15
+E0323 20:46:31.322666 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.16044 -0.0136133    1.88404, R:  85.7981 -22.8388  93.0231
+E0323 20:46:31.430044 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.29559 -0.0355967    1.53565, R:  85.9222 -20.2778  92.8278
+E0323 20:46:31.559950 3276099 ic_gvins.cc:172] Lost IMU data with at 545819.028 dt 0.009
+E0323 20:46:31.560104 3276099 ic_gvins.cc:182] Append extra IMU data at 545819.023699
+E0323 20:46:31.575536 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    2.2371 0.0647324   1.09934, R: 85.8964 -15.764  92.659
+E0323 20:46:31.699944 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.89367 0.137986  1.04822, R:  85.8623 -15.0152  92.6642
+E0323 20:46:31.874086 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    1.52207 -0.0902888    1.35457, R:  86.1805 -14.6439   92.595
+E0323 20:46:31.933318 3276099 ic_gvins.cc:172] Lost IMU data with at 545819.401 dt 0.012
+E0323 20:46:31.933475 3276099 ic_gvins.cc:182] Append extra IMU data at 545819.393685
+E0323 20:46:32.033186 3276099 ic_gvins.cc:172] Lost IMU data with at 545819.501 dt 0.008
+E0323 20:46:32.033318 3276099 ic_gvins.cc:182] Append extra IMU data at 545819.498701
+E0323 20:46:32.042467 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   1.30185 -0.289141   0.64133, R: 86.4273 -7.8602 91.9709
+E0323 20:46:32.065244 3276099 ic_gvins.cc:172] Lost IMU data with at 545819.533 dt 0.009
+E0323 20:46:32.065423 3276099 ic_gvins.cc:182] Append extra IMU data at 545819.528707
+E0323 20:46:32.200786 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.56953 0.110787 0.484934, R:   86.223 -10.6931  92.4259
+E0323 20:46:32.265116 3276099 ic_gvins.cc:172] Lost IMU data with at 545819.733 dt 0.009
+E0323 20:46:32.265259 3276099 ic_gvins.cc:182] Append extra IMU data at 545819.728702
+E0323 20:46:32.362010 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  2.41858 -0.28449 0.316549, R: 86.3018  -8.588 92.0444
+E0323 20:46:32.519361 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.90579 -0.228799  0.454671, R:  86.2481 -9.34192  92.0108
+E0323 20:46:32.669617 3276099 ic_gvins.cc:172] Lost IMU data with at 545820.137 dt 0.008
+E0323 20:46:32.669751 3276099 ic_gvins.cc:182] Append extra IMU data at 545820.133673
+E0323 20:46:32.712000 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.38684 -0.227615  0.366776, R:  86.2569 -9.38016  91.9768
+E0323 20:46:32.824226 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.30055 -0.451251  0.452187, R:  86.5688 -9.00925  91.8984
+E0323 20:46:32.964301 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.18114 -0.335145   0.52968, R:  86.5684 -8.70422  91.8547
+E0323 20:46:33.104476 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.50815 -0.297908  0.748303, R:  86.5491 -9.38285   91.944
+E0323 20:46:33.236276 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.10332 -0.258219  0.365744, R:  86.3561 -9.02928  92.0711
+E0323 20:46:33.253257 3276099 ic_gvins.cc:172] Lost IMU data with at 545820.721 dt 0.008
+E0323 20:46:33.253392 3276099 ic_gvins.cc:182] Append extra IMU data at 545820.718687
+E0323 20:46:33.371030 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   1.76631 -0.288857  0.526104, R:  86.3708 -8.92968  92.0704
+E0323 20:46:33.497332 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   1.58997 -0.328581  0.416616, R:  86.3755 -9.08457  92.1073
+E0323 20:46:33.632627 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.42904 -0.344863 -0.057668, R:  86.3539 -9.78161  92.1611
+E0323 20:46:33.776096 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.70531 -0.724922   0.24935, R:  86.6586 -9.25094  91.9096
+E0323 20:46:33.920109 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.63573 -0.600488  0.259821, R:   86.522 -12.4663  92.1025
+E0323 20:46:34.024209 3276099 ic_gvins.cc:172] Lost IMU data with at 545821.492 dt 0.008
+E0323 20:46:34.024376 3276099 ic_gvins.cc:182] Append extra IMU data at 545821.488706
+E0323 20:46:34.054045 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.68789 -0.724378  0.268968, R: 86.4071  -9.104 91.8171
+E0323 20:46:34.157018 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.79673 -0.624932  0.277707, R:  86.4718 -7.12707  91.6147
+E0323 20:46:34.294581 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.85959 -0.469899  0.334013, R:  86.3949 -9.36152  91.7183
+E0323 20:46:34.429381 3276099 ic_gvins.cc:172] Lost IMU data with at 545821.897 dt 0.008
+E0323 20:46:34.429512 3276099 ic_gvins.cc:182] Append extra IMU data at 545821.893758
+E0323 20:46:34.462530 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:      4.64355 -0.000886987     0.131387, R:   86.512 -4.19495  91.3007
+E0323 20:46:34.561121 3276099 ic_gvins.cc:172] Lost IMU data with at 545822.029 dt 0.015
+E0323 20:46:34.561282 3276099 ic_gvins.cc:182] Append extra IMU data at 545822.018687
+E0323 20:46:34.561326 3276099 ic_gvins.cc:182] Append extra IMU data at 545822.023687
+E0323 20:46:34.605396 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    4.94413   -0.39654 -0.0883714, R:  86.5716 -2.55143  91.0983
+E0323 20:46:34.739348 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.95114 -0.0560819  -0.205363, R:  86.7419 -4.59934  91.4706
+E0323 20:46:34.889892 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.82905 -0.197088  -0.42762, R: 86.7552  -4.553 91.4925
+E0323 20:46:34.961019 3276099 ic_gvins.cc:172] Lost IMU data with at 545822.429 dt 0.010
+E0323 20:46:34.961146 3276099 ic_gvins.cc:182] Append extra IMU data at 545822.423859
+E0323 20:46:35.023597 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.78501 -0.267316  0.275004, R:  86.7457 -5.48868  91.6192
+E0323 20:46:35.220002 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    2.81213  -0.299258 0.00778927, R:  86.7494 -5.60025  91.6422
+E0323 20:46:35.369935 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   2.50924 -0.244239  0.202529, R:  86.7471 -5.55922  91.6392
+E0323 20:46:35.432236 3276099 ic_gvins.cc:172] Lost IMU data with at 545822.900 dt 0.011
+E0323 20:46:35.432387 3276099 ic_gvins.cc:182] Append extra IMU data at 545822.893844
+E0323 20:46:35.542533 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   1.98611 -0.015367 0.0306172, R: 86.7426 -5.1178 91.6579
+E0323 20:46:35.676203 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  2.05397 0.204249 0.142982, R:  86.7102 -5.97825  91.7494
+E0323 20:46:36.321223 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.28968   -1.12289 -0.0853618, R:  86.8983 -5.50366  91.6688
+E0323 20:46:36.485348 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.23172  -1.13337 -0.190494, R: 86.8993 -5.5154 91.6115
+E0323 20:46:36.674126 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    5.1149  -1.17185 -0.295067, R:  86.8778 -6.03124  91.6209
+E0323 20:46:36.859349 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   5.30868  -1.89871 -0.386986, R:  87.1588 -6.26877  91.6722
+E0323 20:46:36.977057 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.12707  -2.88402 -0.287816, R:  87.2272 -4.06622  91.5539
+E0323 20:46:37.149935 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.92991   -3.51126 -0.0481402, R:  87.3685 -3.67713  91.4678
+E0323 20:46:37.294189 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.74128 -4.17736 0.358643, R:  87.4496 -4.55115  91.5451
+E0323 20:46:37.458586 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  1.93421 -4.16458 0.351935, R:  87.4174 -5.24314   91.784
+E0323 20:46:37.614600 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t: -0.0575236   -3.86203    0.36737, R:  87.4148 -4.64489   91.898
+E0323 20:46:37.695516 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   0.543991    -3.2797 0.00968814, R:  87.3475 -4.67717  91.9762
+E0323 20:46:37.782225 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    2.6227  -3.64828 0.0327538, R:  87.6524 -3.70194  91.6756
+E0323 20:46:37.964064 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   3.30524  -2.74225 0.0733188, R:  87.5752 -3.21141  91.5332
+E0323 20:46:38.125669 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  3.86735  -2.5403 0.227683, R:  87.5696 -3.37245  91.4418
+E0323 20:46:38.293782 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  4.03414 -2.92641 -0.10944, R: 87.5263 -4.4251 91.6078
+E0323 20:46:38.468566 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    4.22574   -3.16349 -0.0662091, R:  87.5811 -4.36535  91.5761
+E0323 20:46:38.564723 3276099 ic_gvins.cc:172] Lost IMU data with at 545826.033 dt 0.008
+E0323 20:46:38.564926 3276099 ic_gvins.cc:182] Append extra IMU data at 545826.029668
+E0323 20:46:38.605592 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:  4.37039 -3.33262 0.131589, R:  87.5555 -5.20349  91.6838
+E0323 20:46:38.789928 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:   4.0713 -3.20236 0.127633, R:  87.8823 -4.58098   91.623
+E0323 20:46:38.838255 3276099 ic_gvins.cc:172] Lost IMU data with at 545826.306 dt 0.008
+E0323 20:46:38.838403 3276099 ic_gvins.cc:182] Append extra IMU data at 545826.303850
+E0323 20:46:38.947238 3276148 ic_gvins.cc:1329] Estimated extrinsic is too large, t:    3.0277  -2.24585 -0.168913, R:  87.7642 -5.19198  91.8684
+E0323 20:46:39.508524 3276099 ic_gvins.cc:172] Lost IMU data with at 545826.977 dt 0.008
+E0323 20:46:39.508692 3276099 ic_gvins.cc:182] Append extra IMU data at 545826.973858
+E0323 20:46:39.688678 3276099 ic_gvins.cc:172] Lost IMU data with at 545827.156 dt 0.008
+E0323 20:46:39.688812 3276099 ic_gvins.cc:182] Append extra IMU data at 545827.153854
+E0323 20:46:40.688714 3276099 ic_gvins.cc:172] Lost IMU data with at 545828.157 dt 0.008
+E0323 20:46:40.688853 3276099 ic_gvins.cc:182] Append extra IMU data at 545828.153851
+E0323 20:46:40.799981 3276099 ic_gvins.cc:172] Lost IMU data with at 545828.267 dt 0.008
+E0323 20:46:40.800124 3276099 ic_gvins.cc:182] Append extra IMU data at 545828.263854
+E0323 20:46:41.264941 3276099 ic_gvins.cc:172] Lost IMU data with at 545828.733 dt 0.014
+E0323 20:46:41.265082 3276099 ic_gvins.cc:182] Append extra IMU data at 545828.723862
+E0323 20:46:41.265107 3276099 ic_gvins.cc:182] Append extra IMU data at 545828.728862
+E0323 20:46:42.680732 3276099 ic_gvins.cc:172] Lost IMU data with at 545830.149 dt 0.020
+E0323 20:46:42.680871 3276099 ic_gvins.cc:182] Append extra IMU data at 545830.133851
+E0323 20:46:42.680895 3276099 ic_gvins.cc:182] Append extra IMU data at 545830.138851
+E0323 20:46:42.680912 3276099 ic_gvins.cc:182] Append extra IMU data at 545830.143851
+E0323 20:46:43.640811 3276099 ic_gvins.cc:172] Lost IMU data with at 545831.109 dt 0.010
+E0323 20:46:43.640960 3276099 ic_gvins.cc:182] Append extra IMU data at 545831.103851
+E0323 20:46:44.092825 3276099 ic_gvins.cc:172] Lost IMU data with at 545831.561 dt 0.012
+E0323 20:46:44.092967 3276099 ic_gvins.cc:182] Append extra IMU data at 545831.553793
+E0323 20:46:45.204553 3276099 ic_gvins.cc:172] Lost IMU data with at 545832.673 dt 0.009
+E0323 20:46:45.204703 3276099 ic_gvins.cc:182] Append extra IMU data at 545832.668849
+E0323 20:46:45.908707 3276099 ic_gvins.cc:172] Lost IMU data with at 545833.377 dt 0.008
+E0323 20:46:45.908861 3276099 ic_gvins.cc:182] Append extra IMU data at 545833.373852
+E0323 20:46:46.309918 3276099 ic_gvins.cc:172] Lost IMU data with at 545833.777 dt 0.008
+E0323 20:46:46.310092 3276099 ic_gvins.cc:182] Append extra IMU data at 545833.773922
+E0323 20:46:47.259558 3276099 ic_gvins.cc:172] Lost IMU data with at 545834.727 dt 0.008
+E0323 20:46:47.259702 3276099 ic_gvins.cc:182] Append extra IMU data at 545834.723838
+E0323 20:46:51.974148 3276099 ic_gvins.cc:172] Lost IMU data with at 545839.442 dt 0.008
+E0323 20:46:51.974748 3276099 ic_gvins.cc:182] Append extra IMU data at 545839.438832
+E0323 20:46:52.068567 3276099 ic_gvins.cc:172] Lost IMU data with at 545839.537 dt 0.008
+E0323 20:46:52.068756 3276099 ic_gvins.cc:182] Append extra IMU data at 545839.533863
+E0323 20:46:54.193593 3276099 ic_gvins.cc:172] Lost IMU data with at 545841.661 dt 0.008
+E0323 20:46:54.193797 3276099 ic_gvins.cc:182] Append extra IMU data at 545841.658839
+E0323 20:46:54.308759 3276099 ic_gvins.cc:172] Lost IMU data with at 545841.777 dt 0.013
+E0323 20:46:54.308905 3276099 ic_gvins.cc:182] Append extra IMU data at 545841.768845
+E0323 20:46:54.308929 3276099 ic_gvins.cc:182] Append extra IMU data at 545841.773845
+E0323 20:46:54.782142 3276099 ic_gvins.cc:172] Lost IMU data with at 545842.247 dt 0.008
+E0323 20:46:54.782284 3276099 ic_gvins.cc:182] Append extra IMU data at 545842.243858
+E0323 20:46:54.864109 3276099 ic_gvins.cc:172] Lost IMU data with at 545842.332 dt 0.008
+E0323 20:46:54.864249 3276099 ic_gvins.cc:182] Append extra IMU data at 545842.328848
+E0323 20:46:54.980702 3276099 ic_gvins.cc:172] Lost IMU data with at 545842.449 dt 0.010
+E0323 20:46:54.980842 3276099 ic_gvins.cc:182] Append extra IMU data at 545842.443853
+E0323 20:46:55.346284 3276099 ic_gvins.cc:172] Lost IMU data with at 545842.814 dt 0.010
+E0323 20:46:55.346450 3276099 ic_gvins.cc:182] Append extra IMU data at 545842.808857
+E0323 20:46:57.446516 3276099 ic_gvins.cc:172] Lost IMU data with at 545844.915 dt 0.016
+E0323 20:46:57.446676 3276099 ic_gvins.cc:182] Append extra IMU data at 545844.903833
+E0323 20:46:57.446727 3276099 ic_gvins.cc:182] Append extra IMU data at 545844.908833
+E0323 20:46:58.053072 3276099 ic_gvins.cc:172] Lost IMU data with at 545845.513 dt 0.008
+E0323 20:46:58.053184 3276099 ic_gvins.cc:182] Append extra IMU data at 545845.509699
+E0323 20:46:58.644949 3276099 ic_gvins.cc:172] Lost IMU data with at 545846.113 dt 0.013
+E0323 20:46:58.645109 3276099 ic_gvins.cc:182] Append extra IMU data at 545846.104675
+E0323 20:46:58.645148 3276099 ic_gvins.cc:182] Append extra IMU data at 545846.109675
+E0323 20:46:59.181777 3276099 ic_gvins.cc:172] Lost IMU data with at 545846.650 dt 0.010
+E0323 20:46:59.181962 3276099 ic_gvins.cc:182] Append extra IMU data at 545846.644689
+E0323 20:46:59.677347 3276099 ic_gvins.cc:172] Lost IMU data with at 545847.145 dt 0.011
+E0323 20:46:59.677477 3276099 ic_gvins.cc:182] Append extra IMU data at 545847.139672
+E0323 20:47:00.672883 3276099 ic_gvins.cc:172] Lost IMU data with at 545848.141 dt 0.011
+E0323 20:47:00.673031 3276099 ic_gvins.cc:182] Append extra IMU data at 545848.134678
+E0323 20:47:01.073136 3276099 ic_gvins.cc:172] Lost IMU data with at 545848.541 dt 0.016
+E0323 20:47:01.073288 3276099 ic_gvins.cc:182] Append extra IMU data at 545848.529683
+E0323 20:47:01.073311 3276099 ic_gvins.cc:182] Append extra IMU data at 545848.534683
+E0323 20:47:02.423228 3276099 ic_gvins.cc:172] Lost IMU data with at 545849.891 dt 0.010
+E0323 20:47:02.423362 3276099 ic_gvins.cc:182] Append extra IMU data at 545849.885854
+E0323 20:47:02.967761 3276099 ic_gvins.cc:172] Lost IMU data with at 545850.435 dt 0.010
+E0323 20:47:02.967913 3276099 ic_gvins.cc:182] Append extra IMU data at 545850.430857
+E0323 20:47:03.084858 3276099 ic_gvins.cc:172] Lost IMU data with at 545850.553 dt 0.012
+E0323 20:47:03.085062 3276099 ic_gvins.cc:182] Append extra IMU data at 545850.545841
+E0323 20:47:03.384974 3276099 ic_gvins.cc:172] Lost IMU data with at 545850.853 dt 0.012
+E0323 20:47:03.385123 3276099 ic_gvins.cc:182] Append extra IMU data at 545850.845859
+E0323 20:47:04.536898 3276099 ic_gvins.cc:172] Lost IMU data with at 545852.005 dt 0.009
+E0323 20:47:04.537058 3276099 ic_gvins.cc:182] Append extra IMU data at 545852.000833
+E0323 20:47:06.377770 3276099 ic_gvins.cc:172] Lost IMU data with at 545853.845 dt 0.009
+E0323 20:47:06.377916 3276099 ic_gvins.cc:182] Append extra IMU data at 545853.840857
+E0323 20:47:08.687422 3276099 ic_gvins.cc:172] Lost IMU data with at 545856.155 dt 0.015
+E0323 20:47:08.687544 3276099 ic_gvins.cc:182] Append extra IMU data at 545856.145850
+E0323 20:47:08.687604 3276099 ic_gvins.cc:182] Append extra IMU data at 545856.150850
+E0323 20:47:08.945822 3276099 ic_gvins.cc:172] Lost IMU data with at 545856.414 dt 0.008
+E0323 20:47:08.946002 3276099 ic_gvins.cc:182] Append extra IMU data at 545856.410842
+E0323 20:47:09.051242 3276099 ic_gvins.cc:172] Lost IMU data with at 545856.519 dt 0.008
+E0323 20:47:09.053331 3276099 ic_gvins.cc:182] Append extra IMU data at 545856.515855
+E0323 20:47:09.315598 3276099 ic_gvins.cc:172] Lost IMU data with at 545856.783 dt 0.008
+E0323 20:47:09.315768 3276099 ic_gvins.cc:182] Append extra IMU data at 545856.780862
+E0323 20:47:11.147914 3276099 ic_gvins.cc:172] Lost IMU data with at 545858.616 dt 0.010
+E0323 20:47:11.148061 3276099 ic_gvins.cc:182] Append extra IMU data at 545858.610859
+E0323 20:47:13.603969 3276099 ic_gvins.cc:172] Lost IMU data with at 545861.072 dt 0.011
+E0323 20:47:13.604493 3276099 ic_gvins.cc:182] Append extra IMU data at 545861.065854
+E0323 20:47:13.784579 3276099 ic_gvins.cc:172] Lost IMU data with at 545861.249 dt 0.009
+E0323 20:47:13.784695 3276099 ic_gvins.cc:182] Append extra IMU data at 545861.245874
+E0323 20:47:14.222301 3276099 ic_gvins.cc:172] Lost IMU data with at 545861.689 dt 0.008
+E0323 20:47:14.222491 3276099 ic_gvins.cc:182] Append extra IMU data at 545861.685852
+E0323 20:47:15.956619 3276099 ic_gvins.cc:172] Lost IMU data with at 545863.425 dt 0.008
+E0323 20:47:15.956754 3276099 ic_gvins.cc:182] Append extra IMU data at 545863.421312
+E0323 20:47:16.222052 3276099 ic_gvins.cc:172] Lost IMU data with at 545863.687 dt 0.011
+E0323 20:47:16.222234 3276099 ic_gvins.cc:182] Append extra IMU data at 545863.680848
+E0323 20:47:16.250783 3276099 ic_gvins.cc:172] Lost IMU data with at 545863.713 dt 0.012
+E0323 20:47:16.250949 3276099 ic_gvins.cc:182] Append extra IMU data at 545863.705855
+E0323 20:47:16.254487 3276099 ic_gvins.cc:172] Lost IMU data with at 545863.721 dt 0.008
+E0323 20:47:16.254635 3276099 ic_gvins.cc:182] Append extra IMU data at 545863.717769
+E0323 20:47:16.279027 3276099 ic_gvins.cc:172] Lost IMU data with at 545863.745 dt 0.013
+E0323 20:47:16.279179 3276099 ic_gvins.cc:182] Append extra IMU data at 545863.736579
+E0323 20:47:16.279214 3276099 ic_gvins.cc:182] Append extra IMU data at 545863.741579
+E0323 20:47:16.554836 3276099 ic_gvins.cc:172] Lost IMU data with at 545864.021 dt 0.010
+E0323 20:47:16.555014 3276099 ic_gvins.cc:182] Append extra IMU data at 545864.015855
+E0323 20:47:18.648651 3276099 ic_gvins.cc:172] Lost IMU data with at 545866.117 dt 0.011
+E0323 20:47:18.648799 3276099 ic_gvins.cc:182] Append extra IMU data at 545866.110837
+E0323 20:47:18.888784 3276099 ic_gvins.cc:172] Lost IMU data with at 545866.357 dt 0.016
+E0323 20:47:18.888978 3276099 ic_gvins.cc:182] Append extra IMU data at 545866.345907
+E0323 20:47:18.889011 3276099 ic_gvins.cc:182] Append extra IMU data at 545866.350907
+E0323 20:47:18.921897 3276099 ic_gvins.cc:172] Lost IMU data with at 545866.390 dt 0.008
+E0323 20:47:18.922055 3276099 ic_gvins.cc:182] Append extra IMU data at 545866.386840
+E0323 20:47:19.657678 3276099 ic_gvins.cc:172] Lost IMU data with at 545867.125 dt 0.012
+E0323 20:47:19.657860 3276099 ic_gvins.cc:182] Append extra IMU data at 545867.117377
+E0323 20:47:21.480647 3276099 ic_gvins.cc:172] Lost IMU data with at 545868.945 dt 0.008
+E0323 20:47:21.480804 3276099 ic_gvins.cc:182] Append extra IMU data at 545868.941846
+E0323 20:47:21.691740 3276099 ic_gvins.cc:172] Lost IMU data with at 545869.160 dt 0.008
+E0323 20:47:21.692248 3276099 ic_gvins.cc:182] Append extra IMU data at 545869.156859
+E0323 20:47:23.352723 3276099 ic_gvins.cc:172] Lost IMU data with at 545870.820 dt 0.013
+E0323 20:47:23.352869 3276099 ic_gvins.cc:182] Append extra IMU data at 545870.811840
+E0323 20:47:23.352892 3276099 ic_gvins.cc:182] Append extra IMU data at 545870.816840
+E0323 20:47:23.422864 3276099 ic_gvins.cc:172] Lost IMU data with at 545870.885 dt 0.008
+E0323 20:47:23.422998 3276099 ic_gvins.cc:182] Append extra IMU data at 545870.882651
+E0323 20:47:25.189751 3276099 ic_gvins.cc:172] Lost IMU data with at 545872.657 dt 0.008
+E0323 20:47:25.189976 3276099 ic_gvins.cc:182] Append extra IMU data at 545872.653327
+E0323 20:47:26.682860 3276099 ic_gvins.cc:172] Lost IMU data with at 545874.151 dt 0.009
+E0323 20:47:26.683059 3276099 ic_gvins.cc:182] Append extra IMU data at 545874.146834
+E0323 20:47:27.445533 3276099 ic_gvins.cc:172] Lost IMU data with at 545874.913 dt 0.011
+E0323 20:47:27.445672 3276099 ic_gvins.cc:182] Append extra IMU data at 545874.906873
+E0323 20:47:28.791714 3276099 ic_gvins.cc:172] Lost IMU data with at 545876.260 dt 0.008
+E0323 20:47:28.791846 3276099 ic_gvins.cc:182] Append extra IMU data at 545876.256847
+E0323 20:47:28.988576 3276099 ic_gvins.cc:172] Lost IMU data with at 545876.456 dt 0.010
+E0323 20:47:28.988731 3276099 ic_gvins.cc:182] Append extra IMU data at 545876.451870
+E0323 20:47:29.380913 3276099 ic_gvins.cc:172] Lost IMU data with at 545876.849 dt 0.017
+E0323 20:47:29.381074 3276099 ic_gvins.cc:182] Append extra IMU data at 545876.836845
+E0323 20:47:29.381106 3276099 ic_gvins.cc:182] Append extra IMU data at 545876.841845
+E0323 20:47:29.825122 3276099 ic_gvins.cc:172] Lost IMU data with at 545877.293 dt 0.009
+E0323 20:47:29.825278 3276099 ic_gvins.cc:182] Append extra IMU data at 545877.288915
+E0323 20:47:30.514460 3276099 ic_gvins.cc:172] Lost IMU data with at 545877.982 dt 0.008
+E0323 20:47:30.514707 3276099 ic_gvins.cc:182] Append extra IMU data at 545877.978917
+E0323 20:47:31.723749 3276099 ic_gvins.cc:172] Lost IMU data with at 545879.192 dt 0.008
+E0323 20:47:31.723899 3276099 ic_gvins.cc:182] Append extra IMU data at 545879.188930
+E0323 20:47:31.890249 3276099 ic_gvins.cc:172] Lost IMU data with at 545879.357 dt 0.008
+E0323 20:47:31.890400 3276099 ic_gvins.cc:182] Append extra IMU data at 545879.353912
+E0323 20:47:31.987092 3276099 ic_gvins.cc:172] Lost IMU data with at 545879.453 dt 0.009
+E0323 20:47:31.987243 3276099 ic_gvins.cc:182] Append extra IMU data at 545879.448920
+E0323 20:47:33.380695 3276099 ic_gvins.cc:172] Lost IMU data with at 545880.849 dt 0.010
+E0323 20:47:33.380846 3276099 ic_gvins.cc:182] Append extra IMU data at 545880.843932
+E0323 20:47:34.088644 3276099 ic_gvins.cc:172] Lost IMU data with at 545881.557 dt 0.008
+E0323 20:47:34.088786 3276099 ic_gvins.cc:182] Append extra IMU data at 545881.553923
+E0323 20:47:34.223091 3276099 ic_gvins.cc:172] Lost IMU data with at 545881.689 dt 0.010
+E0323 20:47:34.223277 3276099 ic_gvins.cc:182] Append extra IMU data at 545881.683910
+E0323 20:47:35.251076 3276099 ic_gvins.cc:172] Lost IMU data with at 545882.713 dt 0.009
+E0323 20:47:35.251211 3276099 ic_gvins.cc:182] Append extra IMU data at 545882.708897
+E0323 20:47:37.491168 3276099 ic_gvins.cc:172] Lost IMU data with at 545884.958 dt 0.014
+E0323 20:47:37.491307 3276099 ic_gvins.cc:182] Append extra IMU data at 545884.948943
+E0323 20:47:37.491330 3276099 ic_gvins.cc:182] Append extra IMU data at 545884.953943
+E0323 20:47:39.516687 3276099 ic_gvins.cc:172] Lost IMU data with at 545886.985 dt 0.016
+E0323 20:47:39.516870 3276099 ic_gvins.cc:182] Append extra IMU data at 545886.973914
+E0323 20:47:39.516899 3276099 ic_gvins.cc:182] Append extra IMU data at 545886.978914
+E0323 20:47:39.524698 3276099 ic_gvins.cc:172] Lost IMU data with at 545886.993 dt 0.008
+E0323 20:47:39.524853 3276099 ic_gvins.cc:182] Append extra IMU data at 545886.989785
+E0323 20:47:39.784765 3276099 ic_gvins.cc:172] Lost IMU data with at 545887.253 dt 0.018
+E0323 20:47:39.785305 3276099 ic_gvins.cc:182] Append extra IMU data at 545887.239872
+E0323 20:47:39.785655 3276099 ic_gvins.cc:182] Append extra IMU data at 545887.244872
+E0323 20:47:39.785997 3276099 ic_gvins.cc:182] Append extra IMU data at 545887.249872
+E0323 20:47:39.810325 3276099 ic_gvins.cc:172] Lost IMU data with at 545887.277 dt 0.009
+E0323 20:47:39.810505 3276099 ic_gvins.cc:182] Append extra IMU data at 545887.272834
+E0323 20:47:39.978106 3276099 ic_gvins.cc:172] Lost IMU data with at 545887.446 dt 0.008
+E0323 20:47:39.978250 3276099 ic_gvins.cc:182] Append extra IMU data at 545887.442825
+E0323 20:47:40.180879 3276099 ic_gvins.cc:172] Lost IMU data with at 545887.649 dt 0.011
+E0323 20:47:40.181057 3276099 ic_gvins.cc:182] Append extra IMU data at 545887.642837
+E0323 20:47:40.188992 3276099 ic_gvins.cc:172] Lost IMU data with at 545887.657 dt 0.008
+E0323 20:47:40.189131 3276099 ic_gvins.cc:182] Append extra IMU data at 545887.653768
+E0323 20:47:40.885347 3276099 ic_gvins.cc:172] Lost IMU data with at 545888.353 dt 0.015
+E0323 20:47:40.885476 3276099 ic_gvins.cc:182] Append extra IMU data at 545888.342820
+E0323 20:47:40.885499 3276099 ic_gvins.cc:182] Append extra IMU data at 545888.347820
+E0323 20:47:40.993219 3276099 ic_gvins.cc:172] Lost IMU data with at 545888.461 dt 0.008
+E0323 20:47:40.993359 3276099 ic_gvins.cc:182] Append extra IMU data at 545888.458477
+E0323 20:47:41.227131 3276099 ic_gvins.cc:172] Lost IMU data with at 545888.692 dt 0.014
+E0323 20:47:41.227308 3276099 ic_gvins.cc:182] Append extra IMU data at 545888.683473
+E0323 20:47:41.227341 3276099 ic_gvins.cc:182] Append extra IMU data at 545888.688473
+E0323 20:47:41.722985 3276099 ic_gvins.cc:172] Lost IMU data with at 545889.187 dt 0.008
+E0323 20:47:41.723446 3276099 ic_gvins.cc:182] Append extra IMU data at 545889.183467
+E0323 20:47:41.894182 3276099 ic_gvins.cc:172] Lost IMU data with at 545889.362 dt 0.009
+E0323 20:47:41.894320 3276099 ic_gvins.cc:182] Append extra IMU data at 545889.358478
+E0323 20:47:41.948129 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:41.960846 3276099 ic_gvins.cc:172] Lost IMU data with at 545889.429 dt 0.010
+E0323 20:47:41.960989 3276099 ic_gvins.cc:182] Append extra IMU data at 545889.423475
+E0323 20:47:41.966588 3276147 ic_gvins.cc:542] Tracking lost at 545889.404185
+E0323 20:47:42.514520 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:42.539507 3276147 ic_gvins.cc:542] Tracking lost at 545889.970922
+E0323 20:47:45.158360 3276099 ic_gvins.cc:172] Lost IMU data with at 545892.626 dt 0.008
+E0323 20:47:45.158540 3276099 ic_gvins.cc:182] Append extra IMU data at 545892.623468
+E0323 20:47:45.258399 3276099 ic_gvins.cc:172] Lost IMU data with at 545892.726 dt 0.008
+E0323 20:47:45.258550 3276099 ic_gvins.cc:182] Append extra IMU data at 545892.723485
+E0323 20:47:46.624202 3276099 ic_gvins.cc:172] Lost IMU data with at 545894.092 dt 0.014
+E0323 20:47:46.624348 3276099 ic_gvins.cc:182] Append extra IMU data at 545894.083460
+E0323 20:47:46.624383 3276099 ic_gvins.cc:182] Append extra IMU data at 545894.088460
+E0323 20:47:46.720767 3276099 ic_gvins.cc:172] Lost IMU data with at 545894.189 dt 0.010
+E0323 20:47:46.720902 3276099 ic_gvins.cc:182] Append extra IMU data at 545894.183493
+E0323 20:47:46.733736 3276099 ic_gvins.cc:172] Lost IMU data with at 545894.201 dt 0.012
+E0323 20:47:46.733892 3276099 ic_gvins.cc:182] Append extra IMU data at 545894.193811
+E0323 20:47:46.924320 3276099 ic_gvins.cc:172] Lost IMU data with at 545894.389 dt 0.015
+E0323 20:47:46.924484 3276099 ic_gvins.cc:182] Append extra IMU data at 545894.378476
+E0323 20:47:46.924513 3276099 ic_gvins.cc:182] Append extra IMU data at 545894.383476
+E0323 20:47:46.960101 3276099 ic_gvins.cc:172] Lost IMU data with at 545894.427 dt 0.008
+E0323 20:47:46.960263 3276099 ic_gvins.cc:182] Append extra IMU data at 545894.423856
+E0323 20:47:47.581519 3276099 ic_gvins.cc:172] Lost IMU data with at 545895.049 dt 0.011
+E0323 20:47:47.582087 3276099 ic_gvins.cc:182] Append extra IMU data at 545895.043837
+E0323 20:47:47.740945 3276099 ic_gvins.cc:172] Lost IMU data with at 545895.209 dt 0.025
+E0323 20:47:47.741089 3276099 ic_gvins.cc:182] Append extra IMU data at 545895.188873
+E0323 20:47:47.741115 3276099 ic_gvins.cc:182] Append extra IMU data at 545895.193873
+E0323 20:47:47.741133 3276099 ic_gvins.cc:182] Append extra IMU data at 545895.198873
+E0323 20:47:47.741148 3276099 ic_gvins.cc:182] Append extra IMU data at 545895.203873
+E0323 20:47:47.883634 3276099 ic_gvins.cc:172] Lost IMU data with at 545895.352 dt 0.008
+E0323 20:47:47.883787 3276099 ic_gvins.cc:182] Append extra IMU data at 545895.348833
+E0323 20:47:48.114964 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:48.742873 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:47:48.761839 3276147 ic_gvins.cc:542] Tracking lost at 545896.205006
+E0323 20:47:48.791971 3276099 ic_gvins.cc:172] Lost IMU data with at 545896.260 dt 0.016
+E0323 20:47:48.792137 3276099 ic_gvins.cc:182] Append extra IMU data at 545896.248820
+E0323 20:47:48.792162 3276099 ic_gvins.cc:182] Append extra IMU data at 545896.253820
+E0323 20:47:49.609150 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:47:49.625324 3276147 ic_gvins.cc:542] Tracking lost at 545897.071802
+E0323 20:47:50.316699 3276099 ic_gvins.cc:172] Lost IMU data with at 545897.785 dt 0.010
+E0323 20:47:50.316814 3276099 ic_gvins.cc:182] Append extra IMU data at 545897.780080
+E0323 20:47:50.414409 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:50.433285 3276147 ic_gvins.cc:542] Tracking lost at 545897.871867
+E0323 20:47:50.724725 3276099 ic_gvins.cc:172] Lost IMU data with at 545898.193 dt 0.013
+E0323 20:47:50.724828 3276099 ic_gvins.cc:182] Append extra IMU data at 545898.185074
+E0323 20:47:50.724866 3276099 ic_gvins.cc:182] Append extra IMU data at 545898.190074
+E0323 20:47:50.859275 3276099 ic_gvins.cc:172] Lost IMU data with at 545898.325 dt 0.010
+E0323 20:47:50.859413 3276099 ic_gvins.cc:182] Append extra IMU data at 545898.320086
+E0323 20:47:51.650360 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:51.667284 3276147 ic_gvins.cc:542] Tracking lost at 545899.105282
+E0323 20:47:51.836550 3276099 ic_gvins.cc:172] Lost IMU data with at 545899.305 dt 0.010
+E0323 20:47:51.836683 3276099 ic_gvins.cc:182] Append extra IMU data at 545899.300081
+E0323 20:47:52.420445 3276099 ic_gvins.cc:172] Lost IMU data with at 545899.888 dt 0.008
+E0323 20:47:52.420576 3276099 ic_gvins.cc:182] Append extra IMU data at 545899.885085
+E0323 20:47:53.051990 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:53.077149 3276147 ic_gvins.cc:542] Tracking lost at 545900.505434
+E0323 20:47:53.659085 3276099 ic_gvins.cc:172] Lost IMU data with at 545901.127 dt 0.016
+E0323 20:47:53.659261 3276099 ic_gvins.cc:182] Append extra IMU data at 545901.115070
+E0323 20:47:53.659287 3276099 ic_gvins.cc:182] Append extra IMU data at 545901.120070
+E0323 20:47:53.688956 3276099 ic_gvins.cc:172] Lost IMU data with at 545901.157 dt 0.010
+E0323 20:47:53.689092 3276099 ic_gvins.cc:182] Append extra IMU data at 545901.151736
+E0323 20:47:53.915611 3276099 ic_gvins.cc:172] Lost IMU data with at 545901.383 dt 0.012
+E0323 20:47:53.915732 3276099 ic_gvins.cc:182] Append extra IMU data at 545901.376722
+E0323 20:47:53.988759 3276099 ic_gvins.cc:172] Lost IMU data with at 545901.457 dt 0.010
+E0323 20:47:53.988911 3276099 ic_gvins.cc:182] Append extra IMU data at 545901.451732
+E0323 20:47:54.648545 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:54.670542 3276147 ic_gvins.cc:542] Tracking lost at 545902.105542
+E0323 20:47:55.076077 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:47:55.092744 3276147 ic_gvins.cc:542] Tracking lost at 545902.538910
+E0323 20:47:56.209671 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:47:56.226415 3276147 ic_gvins.cc:542] Tracking lost at 545903.672295
+E0323 20:47:56.523065 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:56.541029 3276147 ic_gvins.cc:542] Tracking lost at 545903.972310
+E0323 20:47:56.696750 3276099 ic_gvins.cc:172] Lost IMU data with at 545904.165 dt 0.013
+E0323 20:47:56.696898 3276099 ic_gvins.cc:182] Append extra IMU data at 545904.156732
+E0323 20:47:56.696923 3276099 ic_gvins.cc:182] Append extra IMU data at 545904.161732
+E0323 20:47:56.861474 3276099 ic_gvins.cc:172] Lost IMU data with at 545904.326 dt 0.009
+E0323 20:47:56.861635 3276099 ic_gvins.cc:182] Append extra IMU data at 545904.321720
+E0323 20:47:56.995082 3276099 ic_gvins.cc:172] Lost IMU data with at 545904.463 dt 0.011
+E0323 20:47:56.995229 3276099 ic_gvins.cc:182] Append extra IMU data at 545904.456743
+E0323 20:47:57.465369 3276099 ic_gvins.cc:172] Lost IMU data with at 545904.932 dt 0.010
+E0323 20:47:57.465526 3276099 ic_gvins.cc:182] Append extra IMU data at 545904.926715
+E0323 20:47:57.676846 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:47:57.692754 3276147 ic_gvins.cc:542] Tracking lost at 545905.139051
+E0323 20:47:58.164577 3276099 ic_gvins.cc:172] Lost IMU data with at 545905.631 dt 0.010
+E0323 20:47:58.164705 3276099 ic_gvins.cc:182] Append extra IMU data at 545905.626738
+E0323 20:47:58.346750 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:47:59.029357 3276099 ic_gvins.cc:172] Lost IMU data with at 545906.494 dt 0.012
+E0323 20:47:59.029515 3276099 ic_gvins.cc:182] Append extra IMU data at 545906.486721
+E0323 20:47:59.198516 3276099 ic_gvins.cc:172] Lost IMU data with at 545906.665 dt 0.013
+E0323 20:47:59.198940 3276099 ic_gvins.cc:182] Append extra IMU data at 545906.656756
+E0323 20:47:59.198995 3276099 ic_gvins.cc:182] Append extra IMU data at 545906.661756
+E0323 20:47:59.670877 3276099 ic_gvins.cc:172] Lost IMU data with at 545907.134 dt 0.008
+E0323 20:47:59.671030 3276099 ic_gvins.cc:182] Append extra IMU data at 545907.131719
+E0323 20:47:59.810218 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:47:59.825712 3276147 ic_gvins.cc:542] Tracking lost at 545907.272541
+E0323 20:48:00.382300 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:48:00.397697 3276147 ic_gvins.cc:542] Tracking lost at 545907.839246
+E0323 20:48:00.741115 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:48:00.759491 3276147 ic_gvins.cc:542] Tracking lost at 545908.205940
+E0323 20:48:00.803751 3276099 ic_gvins.cc:172] Lost IMU data with at 545908.270 dt 0.008
+E0323 20:48:00.803910 3276099 ic_gvins.cc:182] Append extra IMU data at 545908.266744
+E0323 20:48:01.299273 3276099 ic_gvins.cc:172] Lost IMU data with at 545908.767 dt 0.010
+E0323 20:48:01.299435 3276099 ic_gvins.cc:182] Append extra IMU data at 545908.761750
+E0323 20:48:01.981928 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:48:01.996683 3276147 ic_gvins.cc:542] Tracking lost at 545909.439343
+E0323 20:48:02.712790 3276099 ic_gvins.cc:172] Lost IMU data with at 545910.181 dt 0.009
+E0323 20:48:02.712884 3276099 ic_gvins.cc:182] Append extra IMU data at 545910.176729
+E0323 20:48:03.274950 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:48:03.291142 3276147 ic_gvins.cc:542] Tracking lost at 545910.739433
+E0323 20:48:03.712056 3276099 ic_gvins.cc:172] Lost IMU data with at 545911.180 dt 0.008
+E0323 20:48:03.712194 3276099 ic_gvins.cc:182] Append extra IMU data at 545911.177233
+E0323 20:48:03.733095 3276099 ic_gvins.cc:172] Lost IMU data with at 545911.201 dt 0.014
+E0323 20:48:03.733960 3276099 ic_gvins.cc:182] Append extra IMU data at 545911.191751
+E0323 20:48:03.734066 3276099 ic_gvins.cc:182] Append extra IMU data at 545911.196751
+E0323 20:48:04.399600 3276099 ic_gvins.cc:172] Lost IMU data with at 545911.867 dt 0.011
+E0323 20:48:04.399748 3276099 ic_gvins.cc:182] Append extra IMU data at 545911.861710
+E0323 20:48:04.501092 3276099 ic_gvins.cc:172] Lost IMU data with at 545911.966 dt 0.009
+E0323 20:48:04.501251 3276099 ic_gvins.cc:182] Append extra IMU data at 545911.961729
+E0323 20:48:04.911487 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:48:04.933315 3276147 ic_gvins.cc:542] Tracking lost at 545912.372977
+E0323 20:48:05.916229 3276147 tracking.cc:411] Track previous with mappoint failed
+E0323 20:48:06.875352 3276147 tracking.cc:373] No feature with mappoint in previous frame
+E0323 20:48:06.894949 3276147 ic_gvins.cc:542] Tracking lost at 545914.339885
+E0323 20:48:06.898666 3276099 ic_gvins.cc:172] Lost IMU data with at 545914.366 dt 0.009
+E0323 20:48:06.898859 3276099 ic_gvins.cc:182] Append extra IMU data at 545914.361725
+E0323 20:48:07.531023 3276099 ic_gvins.cc:172] Lost IMU data with at 545914.997 dt 0.010
+E0323 20:48:07.531183 3276099 ic_gvins.cc:182] Append extra IMU data at 545914.991730
+E0323 20:48:07.724853 3276099 ic_gvins.cc:172] Lost IMU data with at 545915.193 dt 0.011
+E0323 20:48:07.725176 3276099 ic_gvins.cc:182] Append extra IMU data at 545915.186728
+E0323 20:48:07.733546 3276099 ic_gvins.cc:172] Lost IMU data with at 545915.201 dt 0.008
+E0323 20:48:07.733711 3276099 ic_gvins.cc:182] Append extra IMU data at 545915.197762
+E0323 20:48:07.929320 3276099 ic_gvins.cc:172] Lost IMU data with at 545915.396 dt 0.010
+E0323 20:48:07.929512 3276099 ic_gvins.cc:182] Append extra IMU data at 545915.391881
+E0323 20:48:08.262707 3276099 ic_gvins.cc:172] Lost IMU data with at 545915.729 dt 0.012
+E0323 20:48:08.262869 3276099 ic_gvins.cc:182] Append extra IMU data at 545915.721726
+E0323 20:48:08.394299 3276099 ic_gvins.cc:172] Lost IMU data with at 545915.861 dt 0.009
+E0323 20:48:08.394477 3276099 ic_gvins.cc:182] Append extra IMU data at 545915.856731
