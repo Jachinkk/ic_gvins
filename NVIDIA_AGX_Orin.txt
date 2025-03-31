@@ -15,12 +15,20 @@ NVIDIA AGX Orin 从零到一
     python3 setup.py install --user
 6、NTP时间同步设置、安装terminal、cutecom、minicom
 7、zed2i SDK https://www.stereolabs.com/en-cn/developers/release
+   ModuleNotFoundError: No module named 'rospkg'：pip install rospkg
+   substitution args not supported:  No module named 'defusedxml'：
+   pip install defusedxml
    Intel Realsense D457 SDK  https://blog.csdn.net/weixin_51612528/article/details/140945640
    报错安装：升级pip：pip install --upgrade pip
    找不到empy：pip install empy  ：empy版本过高：pip install empy==3.3.2
    No module named 'catkin_pkg'：pip install catkin_pkg
    ModuleNotFoundError: No module named 'yaml'：pip install PyYAML
-
+   rs-enumerate-devices -o
 8、ROS1/ROS2 鱼香ros wget http://fishros.com/install -O fishros && . fishros
-9、
+9、配置gvins相关环境
+    一个关键错误，gvins、vins-mono、vins-fusion运行opencv3.4.5，需要修改cv_bridge,否则运行会崩
+    https://blog.csdn.net/qq_36426459/article/details/135919803
+10、配置slam相关环境 https://blog.csdn.net/zardforever123/article/details/125044004?spm=1001.2014.3001.5501
+    安装Pangolin 0.6(稳定版)、OpenCV3.4.5、Eigen3是一个纯头文件的库、
+11、配置无人车相关环境
 
