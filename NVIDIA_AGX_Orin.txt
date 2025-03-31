@@ -1,0 +1,26 @@
+NVIDIA AGX Orin 从零到一
+1、刷机、修改设备树、编译
+2、挂载SSD
+3、安装Jetpack(包含CUDA)
+4、Archiconda 安装步骤https://blog.csdn.net/weixin_43702653/article/details/129249585
+5、安装GPU版torch和torchvision
+    #下载1.12.0版本的torch
+    https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048
+    pip install torch-1.12.0a0+2c916ef.nv22.3-cp38-cp38-linux_aarch64.whl
+    sudo apt-get install libjpeg-dev zlib1g-dev libpython3-dev libavcodec-dev libavformat-dev libswscale-dev 
+    #安装torchvision
+    git clone --branch v0.13.0 https://github.com/pytorch/vision torchvision 
+    cd torchvision
+    export BUILD_VERSION=0.13.0  # where 0.13.0 is the torchvision version  
+    python3 setup.py install --user
+6、NTP时间同步设置、安装terminal、cutecom、minicom
+7、zed2i SDK https://www.stereolabs.com/en-cn/developers/release
+   Intel Realsense D457 SDK  https://blog.csdn.net/weixin_51612528/article/details/140945640
+   报错安装：升级pip：pip install --upgrade pip
+   找不到empy：pip install empy  ：empy版本过高：pip install empy==3.3.2
+   No module named 'catkin_pkg'：pip install catkin_pkg
+   ModuleNotFoundError: No module named 'yaml'：pip install PyYAML
+
+8、ROS1/ROS2 鱼香ros wget http://fishros.com/install -O fishros && . fishros
+9、
+
