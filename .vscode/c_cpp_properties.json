@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/fury/kk/gvins/vins_mono_ws/src/VINS-Mono/camera_model/include/**",
+        "/home/fury/kk/gvins/vins_fusion_ws/src/VINS-Fusion/camera_models/include/**",
+        "/home/fury/kk/gvins/ic_gvins_ws/src/imu_ethernet_receiver/include/**",
+        "/home/fury/kk/gvins/ic_gvins_ws/src/sensor_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

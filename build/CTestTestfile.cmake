@@ -6,3 +6,5 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("IC-GVINS/ic_gvins")
+subdirs("imu_ethernet_receiver")
+subdirs("sensor_driver")

@@ -757,6 +757,9 @@ absl_throw_delegate_LIB_DEPENDS:STATIC=general;absl::raw_logging_internal;
 //Dependencies for the target
 absl_time_LIB_DEPENDS:STATIC=general;absl::base;general;absl::civil_time;general;absl::int128;general;absl::raw_logging_internal;general;absl::strings;general;absl::time_zone;
 
+//The directory containing a CMake configuration file for actionlib_msgs.
+actionlib_msgs_DIR:PATH=/opt/ros/noetic/share/actionlib_msgs/cmake
+
 //The directory containing a CMake configuration file for boost_filesystem.
 boost_filesystem_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/boost_filesystem-1.71.0
 
@@ -786,6 +789,9 @@ gennodejs_DIR:PATH=/opt/ros/noetic/share/gennodejs/cmake
 
 //The directory containing a CMake configuration file for genpy.
 genpy_DIR:PATH=/opt/ros/noetic/share/genpy/cmake
+
+//The directory containing a CMake configuration file for geometry_msgs.
+geometry_msgs_DIR:PATH=/opt/ros/noetic/share/geometry_msgs/cmake
 
 //The directory containing a CMake configuration file for gflags.
 gflags_DIR:PATH=/usr/lib/aarch64-linux-gnu/cmake/gflags
@@ -848,8 +854,14 @@ ic_gvins_SOURCE_DIR:STATIC=/home/fury/kk/gvins/ic_gvins_ws/src/IC-GVINS/ic_gvins
 //Dependencies for the target
 ic_gvins_core_LIB_DEPENDS:STATIC=general;opencv_calib3d;general;opencv_core;general;opencv_dnn;general;opencv_features2d;general;opencv_flann;general;opencv_highgui;general;opencv_imgcodecs;general;opencv_imgproc;general;opencv_ml;general;opencv_objdetect;general;opencv_photo;general;opencv_shape;general;opencv_stitching;general;opencv_superres;general;opencv_video;general;opencv_videoio;general;opencv_videostab;general;opencv_viz;general;/usr/lib/aarch64-linux-gnu/libglog.so;general;yaml-cpp;general;Ceres::ceres;general;Boost::filesystem;general;TBB::tbb;general;absl::strings;general;absl::time;
 
+//Value Computed by CMake
+imu_ethernet_receiver_BINARY_DIR:STATIC=/home/fury/kk/gvins/ic_gvins_ws/build/imu_ethernet_receiver
+
+//Value Computed by CMake
+imu_ethernet_receiver_SOURCE_DIR:STATIC=/home/fury/kk/gvins/ic_gvins_ws/src/imu_ethernet_receiver
+
 //Path to a library.
-lib:FILEPATH=/opt/ros/noetic/lib/libxmlrpcpp.so
+lib:FILEPATH=/opt/ros/noetic/lib/libserial.so
 
 //The directory containing a CMake configuration file for message_generation.
 message_generation_DIR:PATH=/opt/ros/noetic/share/message_generation/cmake
@@ -875,8 +887,26 @@ rosgraph_msgs_DIR:PATH=/opt/ros/noetic/share/rosgraph_msgs/cmake
 //The directory containing a CMake configuration file for rostime.
 rostime_DIR:PATH=/opt/ros/noetic/share/rostime/cmake
 
+//Value Computed by CMake
+sensor_driver_BINARY_DIR:STATIC=/home/fury/kk/gvins/ic_gvins_ws/build/sensor_driver
+
+//Value Computed by CMake
+sensor_driver_SOURCE_DIR:STATIC=/home/fury/kk/gvins/ic_gvins_ws/src/sensor_driver
+
+//The directory containing a CMake configuration file for sensor_msgs.
+sensor_msgs_DIR:PATH=/opt/ros/noetic/share/sensor_msgs/cmake
+
+//The directory containing a CMake configuration file for serial.
+serial_DIR:PATH=/opt/ros/noetic/share/serial/cmake
+
 //The directory containing a CMake configuration file for std_msgs.
 std_msgs_DIR:PATH=/opt/ros/noetic/share/std_msgs/cmake
+
+//The directory containing a CMake configuration file for tf2.
+tf2_DIR:PATH=/opt/ros/noetic/share/tf2/cmake
+
+//The directory containing a CMake configuration file for tf2_msgs.
+tf2_msgs_DIR:PATH=/opt/ros/noetic/share/tf2_msgs/cmake
 
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/noetic/share/xmlrpcpp/cmake
@@ -1056,7 +1086,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=26
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=28
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

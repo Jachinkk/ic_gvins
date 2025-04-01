@@ -1,0 +1,12 @@
+<launch>
+  <!-- 启动 sensor_driver 节点 -->
+  <node 
+    pkg="sensor_driver" 
+    type="sensor_driver_node" 
+    name="sensor_driver_node" 
+    output="screen">
+    <!-- 设置参数 -->
+    <param name="port_name" value="/dev/ttyUSB1"/>
+  </node>
+</launch>
+

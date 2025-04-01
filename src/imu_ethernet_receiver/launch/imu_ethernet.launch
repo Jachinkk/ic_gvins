@@ -1,0 +1,9 @@
+<launch>
+    <!-- 启动 imu_gps_receiver_node -->
+    <node name="imu_gps_receiver_node" pkg="imu_ethernet_receiver" type="imu_gps_receiver_node" output="screen">
+        <!-- 配置 IMU 设备的 IP 地址和端口 -->
+        <param name="imu_ip" value="192.168.0.100"/>
+        <param name="imu_port" value="1258"/>
+    </node>
+</launch>
+

@@ -1,9 +1,0 @@
-Log file created at: 2025/03/31 18:36:09
-Running on machine: fury-desktop
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-I0331 18:36:09.164804 682986 ic_gvins.cc:486] Tracking thread is started
-I0331 18:36:09.174499 682935 fusion_ros.cc:117] Waiting ROS message...
-I0331 18:36:09.181001 682985 ic_gvins.cc:242] Fusion thread is started
-I0331 18:36:09.182126 682987 ic_gvins.cc:399] Optimization thread is started
-W0331 18:37:19.110348 682965 ic_gvins.cc:575] GVINS has finished processing
-W0331 18:37:19.110630 682965 ic_gvins.cc:576] Estimated extrinsics: (0.504498, 0.507801, 0.494410, 0.493132), (0.274, -0.095, -0.104), 0.0000

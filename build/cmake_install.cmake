@@ -132,6 +132,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/fury/kk/gvins/ic_gvins_ws/build/gtest/cmake_install.cmake")
   include("/home/fury/kk/gvins/ic_gvins_ws/build/IC-GVINS/ic_gvins/cmake_install.cmake")
+  include("/home/fury/kk/gvins/ic_gvins_ws/build/imu_ethernet_receiver/cmake_install.cmake")
+  include("/home/fury/kk/gvins/ic_gvins_ws/build/sensor_driver/cmake_install.cmake")
 
 endif()
 

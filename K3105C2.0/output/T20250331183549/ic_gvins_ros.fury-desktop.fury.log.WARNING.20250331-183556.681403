@@ -1,5 +1,0 @@
-Log file created at: 2025/03/31 18:35:56
-Running on machine: fury-desktop
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-W0331 18:35:56.601416 681432 ic_gvins.cc:575] GVINS has finished processing
-W0331 18:35:56.601699 681432 ic_gvins.cc:576] Estimated extrinsics: (0.504498, 0.507801, 0.494410, 0.493132), (0.274, -0.095, -0.104), 0.0000
